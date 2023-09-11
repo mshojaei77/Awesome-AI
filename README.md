@@ -5,15 +5,51 @@
 Welcome to the AI and ChatGPT Resource Repository! This repository aims to provide an all-in-one place for a growing collection of interesting things about AI and ChatGPT. Whether you're looking for resources, tools, examples, demos, hacks, or apps related to AI and specifically ChatGPT technology, this repository has got you covered.
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
-## وبسایت های رسمی
 
-- [ChatGPT | OpenAI](https://openai.com/chatgpt)
-- [Bard | Google ](https://bard.google.com/)
-- [Bing | Microsoft ](https://www.bing.com/?/ai)
-- [Claude 2 | Anthropic ](https://www.anthropic.com/index/claude-2)
-- [Llama 2 | Meta ](https://ai.meta.com/llama/#download-the-model)
-- [Pi - Conversational AI](https://pi.ai/talk)
-- [Stability AI](https://stability.ai/)
+## وبسایت ها
+
+- [ChatGPT | OpenAI](https://openai.com/chatgpt): 😃 OpenAI's conversational AI model that can chat with users.
+- [Bard | Google](https://bard.google.com/): 🎭 Google's language model designed to generate creative content like poetry.
+- [Bing | Microsoft](https://www.bing.com/?/ai): 🔍 Microsoft's internet search engine that incorporates AI technology for improved search results.
+- [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2): 🧠 Anthropic's advanced AI system for understanding and generating human-like text.
+- [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model): 🦙 Meta's conversational AI model, Llama 2, capable of generating text-based responses.
+- [Pi - Conversational AI](https://pi.ai/talk): 🍰 Pi AI's conversational AI platform that enables chat-based interactions.
+- [Stability AI](https://stability.ai/): 🏢 Stability AI specializes in AI-based security and anomaly detection solutions.
+- [Theres an AI for that](https://theresanaiforthat.com/): 🤖 A directory that showcases various AI-powered tools and resources.
+- [Vercel SDK](https://sdk.vercel.ai/): 🚀 Vercel's software development kit (SDK) for building AI-powered applications.
+- [POE Sage](https://poe.com/Sage): 🧙‍♂️ POE's Sage provides advanced language models and natural language processing capabilities.
+- [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg): 🌊 H2O.ai's automated machine learning platform for building AI models without coding.
+- [Perplexity AI](https://www.perplexity.ai/): 🤔 Perplexity AI offers natural language understanding and generation capabilities.
+- [Phind](https://www.phind.com/): 🧭 Phind is an AI-powered search tool that helps users discover information on the web.
+- [Hugging Face Chat](https://huggingface.co/chat/): 🤗 Hugging Face's conversational AI interface for interactive text-based conversations.
+- [OpenRouter AI](https://openrouter.ai/): 🌐 OpenRouter AI provides tools and solutions for network management and optimization using AI.
+- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2): 🦜 Lepton's Playground allows users to interact with their AI model, LLAMA2, and generate text.
+- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat): 👋 You.com's YouChat Search lets users directly interact with AI models for search queries.
+- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark): 🐦 TiiUAE presents a demo of their Falcon 180b AI model, with a dark theme interface.
+- [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru): 🕵️ Agent GPT is an AI model that offers conversational and task-based interactions.
+- [Sea Art AI](https://www.seaart.ai/home): 🌊 Sea Art AI combines AI and art, providing tools for creating unique visual content.
+- [Black Box](https://www.useblackbox.io/search): ⚫ Black Box offers a search engine powered by AI to find information and resources.
+- [OnceTalk](https://oncetalk.com/#/): 🗣️ OnceTalk is an AI chat platform designed to facilitate interactive conversations.
+- [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091): 🖋️ Rytr Me provides an AI-powered writing assistant to help users create content.
+- [ChadGPT on Ora](https://ora.ai/teambots/chadgpt): 🤵 ChadGPT is an AI chatbot available on the Ora platform for text-based conversations.
+- [Ylokh GPT](https://chat.ylokh.xyz/): 🤖 Ylokh GPT is an AI chatbot that can engage in text-based discussions.
+- [Ora AI Explore](https://ora.ai/explore?type=trending): 🚀 Ora AI Explore allows users to explore trending AI models and chat with them.
+- [The B AI](https://chatbot.theb.ai/#/chat/1688388943679): 🐝 The B AI is an AI chatbot that provides information and responds to user queries.
+- [AI Scholar](https://ai-chat.scholarcn.com/): 🎓 AI Scholar offers an AI-powered conversational platform for students and researchers.
+- [Hugging Face](https://huggingface.co/): 🤗 Hugging Face is an AI company that provides various NLP models and tools.
+- [Consensus](https://consensus.app/search/): 👥 Consensus offers a collaborative AI platform for decision making and knowledge sharing.
+- [Komo AI](https://komo.ai/): 📱 Komo AI specializes in AI-powered customer support and chatbot solutions.
+- [CrowdView](https://crowdview.ai/): 👥 CrowdView offers AI solutions for crowd behavior analysis and insights.
+- [Hugging Face Models](https://huggingface.co/models?sort=downloads): 🤗 Hugging Face Models is a repository of pre-trained NLP models for various tasks.
+- [Civitai](https://civitai.com/): 🏛️ Civitai focuses on AI research and development to create innovative solutions.
+- [Happy Accidents](https://www.happyaccidents.ai/create): 🎨 Happy Accidents provides an AI-powered creative platform for generating art and designs.
+- [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark): 🔮 Gravitai offers AI tools and infrastructure for data labeling and model training.
+- [GPT Duck](https://www.gptduck.com/): 🦆 GPT Duck is an AI model that can generate responses and engage in conversation.
+- [Axiom AI](https://axiom.ai/): 🧠 Axiom AI focuses on developing advanced AI models and solutions for various industries.
+- [Tensorplay AI](https://tensorplay.ai/models/28303/run): 🎮 Tensorplay AI offers AI models and tools for game development and interactive experiences.
+- [Godmode](https://godmode.space/): ✨ Godmode provides an AI-based game development platform for creating immersive worlds.
+- [Codepal](https://codepal.ai/): 💻 Codepal is an AI-powered coding assistant that helps developers with code-related tasks.
+- [Chatbot Arena](https://chat.lmsys.org/?arena): 🤖 Chatbot Arenal allows users to interact with an AI chatbot in a social environment.
 ## ربات ها
 ### Telegram Bots
 - [TruthGPT](https://t.me/xtelegpt_bot)
@@ -43,45 +79,6 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - [MidjourneyOriginalBot](https://t.me/MidjourneyOriginalBot)
 - [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
 - [sd_prompt_generator_bot](https://t.me/sd_prompt_generator_bot)
-
-## وبسایت ها
-
-- [Theres an AI for that](https://theresanaiforthat.com/)
-- [Vercel SDK](https://sdk.vercel.ai/)
-- [POE Sage](https://poe.com/Sage)
-- [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg)
-- [Perplexity AI](https://www.perplexity.ai/)
-- [Phind](https://www.phind.com/)
-- [Bard by Google](https://bard.google.com/)
-- [Hugging Face Chat](https://huggingface.co/chat/)
-- [OpenRouter AI](https://openrouter.ai/)
-- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2)
-- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
-- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark)
-- [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru)
-- [Sea Art AI](https://www.seaart.ai/home)
-- [Black Box](https://www.useblackbox.io/search)  
-- [OnceTalk](https://oncetalk.com/#/)
-- [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091)
-- [ChadGPT on Ora](https://ora.ai/teambots/chadgpt)
-- [Ylokh GPT](https://chat.ylokh.xyz/)
-- [Ora AI Explore](https://ora.ai/explore?type=trending)
-- [The B AI](https://chatbot.theb.ai/#/chat/1688388943679)
-- [AI Scholar](https://ai-chat.scholarcn.com/)
-- [Hugging Face](https://huggingface.co/)
-- [Consensus](https://consensus.app/search/)
-- [Komo AI](https://komo.ai/)
-- [CrowdView](https://crowdview.ai/)
-- [Hugging Face Models](https://huggingface.co/models?sort=downloads)  
-- [Civitai](https://civitai.com/)
-- [Happy Accidents](https://www.happyaccidents.ai/create) 
-- [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark)
-- [GPT Duck](https://www.gptduck.com/)
-- [Axiom AI](https://axiom.ai/)
-- [Tensorplay AI](https://tensorplay.ai/models/28303/run)
-- [Godmode](https://godmode.space/)
-- [Codepal](https://codepal.ai/)
-- [ Chatbot Arenal](https://chat.lmsys.org/?arena)
 
 ## نرم افزار ها
 ### Mobile apps
