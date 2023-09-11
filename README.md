@@ -118,7 +118,7 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 
 ## افزونه ها
 ### Chrome (and other chromium base browsers)
-_ 🔖 MaxAI - a popular extension that provides prompts for ChatGPT, Bard AI, and Bing AI[1]
+- 🔖 MaxAI - a popular extension that provides prompts for ChatGPT, Bard AI, and Bing AI[1]
 - 🔖 WebChatGPT - a browser extension that augments your ChatGPT prompts with web results[2]
 - 💬 ChatSonic - an extension that lets you enjoy the convenience of AI-assisted writing across various platforms[6]
 - 💬 TweetGPT - an extension that generates tweets with AI[6]
