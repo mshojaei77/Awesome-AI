@@ -6,11 +6,7 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 ## ربات ها
-### ربات های تلگرام
-Here are the Telegram bot links formatted for a GitHub readme:
-
-## Telegram Bots
-
+### Telegram Bots
 - [TruthGPT](https://t.me/xtelegpt_bot)
 - [Bard AI](https://t.me/bard_kpbot) 
 - [ChatGPT FREE](https://t.me/OPENAl_ChatGPT_bot)
@@ -71,9 +67,14 @@ Here are the Telegram bot links formatted for a GitHub readme:
 - [Tensorplay AI](https://tensorplay.ai/models/28303/run)
 - [Godmode](https://godmode.space/)
 - [Codepal](https://codepal.ai/)
-
-
 ## نرم افزار ها
+### Mobile apps
+### Desktop apps
 ## افزونه ها
+### Chrome (and other chromium base browsers)
+### FireFox 
+### Vs code
+### PyCharm
+### Google Docs
 ## ابزار ها
 ## مخازن گیت هاب
