@@ -53,6 +53,12 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - [Perplexity AI](https://www.perplexity.ai/)
 - [Phind](https://www.phind.com/)
 - [Bard by Google](https://bard.google.com/)
+- https://huggingface.co/chat/
+- https://openrouter.ai/
+- https://dashboard.lepton.ai/playground/llama2
+- https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
+- https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark
+- 
 - [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru)
 - [Sea Art AI](https://www.seaart.ai/home)
 - [Black Box](https://www.useblackbox.io/search)  
@@ -95,10 +101,20 @@ Wisdom Ai
 Write For Me
 Wiz AI Chat Bot Writing Helper
 Frank: The AI Chat Assistant
+Famed.Chat
 
-### Desktop apps
+### Desktop apps 
+Microsoft Edge
+
+[GodMode](https://github.com/smol-ai/GodMode)
+
+
+
+
 ## افزونه ها
 ### Chrome (and other chromium base browsers)
+MaxAI.me: Use ChatGPT AI Anywhere Online
+
 ### FireFox 
 ### Vs code
 ### PyCharm
