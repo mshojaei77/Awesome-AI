@@ -5,6 +5,15 @@
 Welcome to the AI and ChatGPT Resource Repository! This repository aims to provide an all-in-one place for a growing collection of interesting things about AI and ChatGPT. Whether you're looking for resources, tools, examples, demos, hacks, or apps related to AI and specifically ChatGPT technology, this repository has got you covered.
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
+## وبسایت های رسمی
+
+- [ChatGPT | OpenAI](https://openai.com/chatgpt)
+- [Bard | Google ](https://bard.google.com/)
+- [Bing | Microsoft ](https://www.bing.com/?/ai)
+- [Claude 2 | Anthropic ](https://www.anthropic.com/index/claude-2)
+- [Llama 2 | Meta ](https://ai.meta.com/llama/#download-the-model)
+- [Pi - Conversational AI](https://pi.ai/talk)
+- [Stability AI](https://stability.ai/)
 ## ربات ها
 ### Telegram Bots
 - [TruthGPT](https://t.me/xtelegpt_bot)
@@ -15,7 +24,7 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - [Search Bot](https://t.me/ribot)
 - [Cohere Ai](https://t.me/askprobot)  
 - [BuddyGPT](https://t.me/BuddyGPTBot)
-- [🦙 Telellama](https://t.me/telellamabot)
+- [Telellama](https://t.me/telellamabot)
 - [GPT + Midjourney](https://t.me/chatsgpts_bot)
 - [RoboAceBot](https://t.me/RoboAceBot)
 - [TheB_AI_4Bot](https://t.me/TheB_AI_4Bot)
@@ -67,8 +76,26 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - [Tensorplay AI](https://tensorplay.ai/models/28303/run)
 - [Godmode](https://godmode.space/)
 - [Codepal](https://codepal.ai/)
+- [ Chatbot Arenal](https://chat.lmsys.org/?arena)
+
 ## نرم افزار ها
 ### Mobile apps
+Poe
+Perplexity AI
+Bing: Chat with AI & GPT-4
+AI Chat Master
+Chatbot Pro
+Frank AI
+ChatSonic
+Jasper Chat
+AI4Chat
+ChatGod 
+Aico AI Chat 
+Wisdom Ai 
+Write For Me
+Wiz AI Chat Bot Writing Helper
+Frank: The AI Chat Assistant
+
 ### Desktop apps
 ## افزونه ها
 ### Chrome (and other chromium base browsers)
