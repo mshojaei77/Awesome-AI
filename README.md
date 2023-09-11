@@ -86,28 +86,28 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 ## نرم افزار ها
 ### Mobile apps
 
-Poe
-Perplexity AI
-Bing: Chat with AI & GPT-4
-AI Chat Master
-Chatbot Pro
-Frank AI
-ChatSonic
-Jasper Chat
-AI4Chat
-ChatGod 
-Aico AI Chat 
-Wisdom Ai 
-Write For Me
-Wiz AI Chat Bot Writing Helper
-Frank: The AI Chat Assistant
-Famed.Chat
+📱 Poe
+🧠 Perplexity AI
+💬 Bing: Chat with AI & GPT-4
+🤖 AI Chat Master
+🤖 Chatbot Pro
+🧠 Frank AI
+💬 ChatSonic
+💬 Jasper Chat
+🤖 AI4Chat
+💬 ChatGod 
+💬 Aico AI Chat 
+🧠 Wisdom Ai 
+✍️ Write For Me
+🧠 Wiz AI Chat Bot Writing Helper
+🧠 Frank: The AI Chat Assistant
+💬 Famed.Chat
 
 ### Desktop apps 
-Microsoft Edge
-Skype
-Botpress
-neuralspace
+💻 Microsoft Edge
+💻 Skype
+💬 Botpress
+💬 neuralspace
 [GodMode](https://github.com/smol-ai/GodMode)
 [ChatGPT](https://github.com/lencx/ChatGPT)
 [BingGPT](https://sourceforge.net/projects/binggpt.mirror/)
@@ -118,65 +118,65 @@ neuralspace
 
 ## افزونه ها
 ### Chrome (and other chromium base browsers)
-MaxAI - a popular extension that provides prompts for ChatGPT, Bard AI, and Bing AI[1]
-WebChatGPT - a browser extension that augments your ChatGPT prompts with web results[2]
-ChatSonic - an extension that lets you enjoy the convenience of AI-assisted writing across various platforms[6]
-TweetGPT - an extension that generates tweets with AI[6]
-ReaderGPT - an extension that summarizes articles and web pages[6]
-Merlin - an extension that provides access to recent information[6]
-ChatGPT Prompt Genius - an extension that helps you write better prompts to get improved responses[6]
-Talk-to-ChatGPT - an extension that allows you to talk to ChatGPT using voice commands[6]
-ShareGPT - an extension that generates social media posts with AI[6]
-FancyGPT - an extension that generates text with AI[6]
-Perplexity - AI Companion
-Monica - Your AI Copilot powered by GPT-4
-Bing Chat (GPT-4) in Google
-Bard for search engines
-ChatGPT For Google - allows you to use ChatGPT alongside Google search[1]
-Engage AI ChatGPT - helps you write insightful AI-powered comments[2]
-WebChatGPT - provides access to the latest information on the internet[3]
-ChatSonic - lets you enjoy the convenience of AI-assisted writing across various platforms[4]
-Compose AI - helps you write better emails and messages with AI[5]
-TweetGPT - generates tweets with AI[6]
-ReaderGPT - summarizes articles and web pages[6]
-Merlin - provides access to recent information[1]
-Summarize - summarizes text[6]
-ChatGPT Prompt Genius - helps you write better prompts to get improved responses[6]
-Talk-to-ChatGPT - allows you to talk to ChatGPT using voice commands[6]
-ShareGPT - generates social media posts with AI[6]
-FancyGPT - generates text with AI[6]
-GPT-EZ - generates text with AI[1]
-SnackPrompt - helps you write better prompts to get improved responses[1]
+🔖 MaxAI - a popular extension that provides prompts for ChatGPT, Bard AI, and Bing AI[1]
+🔖 WebChatGPT - a browser extension that augments your ChatGPT prompts with web results[2]
+💬 ChatSonic - an extension that lets you enjoy the convenience of AI-assisted writing across various platforms[6]
+💬 TweetGPT - an extension that generates tweets with AI[6]
+💬 ReaderGPT - an extension that summarizes articles and web pages[6]
+💬 Merlin - an extension that provides access to recent information[6]
+📝 ChatGPT Prompt Genius - an extension that helps you write better prompts to get improved responses[6]
+🎙️ Talk-to-ChatGPT - an extension that allows you to talk to ChatGPT using voice commands[6]
+📱 ShareGPT - an extension that generates social media posts with AI[6]
+✒️ FancyGPT - an extension that generates text with AI[6]
+🧠 Perplexity - AI Companion
+🚁 Monica - Your AI Copilot powered by GPT-4
+🔖 Bing Chat (GPT-4) in Google
+⚔️ Bard for search engines
+🔖 ChatGPT For Google - allows you to use ChatGPT alongside Google search[1]
+🔖 Engage AI ChatGPT - helps you write insightful AI-powered comments[2]
+🔖 WebChatGPT - provides access to the latest information on the internet[3]
+💬 ChatSonic - lets you enjoy the convenience of AI-assisted writing across various platforms[4]
+💌 Compose AI - helps you write better emails and messages with AI[5]
+💬 TweetGPT - generates tweets with AI[6]
+💬 ReaderGPT - summarizes articles and web pages[6]
+💬 Merlin - provides access to recent information[1]
+📝 Summarize - summarizes text[6]
+🎙️ ChatGPT Prompt Genius - helps you write better prompts to get improved responses[6]
+🎙️ Talk-to-ChatGPT - allows you to talk to ChatGPT using voice commands[6]
+📱 ShareGPT - generates social media posts with AI[6]
+✒️ FancyGPT - generates text with AI[6]
+✒️ GPT-EZ - generates text with AI[1]
+📝 SnackPrompt - helps you write better prompts to get improved responses[1]
 ### FireFox 
-WebChatGPT - a browser extension that augments your ChatGPT prompts with web results[1]
-AI Anywhere for ChatGPT - adds context menu, keyboard shortcuts, history, and more[5]
-Search Engine 2.0 - combines the power of OpenAI and Midjourney with Google search to bring you an unparalleled search experience[4]
-ChatGPT for Search Engines - provides access to ChatGPT for any search query[3]
+🔖 WebChatGPT - a browser extension that augments your ChatGPT prompts with web results[1]
+💬 AI Anywhere for ChatGPT - adds context menu, keyboard shortcuts, history, and more[5]
+🔎 Search Engine 2.0 - combines the power of OpenAI and Midjourney with Google search to bring you an unparalleled search experience[4]
+🔖 ChatGPT for Search Engines - provides access to ChatGPT for any search query[3]
 ### Vs code
 Based on the search results, here are some of the best AI-powered extensions for Visual Studio Code (VS Code):
-Tabnine - a popular extension that provides AI-powered short code completion for VS Code Intellisense[1][6]
-GitHub Copilot - an AI pair programmer tool that helps you write code faster and smarter[2][3][5]
-IntelliCode - an extension built into Microsoft's flagship IDE, Visual Studio, that provides AI-assisted code completion[5]
-Code Llama - an AI-powered extension that helps you write better code by suggesting code snippets based on your coding patterns
-TogetherAI / Replicate - an extension that utilizes the Continue VS Code Extension to provide AI-powered code completion
-Code Attendant - an extension that uses AI to suggest code snippets based on your coding patterns[1]
-OverflowAI - a new VS Code extension from Stack Overflow that uses generative AI to help developers write better code
-AIXcoder - an extension that provides AI-powered code completion and suggestions[1]
-Bito AI - an AI assistant tool with a diverse use case, including generating code, asking for syntax, generating test cases, and more[6]
-Readable - an extension that uses AI to suggest more readable code[1]
-Ponicode - an extension that uses AI to generate unit tests for your code[1]
+🔖 Tabnine - a popular extension that provides AI-powered short code completion for VS Code Intellisense[1][6]
+🤝 GitHub Copilot - an AI pair programmer tool that helps you write code faster and smarter[2][3][5]
+💡 IntelliCode - an extension built into Microsoft's flagship IDE, Visual Studio, that provides AI-assisted code completion[5]
+🦙 Code Llama - an AI-powered extension that helps you write better code by suggesting code snippets based on your coding patterns
+🤝 TogetherAI / Replicate - an extension that utilizes the Continue VS Code Extension to provide AI-powered code completion
+🚶 Code Attendant - an extension that uses AI to suggest code snippets based on your coding patterns[1]
+📚 OverflowAI - a new VS Code extension from Stack Overflow that uses generative AI to help developers write better code
+🤖 AIXcoder - an extension that provides AI-powered code completion and suggestions[1]
+🤖 Bito AI - an AI assistant tool with a diverse use case, including generating code, asking for syntax, generating test cases, and more[6]
+📖 Readable - an extension that uses AI to suggest more readable code[1]
+🧪 Ponicode - an extension that uses AI to generate unit tests for your code[1]
 ### JetBrains IDEs
-Tabnine - an AI-powered extension that provides smart code completion and suggestions[1][4][5]
-Kite - an AI-powered extension that provides code completion, documentation, and error checking[1][5]
-Codeium - an AI-powered extension that provides code completion and suggestions[1]
-AskCodi - an AI-powered extension that provides code completion and suggestions[1]
-JetBrains Datalore - an AI-powered extension that provides code completion and suggestions[1]
-CodeAssist - an AI-powered extension that provides code completion and suggestions[1]
-AIXcoder - an AI-powered extension that provides code completion and suggestions[1][2]
-AI Coding Assistant - an AI-powered extension that provides code completion and suggestions[6]
+🔖 Tabnine - an AI-powered extension that provides smart code completion and suggestions[1][4][5]
+🔖 Kite - an AI-powered extension that provides code completion, documentation, and error checking[1][5]
+💡 Codeium - an AI-powered extension that provides code completion and suggestions[1]
+💡 AskCodi - an AI-powered extension that provides code completion and suggestions[1]
+🦙 JetBrains Datalore - an AI-powered extension that provides code completion and suggestions[1]
+💡 CodeAssist - an AI-powered extension that provides code completion and suggestions[1]
+🤖 AIXcoder - an AI-powered extension that provides code completion and suggestions[1][2]
+💡 AI Coding Assistant - an AI-powered extension that provides code completion and suggestions[6]
 ## پروژه های گیت هاب برای توسعه دهندگان
 
-https://github.com/tcz/rotary-gpt
-https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities
-https://github.com/sonnylazuardi/chat-ai-desktop
-https://github.com/cedrickchee/chatgpt-universe/tree/main
+[rotary-gpt](https://github.com/tcz/rotary-gpt)
+[stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities)
+[chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop)
+[chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe/tree/main)
