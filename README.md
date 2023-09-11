@@ -141,10 +141,10 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - 📝 [SnackPrompt]() - helps you write better prompts to get improved responses
   
 ### FireFox 
-- 🔖 WebChatGPT - a browser extension that augments your ChatGPT prompts with web results
-- 💬 AI Anywhere for ChatGPT - adds context menu, keyboard shortcuts, history, and more
-- 🔎 Search Engine 2.0 - combines the power of OpenAI and Midjourney with Google search to bring you an unparalleled search experience
-- 🔖 ChatGPT for Search Engines - provides access to ChatGPT for any search query
+- 🔖 [WebChatGPT](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) - a browser extension that augments your ChatGPT prompts with web results
+- 💬 [AI Anywhere for ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/ai_anywhere/) - adds context menu, keyboard shortcuts, history, and more
+- 🔎 [Search Engine 2.0](https://addons.mozilla.org/en-US/firefox/addon/search-engine-pro/) - combines the power of OpenAI and Midjourney with Google search to bring you an unparalleled search experience
+- 🔖 [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) - provides access to ChatGPT for any search query
 ### Vs code
 _ 🔖 Tabnine - a popular extension that provides AI-powered short code completion for VS Code Intellisense
 - 🤝 GitHub Copilot - an AI pair programmer tool that helps you write code faster and smarter
