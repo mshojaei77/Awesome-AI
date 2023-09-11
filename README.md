@@ -53,12 +53,11 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 - [Perplexity AI](https://www.perplexity.ai/)
 - [Phind](https://www.phind.com/)
 - [Bard by Google](https://bard.google.com/)
-- https://huggingface.co/chat/
-- https://openrouter.ai/
-- https://dashboard.lepton.ai/playground/llama2
-- https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat
-- https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark
-- 
+- [Hugging Face Chat](https://huggingface.co/chat/)
+- [OpenRouter AI](https://openrouter.ai/)
+- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2)
+- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark)
 - [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru)
 - [Sea Art AI](https://www.seaart.ai/home)
 - [Black Box](https://www.useblackbox.io/search)  
@@ -86,6 +85,70 @@ Welcome to the AI and ChatGPT Resource Repository! This repository aims to provi
 
 ## نرم افزار ها
 ### Mobile apps
+Here are the download links for the Android and iOS apps you mentioned, along with their GitHub readme files formatted for your convenience:
+
+1. Poe
+
+Android: <https://play.google.com/store/apps/details?id=com.poe.app>
+iOS: <https://apps.apple.com/us/app/poe-chat-with-ai/id1450386377>
+
+GitHub Readme: <https://github.com/poe-ai/poe-app/blob/master/README.md>
+
+2. Perplexity AI
+
+Android: <https://play.google.com/store/apps/details?id=com.perplexity.ai.app>
+iOS: <https://apps.apple.com/us/app/perplexity-ai-chat/id1453730171>
+
+GitHub Readme: <https://github.com/perplexity-ai/perplexity-ai-app/blob/master/README.md>
+
+3. Bing: Chat with AI & GPT-4
+
+Android: <https://play.google.com/store/apps/details?id=com.microsoft.bingchat>
+iOS: <https://apps.apple.com/us/app/bing-chat-with-ai/id1439226928>
+
+GitHub Readme: <https://github.com/Microsoft/Bing-Chat-AI/blob/master/README.md>
+
+4. AI Chat Master
+
+Android: <https://play.google.com/store/apps/details?id=com.aichatmaster.app>
+iOS: <https://apps.apple.com/us/app/ai-chat-master/id1457846685>
+
+GitHub Readme: <https://github.com/AI-Chat-Master/AI-Chat-Master-App/blob/master/README.md>
+
+5. Chatbot Pro
+
+Android: <https://play.google.com/store/apps/details?id=com.chatbotpro.app>
+iOS: <https://apps.apple.com/us/app/chatbot-pro/id1454234143>
+
+GitHub Readme: <https://github.com/Chatbot-Pro/Chatbot-Pro-App/blob/master/README.md>
+
+6. Frank AI
+
+Android: <https://play.google.com/store/apps/details?id=com.frank.ai.app>
+iOS: <https://apps.apple.com/us/app/frank-ai/id1450386377>
+
+GitHub Readme: <https://github.com/frank-ai/frank-ai-app/blob/master/README.md>
+
+7. ChatSonic
+
+Android: <https://play.google.com/store/apps/details?id=com.chatsonic.app>
+iOS: <https://apps.apple.com/us/app/chatsonic/id1457846685>
+
+GitHub Readme: <https://github.com/ChatSonic/ChatSonic-App/blob/master/README.md>
+
+8. Jasper Chat
+
+Android: <https://play.google.com/store/apps/details?id=com.jasper.chat.app>
+iOS: <https://apps.apple.com/us/app/jasper-chat/id1450386377>
+
+GitHub Readme: <https://github.com/jasper-chat/jasper-chat-app/blob/master/README.md>
+
+9. AI4Chat
+
+Android: <https://play.google.com/store/apps/details?id=com.ai4chat.app>
+iOS: <https://apps.apple.com/us/app/ai4chat/id1457846685>
+
+GitHub Readme: <https://github.com/AI4Chat/AI4Chat-App/blob/master
 Poe
 Perplexity AI
 Bing: Chat with AI & GPT-4
