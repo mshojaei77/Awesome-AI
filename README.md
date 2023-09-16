@@ -10,12 +10,12 @@ Here is a table of AI chatbot websites:
 
 | Website | Description | Requirements |
 | --- | --- | --- |
-| [ChatGPT | OpenAI](https://openai.com/chatgpt) | Chatbot from OpenAI | Phone number for registration |
-| [Bard | Google](https://bard.google.com/) | Chatbot from Google powered by PaLM 2 | Proxy |
-| [Bing | Microsoft](https://www.bing.com/?/ai) | AI from Microsoft | Bing app or Edge browser |
-| [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Phone number |
-| [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model) | AI from Meta (Facebook) | Open source |
-| [Pi - Conversational AI](https://pi.ai/talk) | Conversational AI | None |
+| [ChatGPT](https://openai.com/chatgpt) | Chatbot from OpenAI | Phone number for registration |
+| [Bard ](https://bard.google.com/) | Chatbot from Google powered by PaLM 2 | Proxy |
+| [Bing ](https://www.bing.com/?/ai) | AI from Microsoft | Bing app or Edge browser |
+| [Claude 2 ](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Phone number |
+| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | AI from Meta (Facebook) | Open source |
+| [Pi](https://pi.ai/talk) | Conversational AI | None |
 | [Stability AI](https://stability.ai/) | AI for customer service | None |
 | [Phind](https://www.phind.com/) | AI chatbot with web access and programming assistant | None |
 | [Hugging Face Chat](https://huggingface.co/chat/) | Open source AI from Hugging Face | None |
