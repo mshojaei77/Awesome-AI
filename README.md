@@ -1,32 +1,48 @@
-# AI and ChatGPT Resource Repository
-# مخزن منابع هوش مصنوعی و ChatGPT
-به مخزن منابع AI و ChatGPT خوش آمدید! هدف این مخزن ارائه یک مکان همه کاره برای مجموعه ای رو به رشد از چیزهای جالب در مورد هوش مصنوعی و ChatGPT است. چه به دنبال منابع، ابزارها، نمونه ها، دموها، هک ها یا برنامه های مرتبط با هوش مصنوعی و به طور خاص فناوری ChatGPT باشید، این مخزن شما را تحت پوشش قرار داده است.
-
-Welcome to the AI and ChatGPT Resource Repository! This repository aims to provide an all-in-one place for a growing collection of interesting things about AI and ChatGPT. Whether you're looking for resources, tools, examples, demos, hacks, or apps related to AI and specifically ChatGPT technology, this repository has got you covered.
+# AI Resource Repository
+# مخزن منابع هوش مصنوعی
+به مخزن منابع AI خوش آمدید! هدف این مخزن ارائه یک مکان همه کاره برای مجموعه ای رو به رشد از چیزهای جالب در مورد هوش مصنوعی و ChatGPT است. چه به دنبال منابع، ابزارها، نمونه ها، دموها، هک ها یا برنامه های مرتبط با هوش مصنوعی و به طور خاص فناوری ChatGPT باشید، این مخزن شما را تحت پوشش قرار داده است.
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 ## وبسایت ها
-
-- [ChatGPT | OpenAI](https://openai.com/chatgpt): 😃 OpenAI's conversational AI model that can chat with users.
-- [Bard | Google](https://bard.google.com/): 🎭 Google's language model designed to generate creative content like poetry.
-- [Bing | Microsoft](https://www.bing.com/?/ai): 🔍 Microsoft's internet search engine that incorporates AI technology for improved search results.
-- [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2): 🧠 Anthropic's advanced AI system for understanding and generating human-like text.
-- [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model): 🦙 Meta's conversational AI model, Llama 2, capable of generating text-based responses.
-- [Pi - Conversational AI](https://pi.ai/talk): 🍰 Pi AI's conversational AI platform that enables chat-based interactions.
-- [Stability AI](https://stability.ai/): 🏢 Stability AI specializes in AI-based security and anomaly detection solutions.
-- [Theres an AI for that](https://theresanaiforthat.com/): 🤖 A directory that showcases various AI-powered tools and resources.
-- [Vercel SDK](https://sdk.vercel.ai/): 🚀 Vercel's software development kit (SDK) for building AI-powered applications.
-- [POE Sage](https://poe.com/Sage): 🧙‍♂️ POE's Sage provides advanced language models and natural language processing capabilities.
-- [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg): 🌊 H2O.ai's automated machine learning platform for building AI models without coding.
-- [Perplexity AI](https://www.perplexity.ai/): 🤔 Perplexity AI offers natural language understanding and generation capabilities.
-- [Phind](https://www.phind.com/): 🧭 Phind is an AI-powered search tool that helps users discover information on the web.
-- [Hugging Face Chat](https://huggingface.co/chat/): 🤗 Hugging Face's conversational AI interface for interactive text-based conversations.
-- [OpenRouter AI](https://openrouter.ai/): 🌐 OpenRouter AI provides tools and solutions for network management and optimization using AI.
-- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2): 🦜 Lepton's Playground allows users to interact with their AI model, LLAMA2, and generate text.
-- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat): 👋 You.com's YouChat Search lets users directly interact with AI models for search queries.
-- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark): 🐦 TiiUAE presents a demo of their Falcon 180b AI model, with a dark theme interface.
-- [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru): 🕵️ Agent GPT is an AI model that offers conversational and task-based interactions.
+- وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام):
+- [ChatGPT | OpenAI](https://openai.com/chatgpt)
+- وبسایت هوش مصنوعی بارد bard از شرکت گوگل (نیاز به proxy):
+- [Bard | Google](https://bard.google.com/)
+- هوش مصنوعی bing از شرکت مایکروسافت (نیاز به اپ bing یا مرورگر edge )
+- [Bing | Microsoft](https://www.bing.com/?/ai)
+- هوش مصنوعی Claude 2 از شرکت آنتروپیک (نیاز به شماره مجازی)
+- [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2)
+- هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس)
+- [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model)
+- هوش مصنوعی مکالمه ای Pi
+- [Pi - Conversational AI](https://pi.ai/talk)
+- هوش مصنوعی Stability Ai
+- [Stability AI](https://stability.ai/)
+- موتور جستجوی ابزار ها و منابع هوش مصنوعی برای جستجو ابزار های مورد نیازتان
+- [Theres an AI for that](https://theresanaiforthat.com/)
+- پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
+- [Vercel SDK](https://sdk.vercel.ai/)
+- بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی 
+- [POE Sage](https://poe.com/Sage)
+- مقایسه پاسخ مدل های مختلف هوش مصنوعی
+- [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg)
+- دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب
+- [Perplexity AI](https://www.perplexity.ai/)
+- دسترس رایگان به چت‌جی‌پی‌تی و GPT-4 به همراه اتصال به وب و همچنین دستیار برنامه نویسی
+- [Phind](https://www.phind.com/)
+- هوش مصنوعی اوپن سورس hugging face
+- [Hugging Face Chat](https://huggingface.co/chat/)
+- جستجوی و کاوش در مدل های جالب هوش مصنوعی
+- [OpenRouter AI](https://openrouter.ai/)
+- دسترسی آسان به هوش مقنوعی لاما 2
+- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2)
+- موتور جستجوی بهینه شده با هوش مصنوعی
+- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+- هوش مصنوعی Falcon 180b تمرین شده با حجم بسیار عظیمی از اطلاعات
+- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark)
+- استفاده از Auto-GPT (ابزاری برای انجام دادن خودکار task ها با نوشتن خودکار دستوربرتی چت‌جی‌پی‌تی)
+- [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru)
 - [Sea Art AI](https://www.seaart.ai/home): 🌊 Sea Art AI combines AI and art, providing tools for creating unique visual content.
 - [Black Box](https://www.useblackbox.io/search): ⚫ Black Box offers a search engine powered by AI to find information and resources.
 - [OnceTalk](https://oncetalk.com/#/): 🗣️ OnceTalk is an AI chat platform designed to facilitate interactive conversations.
