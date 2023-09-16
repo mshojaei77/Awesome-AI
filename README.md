@@ -15,6 +15,11 @@
 | [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس) | llama-2 |
 | [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی تمرین شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
 | [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 |
+| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  |  |
+| [Perplexity AI](https://www.perplexity.ai/) | دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب | | 
+| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
+| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی |  |
+| [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | |
 | [Stability AI](https://stability.ai/) | AI for customer service | Not specified |
 | [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | GPT-4 |
 | [Hugging Face Chat](https://huggingface.co/chat/) | هوش مصنوعی اوپن سورس | Not specified |
@@ -29,8 +34,8 @@
 | [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  | Not specified |
 | [ChadGPT on Ora](https://ora.ai/teambots/chadgpt) | Free access to ChatGPT on Ora | Not specified |
 | [Ylokh GPT](https://chat.ylokh.xyz/) | GPT-based AI | Not specified |
-| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | AI with easy access to AI models | Not specified |
-| [AI Scholar](https://ai-chat.scholarcn.com/) | AI assistant for writing articles and research papers | Not specified |
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | Not specified |
+| [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | Not specified |
 | [Hugging Face](https://huggingface.co/) | Hugging Face is an AI company that provides various NLP models and tools. | Not specified |
 | [Consensus](https://consensus.app/search/) | Consensus offers a collaborative AI platform for decision making and knowledge sharing. | Not specified |
 | [Komo AI](https://komo.ai/) | Komo AI specializes in AI-powered customer support and chatbot solutions. | Not specified |
@@ -46,39 +51,6 @@
 | [Codepal](https://codepal.ai/) | Codepal is an AI-powered coding assistant that helps developers with code-related tasks. | Not specified |
 | [Chatbot Arena](https://chat.lmsys.org/?arena) | Chatbot Arena allows users to interact with an AI chatbot in a social environment. | Not specified |
 
-
-
-
-- موتور جستجوی ابزار ها و منابع هوش مصنوعی برای جستجو ابزار های مورد نیازتان
-- [Theres an AI for that](https://theresanaiforthat.com/)
-- پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
-- [Vercel SDK](https://sdk.vercel.ai/)
-- بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی 
-- [POE Sage](https://poe.com/Sage)
-- مقایسه پاسخ مدل های مختلف هوش مصنوعی
-- [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg)
-- دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب
-- [Perplexity AI](https://www.perplexity.ai/)
-
-- 
-  
-- 
-- [Sea Art AI](https://www.seaart.ai/home)
--  
-- [Black Box](https://www.useblackbox.io/search)
--  و...
-- [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091)
-- 
--  [Ora AI Explore](https://ora.ai/explore?type=trending)
-- دسترسی رایگان به چت‌جی‌پی‌تی (ساخته شده توسط پلتفرم بات سازی ora)
-- [ChadGPT on Ora](https://ora.ai/teambots/chadgpt)
-- هوش مصنوعی مبتنی بر gpt 
-- [Ylokh GPT](https://chat.ylokh.xyz/)
-استفاده آسان از مدل های هوش مصنوعی
-- [The B AI](https://chatbot.theb.ai/#/chat/1688388943679)
-- هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی
-- [AI Scholar](https://ai-chat.scholarcn.com/)
-- 
 ## ربات ها
 ### Telegram Bots
 - [TruthGPT](https://t.me/xtelegpt_bot)
