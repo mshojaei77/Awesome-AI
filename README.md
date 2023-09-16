@@ -5,7 +5,7 @@
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 
-## وبسایت ها
+## تولید متن
 | Website | Description | AI Model |
 | --- | --- | --- |
 | [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی (نیاز به شماره مجازی برای ثبت نام) | GPT-3.5, GPT-4 |
@@ -13,11 +13,11 @@
 | [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت (نیاز به اپلیکیشن یا مرورگر اج ) | GPT-4 |
 | [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک (نیاز به شماره مجازی) | claude-2 |
 | [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس) | llama-2 |
-| [Falcon 180b Demo](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
+| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
 | [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 |
 | [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  | gpt-3.5-turbo, Claude-instant, Llama-2, PaLM 2, Code-Llama, Solar-0, claude-2, gpt-4 |
 |  |  |  |
-| [c](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف | gpt-3.5-turbo, Claude-2, GPT-4 | 
+| [Perplexity](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف | gpt-3.5-turbo, Claude-2, GPT-4 | 
 | [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی | Claude-1-2, gpt3-4, Llama, bloom, flan-t5, gpt-neox, Pythia, SantaCoder, Cohere, davinci |
 | [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | gpt-3.5, Llama, Falcon, Code-Llama |
 | [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | gpt-3.5, GPT-4 |
@@ -27,25 +27,27 @@
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | GPT-3.5, GPT-4, PaLM 2, Codey, Claude 2, Claude Instant 100K, Llama 2, Code Llama |
 | [YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | GPT-3 |
 | [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی | Auto-GPT |
-| [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
-| [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
-| [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion |
-| [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... |
+| [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI |
 | [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | GPT-3, Wu Dao 2, Jurassic-1 Jumbo, Megatron-Turing NLG |
 | [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | BlackBox AI |
 | [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | GPT-3 |
 | [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی |  |
 | [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  |
 | [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  |
 | [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  |
 | [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  |
 | [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  |
-| [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی |  |
 | [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب | |
-| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
-| [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI |
 | [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی |  |
-| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی |  |
+| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
+
+## تولید تصویر
+| [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
+| [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
+| [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion |
+| [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... |
+| [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی |  |
 
 ## ربات ها
 ### Telegram Bots
