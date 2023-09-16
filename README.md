@@ -8,25 +8,25 @@
 ## وبسایت ها
 | Website | Description | AI Model |
 | --- | --- | --- |
-| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام) | GPT-3.5, GPT-4 |
-| [Bard ](https://bard.google.com/) | Chatbot from Google | PaLM 2 |
-| [Bing ](https://www.bing.com/?/ai) | AI from Microsoft | GPT-4 |
-| [Claude 2 ](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Not specified |
-| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | AI from Meta (Facebook) | Not specified |
-| [Pi](https://pi.ai/talk) | Conversational AI | Not specified |
+| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی (نیاز به شماره مجازی برای ثبت نام) | GPT-3.5, GPT-4 |
+| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل (نیاز به پروکسی) | PaLM 2 |
+| [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت (نیاز به اپلیکیشن یا مرورگر اج ) | GPT-4 |
+| [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک (نیاز به شماره مجازی) | claude-2 |
+| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس) | llama-2 |
+| [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی تمرین شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
+| [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 |
 | [Stability AI](https://stability.ai/) | AI for customer service | Not specified |
-| [Phind](https://www.phind.com/) | AI chatbot with web access and programming assistant | Not specified |
-| [Hugging Face Chat](https://huggingface.co/chat/) | Open source AI from Hugging Face | Not specified |
-| [OpenRouter AI](https://openrouter.ai/) | Search engine for AI models | Not specified |
-| [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2) | Access to Llama 2 AI | Not specified |
-| [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | AI-powered search engine | Not specified |
-| [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | Falcon 180b AI trained on large amounts of data | Not specified |
-| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | Auto-GPT tool for automated tasks with ChatGPT | Not specified |
-| [Sea Art AI](https://www.seaart.ai/home) | AI tool for generating images | Not specified |
-| [Black Box](https://www.useblackbox.io/search) | AI programming assistant for developers | Not specified |
+| [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | GPT-4 |
+| [Hugging Face Chat](https://huggingface.co/chat/) | هوش مصنوعی اوپن سورس | Not specified |
+| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Not specified |
+| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 | LLAMA-2 |
+| [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | Not specified |
+| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی | Auto-GPT |
+| [Sea Art AI](https://www.seaart.ai/home) | ابزار هایی برای تولید عکس توسط هوش مصنوعی | Not specified |
+| [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | Not specified |
 | [OnceTalk](https://oncetalk.com/#/) | Free access to Bing AI | Not specified |
-| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | AI for generating blog posts and digital content | Not specified |
-| [Ora AI Explore](https://ora.ai/explore?type=trending) | Platform for building and searching AI chatbots | Not specified |
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | Not specified |
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  | Not specified |
 | [ChadGPT on Ora](https://ora.ai/teambots/chadgpt) | Free access to ChatGPT on Ora | Not specified |
 | [Ylokh GPT](https://chat.ylokh.xyz/) | GPT-based AI | Not specified |
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | AI with easy access to AI models | Not specified |
@@ -49,20 +49,6 @@
 
 
 
-- وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام):
-- [ChatGPT | OpenAI](https://openai.com/chatgpt)
-- وبسایت هوش مصنوعی بارد bard از شرکت گوگل (نیاز به proxy):
-- [Bard | Google](https://bard.google.com/)
-- هوش مصنوعی bing از شرکت مایکروسافت (نیاز به اپ bing یا مرورگر edge )
-- [Bing | Microsoft](https://www.bing.com/?/ai)
-- هوش مصنوعی Claude 2 از شرکت آنتروپیک (نیاز به شماره مجازی)
-- [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2)
-- هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس)
-- [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model)
-- هوش مصنوعی مکالمه ای Pi
-- [Pi - Conversational AI](https://pi.ai/talk)
-- هوش مصنوعی Stability Ai
-- [Stability AI](https://stability.ai/)
 - موتور جستجوی ابزار ها و منابع هوش مصنوعی برای جستجو ابزار های مورد نیازتان
 - [Theres an AI for that](https://theresanaiforthat.com/)
 - پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
@@ -73,29 +59,16 @@
 - [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg)
 - دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب
 - [Perplexity AI](https://www.perplexity.ai/)
-- دسترس رایگان به چت‌جی‌پی‌تی و GPT-4 به همراه اتصال به وب و همچنین دستیار برنامه نویسی
-- [Phind](https://www.phind.com/)
-- هوش مصنوعی اوپن سورس hugging face
-- [Hugging Face Chat](https://huggingface.co/chat/)
-- جستجوی و کاوش در مدل های جالب هوش مصنوعی
-- [OpenRouter AI](https://openrouter.ai/)
-- دسترسی آسان به هوش مقنوعی لاما 2
-- [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2)
-- موتور جستجوی بهینه شده با هوش مصنوعی
-- [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
-- هوش مصنوعی Falcon 180b تمرین شده با حجم بسیار عظیمی از اطلاعات
-- [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark)
-- استفاده از Auto-GPT (ابزاری برای انجام دادن خودکار task ها با نوشتن خودکار دستوربرتی چت‌جی‌پی‌تی)
-- [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru)
-- ابزار هایی برای تولید عکس توسط هوش مصنوعی
+
+- 
+  
+- 
 - [Sea Art AI](https://www.seaart.ai/home)
--  دستیار کدنویسی برای برنامه نویسان
+-  
 - [Black Box](https://www.useblackbox.io/search)
-- دسترسی رایگان به هوش مصنوعی bing
-- [OnceTalk](https://oncetalk.com/#/)
-- هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال و...
+-  و...
 - [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091)
-- پلفرم ساخت و جستجوی chatbot های مبتنی بر هوش مصنوعی 
+- 
 -  [Ora AI Explore](https://ora.ai/explore?type=trending)
 - دسترسی رایگان به چت‌جی‌پی‌تی (ساخته شده توسط پلتفرم بات سازی ora)
 - [ChadGPT on Ora](https://ora.ai/teambots/chadgpt)
