@@ -9,7 +9,7 @@
 | Website | Description | AI Model |
 | --- | --- | --- |
 | [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی (نیاز به شماره مجازی برای ثبت نام) | GPT-3.5, GPT-4 |
-| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل (نیاز به پروکسی) | PaLM 2 |
+| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل (نیاز به پروکسی) | PaLM 2 | 
 | [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت (نیاز به اپلیکیشن یا مرورگر اج ) | GPT-4 |
 | [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک (نیاز به شماره مجازی) | claude-2 |
 | [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس) | llama-2 |
@@ -22,17 +22,21 @@
 | [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | gpt-3.5, Llama, Falcon, Code-Llama |
 | [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | gpt-3.5, GPT-4 |
 | [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس | Llama-2, Falcon 180b, Code-Llama  |
-| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Famed.Chat, SillyTavern, RisuAI, Venus AI, ... |
 | [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 | Llama-2, Code-Llama, Stable Diffusion XL |
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | GPT-3.5, GPT-4, PaLM 2, Codey, Claude 2, Claude Instant 100K, Llama 2, Code Llama |
 | [YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | GPT-3 |
 | [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی | Auto-GPT |
 | [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI |
+| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Famed.Chat, SillyTavern, RisuAI, Venus AI, ... |
 | [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | GPT-3, Wu Dao 2, Jurassic-1 Jumbo, Megatron-Turing NLG |
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی | Llama 2, Code-Llama, Vicuna, WizardLM, ChatGLM |
+| [WizardCoder](http://47.103.63.15:50085/) | نسخه بهبود یافته لاما | Llama2 |
+| [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | هوش مصنوعی تمرین داده شده با زبان های مختلف | RWKV-LM |
 | [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | BlackBox AI |
-| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | GPT-3 |
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | GPT-3 | 
+| [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | | 
 | [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
-| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی |  |
+| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  |
 | [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  |
 | [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  |
 | [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  |
@@ -42,8 +46,15 @@
 | [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی |  |
 | [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
 
-## تولید تصویر
+## تولید تصویر و ویدیو
+
+| Website | Description | AI Model |
+| --- | --- | --- |
 | [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
+| [FireFly]((https://firefly.adobe.com/)) | تولید تصاویر و ویرایش تصاویر | Adobe FireFly |
+| [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی | Midjourney v5 |
+| [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI |
+| [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai |
 | [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
 | [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion |
 | [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... |
@@ -116,6 +127,7 @@
 ### Chrome (and other chromium base browsers)
 
 - 🧠 [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) - AI Companion
+- https://chromewebstore.google.com/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop
 - 🚁 [Monica](https://chrome.google.com/webstore/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) - Your AI Copilot powered by GPT-4
 - 🔖 [Bing Chat (GPT-4) in Google](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
 - ⚔️ [Bard for search engines](https://chrome.google.com/webstore/detail/bard-for-search-engines/pkdmfoabhnkpkcacnmgilaeghiggdbgf)
