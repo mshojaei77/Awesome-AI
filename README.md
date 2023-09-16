@@ -13,43 +13,38 @@
 | [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت (نیاز به اپلیکیشن یا مرورگر اج ) | GPT-4 |
 | [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک (نیاز به شماره مجازی) | claude-2 |
 | [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) (اوپن سورس) | llama-2 |
-| [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی تمرین شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
+| [Falcon 180b Demo](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
 | [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 |
-| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  |  |
-| [Perplexity AI](https://www.perplexity.ai/) | دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب | | 
+| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  | gpt-3.5-turbo, Claude-instant, Llama-2, PaLM 2, Code-Llama, Solar-0, claude-2, gpt-4 |
+| [c](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف | gpt-3.5-turbo, Claude-2, GPT-4 | 
 | [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
-| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی |  |
-| [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | |
-| [Stability AI](https://stability.ai/) | AI for customer service | Not specified |
-| [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | GPT-4 |
-| [Hugging Face Chat](https://huggingface.co/chat/) | هوش مصنوعی اوپن سورس | Not specified |
-| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Not specified |
-| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 | LLAMA-2 |
-| [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | Not specified |
+| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی | Claude-1-2, gpt3-4, Llama, bloom, flan-t5, gpt-neox, Pythia, SantaCoder, Cohere, davinci |
+| [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | gpt-3.5, Llama, Falcon, Code-Llama |
+| [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | gpt-3.5, GPT-4 |
+| [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس | Llama-2, Falcon 180b, Code-Llama  |
+| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Famed.Chat, SillyTavern, RisuAI, Venus AI, ... |
+| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 | Llama-2, Code-Llama, Stable Diffusion XL |
+| [YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | GPT-3 |
 | [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی | Auto-GPT |
-| [Sea Art AI](https://www.seaart.ai/home) | ابزار هایی برای تولید عکس توسط هوش مصنوعی | Not specified |
-| [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | Not specified |
-| [OnceTalk](https://oncetalk.com/#/) | Free access to Bing AI | Not specified |
-| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | Not specified |
-| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  | Not specified |
-| [ChadGPT on Ora](https://ora.ai/teambots/chadgpt) | Free access to ChatGPT on Ora | Not specified |
-| [Ylokh GPT](https://chat.ylokh.xyz/) | GPT-based AI | Not specified |
-| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | Not specified |
-| [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | Not specified |
-| [Hugging Face](https://huggingface.co/) | Hugging Face is an AI company that provides various NLP models and tools. | Not specified |
-| [Consensus](https://consensus.app/search/) | Consensus offers a collaborative AI platform for decision making and knowledge sharing. | Not specified |
-| [Komo AI](https://komo.ai/) | Komo AI specializes in AI-powered customer support and chatbot solutions. | Not specified |
-| [CrowdView](https://crowdview.ai/) | CrowdView offers AI solutions for crowd behavior analysis and insights. | Not specified |
-| [Hugging Face Models](https://huggingface.co/models?sort=downloads) | Hugging Face Models is a repository of pre-trained NLP models for various tasks. | Not specified |
-| [Civitai](https://civitai.com/) | Civitai focuses on AI research and development to create innovative solutions. | Not specified |
-| [Happy Accidents](https://www.happyaccidents.ai/create) | Happy Accidents provides an AI-powered creative platform for generating art and designs. | Not specified |
-| [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | Gravitai offers AI tools and infrastructure for data labeling and model training. | Not specified |
-| [GPT Duck](https://www.gptduck.com/) | GPT Duck is an AI model that can generate responses and engage in conversation. | Not specified |
-| [Axiom AI](https://axiom.ai/) | Axiom AI focuses on developing advanced AI models and solutions for various industries. | Not specified |
-| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | Tensorplay AI offers AI models and tools for game development and interactive experiences. | Not specified |
-| [Godmode](https://godmode.space/) | Godmode provides an AI-based game development platform for creating immersive worlds. | Not specified |
-| [Codepal](https://codepal.ai/) | Codepal is an AI-powered coding assistant that helps developers with code-related tasks. | Not specified |
-| [Chatbot Arena](https://chat.lmsys.org/?arena) | Chatbot Arena allows users to interact with an AI chatbot in a social environment. | Not specified |
+| [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
+| [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... |
+| [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | BlackBox AI |
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | GPT-3 |
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  |
+| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  |
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | GPT-3.5, GPT-4, PaLM 2, Codey, Claude 2, Claude Instant 100K, Llama 2, Code Llama |
+| [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | GPT-3, Wu Dao 2, Jurassic-1 Jumbo, Megatron-Turing NLG |
+| [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  |
+| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  |
+| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  |
+| [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
+| [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی |  |
+| [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion |
+| [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب | Not specified |
+| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
+| [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI |
+| [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی |  |
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی |  |
 
 ## ربات ها
 ### Telegram Bots
