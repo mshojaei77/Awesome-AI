@@ -5,14 +5,10 @@
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 
-## وبسایت ه
-
-
-Here is the updated table with the additional sites:
-
+## وبسایت ها
 | Website | Description | AI Model |
 | --- | --- | --- |
-| [ChatGPT](https://openai.com/chatgpt) | Chatbot from OpenAI | GPT-3.5, GPT-4 |
+| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام) | GPT-3.5, GPT-4 |
 | [Bard ](https://bard.google.com/) | Chatbot from Google | PaLM 2 |
 | [Bing ](https://www.bing.com/?/ai) | AI from Microsoft | GPT-4 |
 | [Claude 2 ](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Not specified |
