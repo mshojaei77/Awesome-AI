@@ -8,7 +8,7 @@
 - وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام):
 - [ChatGPT | OpenAI](https://openai.com/chatgpt)
 - وبسایت هوش مصنوعی بارد bard از شرکت گوگل (نیاز به proxy):
-- [Bard | Google](https://bard.google.com/)
+[Bard | Google](https://bard.google.com/)
 - هوش مصنوعی bing از شرکت مایکروسافت (نیاز به اپ bing یا مرورگر edge )
 - [Bing | Microsoft](https://www.bing.com/?/ai)
 - هوش مصنوعی Claude 2 از شرکت آنتروپیک (نیاز به شماره مجازی)
