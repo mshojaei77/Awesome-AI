@@ -10,7 +10,7 @@ Here is a table of AI chatbot websites:
 
 | Website | Description | Requirements |
 | --- | --- | --- |
-| [ChatGPT](https://openai.com/chatgpt) | Chatbot from OpenAI | Phone number for registration |
+| [ChatGPT](https://openai.com/chatgpt) | وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI| Proxy + Phone number for registration |
 | [Bard ](https://bard.google.com/) | Chatbot from Google powered by PaLM 2 | Proxy |
 | [Bing ](https://www.bing.com/?/ai) | AI from Microsoft | Bing app or Edge browser |
 | [Claude 2 ](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Phone number |
