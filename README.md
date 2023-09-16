@@ -4,7 +4,36 @@
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
+
 ## وبسایت ها
+Here is a table of AI chatbot websites:
+
+| Website | Description | Requirements |
+| --- | --- | --- |
+| [ChatGPT | OpenAI](https://openai.com/chatgpt) | Chatbot from OpenAI | Phone number for registration |
+| [Bard | Google](https://bard.google.com/) | Chatbot from Google powered by PaLM 2 | Proxy |
+| [Bing | Microsoft](https://www.bing.com/?/ai) | AI from Microsoft | Bing app or Edge browser |
+| [Claude 2 | Anthropic](https://www.anthropic.com/index/claude-2) | AI from Anthropic | Phone number |
+| [Llama 2 | Meta](https://ai.meta.com/llama/#download-the-model) | AI from Meta (Facebook) | Open source |
+| [Pi - Conversational AI](https://pi.ai/talk) | Conversational AI | None |
+| [Stability AI](https://stability.ai/) | AI for customer service | None |
+| [Phind](https://www.phind.com/) | AI chatbot with web access and programming assistant | None |
+| [Hugging Face Chat](https://huggingface.co/chat/) | Open source AI from Hugging Face | None |
+| [OpenRouter AI](https://openrouter.ai/) | Search engine for AI models | None |
+| [Lepton Playground (LLAMA2)](https://dashboard.lepton.ai/playground/llama2) | Access to Llama 2 AI | None |
+| [You.com YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | AI-powered search engine | None |
+| [TiiUAE Falcon 180b Demo (Dark Theme)](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | Falcon 180b AI trained on large amounts of data | None |
+| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | Auto-GPT tool for automated tasks with ChatGPT | None |
+| [Sea Art AI](https://www.seaart.ai/home) | AI tool for generating images | None |
+| [Black Box](https://www.useblackbox.io/search) | AI programming assistant for developers | None |
+| [OnceTalk](https://oncetalk.com/#/) | Free access to Bing AI | None |
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | AI for generating blog posts and digital content | None |
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | Platform for building and searching AI chatbots | None |
+| [ChadGPT on Ora](https://ora.ai/teambots/chadgpt) | Free access to ChatGPT on Ora | None |
+| [Ylokh GPT](https://chat.ylokh.xyz/) | GPT-based AI | None |
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | AI with easy access to AI models | None |
+| [AI Scholar](https://ai-chat.scholarcn.com/) | AI assistant for writing articles and research papers | None |
+
 - وبسایت رسمی چت‌جی‌پی‌تی از شرکت OpenAI (نیاز به شماره مجازی برای ثبت نام):
 - [ChatGPT | OpenAI](https://openai.com/chatgpt)
 - وبسایت هوش مصنوعی بارد bard از شرکت گوگل (نیاز به proxy):
