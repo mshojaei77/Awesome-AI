@@ -2,7 +2,7 @@
 # مخزن منابع هوش مصنوعی
 به مخزن منابع AI خوش آمدید! هدف این مخزن ارائه یک مکان همه کاره برای مجموعه ای رو به رشد از چیزهای جالب در مورد هوش مصنوعی و ChatGPT است. چه به دنبال منابع، ابزارها، نمونه ها، دموها، هک ها یا برنامه های مرتبط با هوش مصنوعی و به طور خاص فناوری ChatGPT باشید، این مخزن شما را تحت پوشش قرار داده است.
 
-به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را با کمک دیگران به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
+به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 
 ## تولید متن
@@ -32,19 +32,8 @@
 | [WizardCoder](http://47.103.63.15:50085/) | نسخه بهبود یافته لاما | Llama2 |
 | [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | هوش مصنوعی تمرین داده شده با زبان های مختلف | RWKV-LM |
 | [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | BlackBox AI |
-| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | GPT-3 | 
-| [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | | 
-| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
-| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  |
-| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  |
-| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  |
-| [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  |
-| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  |
-| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  |
 | [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب | |
 | [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی |  |
-| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
-
 ## تولید تصویر و ویدیو
 
 | Website | Description | AI Model |
@@ -58,12 +47,35 @@
 | [dall-e](https://openai.com/dall-e-2) |||
 | [mann-e](https://manne.ir/) |||
 | [ideogram](https://ideogram.ai/)|||
+| [synthesia]()|||
+| [runway]()|||
+| [lluma]()|||
 | [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI |
 | [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai |
 | [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
 | [Gravitai](https://webui.graviti.com/?c=A870D787&utm_source=civitai&__theme=dark) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion |
 | [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... |
 | [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی |  |
+| []()|||
+
+## تولید محتوا
+| Website | Description | AI Model |
+| --- | --- | --- |
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | GPT-3 | 
+| [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | | 
+| [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  |
+| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  |
+| [tome.app]()|||
+
+## جستجوی هوش مصنوعی
+| Website | Description | AI Model |
+| --- | --- | --- |
+| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  |
+| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  |
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  |
+| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  |
+| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  |
+| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  |
 
 ## ربات ها
 ### Telegram Bots
