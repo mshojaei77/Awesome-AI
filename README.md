@@ -53,11 +53,11 @@
 | [FireFly](https://firefly.adobe.com/) | تولید تصاویر و ویرایش تصاویر | Adobe FireFly |
 | [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی | Midjourney v5 |
 | [bing image creator](https://www.bing.com/create)
-| https://designer.microsoft.com/ |||
-| https://leonardo.ai/ |||
-| dall-e |||
-| mann-e |||
-| ideogram |||
+| [microsoft designer](https://designer.microsoft.com/) |||
+| [leonardo ai](https://leonardo.ai) |||
+| [dall-e](https://openai.com/dall-e-2) |||
+| [mann-e](https://manne.ir/) |||
+| [ideogram](https://ideogram.ai/)|||
 | [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI |
 | [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai |
 | [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
