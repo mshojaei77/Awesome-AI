@@ -16,7 +16,6 @@
 | [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  |
 | [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 |
 | [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  | gpt-3.5-turbo, Claude-instant, Llama-2, PaLM 2, Code-Llama, Solar-0, claude-2, gpt-4 |
-|  |  |  |
 | [Perplexity](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف | gpt-3.5-turbo, Claude-2, GPT-4 | 
 | [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی | Claude-1-2, gpt3-4, Llama, bloom, flan-t5, gpt-neox, Pythia, SantaCoder, Cohere, davinci |
 | [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | gpt-3.5, Llama, Falcon, Code-Llama |
@@ -53,6 +52,12 @@
 | [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
 | [FireFly]((https://firefly.adobe.com/) | تولید تصاویر و ویرایش تصاویر | Adobe FireFly |
 | [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی | Midjourney v5 |
+[bing image creator](https://www.bing.com/create)
+https://designer.microsoft.com/
+https://leonardo.ai/
+dall-e
+mann-e
+ideogram
 | [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI |
 | [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai |
 | [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
