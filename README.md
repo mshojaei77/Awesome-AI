@@ -70,12 +70,12 @@
 ## جستجوی هوش مصنوعی
 | Website | Description | AI Model | Free |
 | --- | --- | --- | --- |
-| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  | Free |
-| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  | Free |
-| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  | Free |
-| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود ابزارهای هوش مصنوعی اوپن سورس |  | Free |
-| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  | Free |
-| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  | Free |
+| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  | ✅ |
+| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  | ✅ |
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  | ✅ |
+| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود مدل های هوش مصنوعی اوپن سورس |  | ✅ |
+| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  | ✅ |
+| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  | ✅ |
 
 ## ربات ها
 ### Telegram Bots
