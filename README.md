@@ -52,12 +52,13 @@
 | [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion |
 | [FireFly]((https://firefly.adobe.com/) | تولید تصاویر و ویرایش تصاویر | Adobe FireFly |
 | [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی | Midjourney v5 |
-[bing image creator](https://www.bing.com/create)
-https://designer.microsoft.com/
-https://leonardo.ai/
-dall-e
-mann-e
-ideogram
+| [bing image creator](https://www.bing.com/create)
+| https://designer.microsoft.com/ |||
+| https://leonardo.ai/ |||
+| dall-e |||
+| mann-e |||
+| ideogram |||
+
 | [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI |
 | [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai |
 | [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  |
