@@ -5,12 +5,13 @@
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 ## تولید متن
-| Website | Description | AI Model | Free
-| --- | --- | --- | --- |
-| [ChatGPT](https://openai.com/chatgpt) | The official website of ChatGPT  | GPT-3.5, GPT-4 | ✅+💲 |
-| [Bard](https://bard.google.com/) | Bard artificial intelligence website from Google | PALM 2 | ✅
-| [Bing](https://www.bing.com/?/ai) | Bing artificial intelligence from Microsoft (requires an application or Edge browser)| GPT-4 |✅
-| [Claude 2](https://www.anthropic.com/index/claude-2) | Cloud 2 artificial intelligence from Anthropic company | claude-2 | ✅
+
+| Website | Description | AI Model | Accessibility | Availability in Iran |
+| --- | --- | --- | --- | --- |
+| [ChatGPT](https://openai.com/chatgpt) | The official website of ChatGPT  | GPT-3.5, GPT-4 | ✅+💲 | Requires VPN + Virtual Phone Number
+| [Bard](https://bard.google.com/) | Bard artificial intelligence website from Google | PALM 2 | ✅ | Requires VPN 
+| [Bing](https://www.bing.com/?/ai) | Bing artificial intelligence from Microsoft | GPT-4 |✅ | Requires Edge browser
+| [Claude 2](https://www.anthropic.com/index/claude-2) | Cloud 2 artificial intelligence from Anthropic company | claude-2 | ✅ | Requires VPN + Virtual Phone Number
 | [Llama 2](https://ai.meta.com/llama/#download-the-model) | Llama 2 Artificial Intelligence from Meta Company (Facebook) (Open Source) | llama-2 | ✅
 | [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | Falcon artificial intelligence trained with a very large amount of information | Falcon 180b |✅
 | [Pi](https://pi.ai/talk) | Artificial intelligence is designed to be empathic, helpful and safe| Inflection-1 | ✅
