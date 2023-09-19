@@ -112,7 +112,7 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 - [Midjourney6Bot](https://t.me/Midjourney6Bot)
 - [PixelMindTheBot](https://t.me/PixelMindTheBot)
 - [Dark_GPT_Bot](https://t.me/Dark_GPT_Bot)
-- [piiixybot] (https://t.me/piiixybot)
+- [piiixybot](https://t.me/piiixybot)
 - [chat_gpt_robot](https://t.me/chat_gpt_robot)
 - [MidjourneyOriginalBot](https://t.me/MidjourneyOriginalBot)
 - [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
