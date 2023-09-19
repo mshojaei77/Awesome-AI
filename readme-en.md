@@ -1,4 +1,3 @@
-# AI Resource Repository
 # Repository of artificial intelligence resources
 Welcome to the AI Resource Repository! The purpose of this repository is to provide a one-stop place for a growing collection of interesting things about AI and ChatGPT. Whether you're looking for resources, tools, samples, demos, hacks or apps related to AI and specifically ChatGPT technology, this repository has you covered.
 
@@ -118,7 +117,7 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 - [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
 - [sd_prompt_generator_bot](https://t.me/sd_prompt_generator_bot)
 
-## نرم افزار ها
+## Applications
 ### Mobile apps
 
 - 📱 Poe 
@@ -202,3 +201,6 @@ _ 🔖 Tabnine - a popular extension that provides AI-powered short code complet
 - 💡 CodeAssist - an AI-powered extension that provides code completion and suggestion
 - 🤖 AIXcoder - an AI-powered extension that provides code completion and suggestions
 - 💡 AI Coding Assistant - an AI-powered extension that provides code completion and suggestions
+
+# Contribute
+We welcome contributions from the community. If you would like to contribute, please check out our contributing guidelines or reach out to us directly. Whether you're suggesting a new AI model, submitting changes, or reporting issues, we appreciate your help in making this project better.
