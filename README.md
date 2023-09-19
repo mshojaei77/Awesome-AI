@@ -5,80 +5,164 @@
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 
-## تولید متن
-| نام سایت | توضیح کوتاه| مدل AI | دسترسی رایگان| دسترسی در ایران|  
-|-|-|-|-|-|
-| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی | GPT-3.5, GPT-4 | ✅+💲 | نیاز به پروکسی + شماره مجازی
-| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل  | PaLM 2 | ✅ |  نیاز به پروکسی
-| [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت | GPT-4 | ✅ | نیاز به اپلیکیشن بینگ یا مرورگر اج 
-| [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک | claude-2 | ✅ | نیاز به پروکسی + شماره مجازی
-| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک) | llama-2 | ✅ | 
-| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات | Falcon 180b  | ✅ |
-| [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد | Inflection-1 | ✅ |
-| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی  | gpt-3.5-turbo, Claude-instant, Llama-2, PaLM 2, Code-Llama, Solar-0, claude-2, gpt-4 | ✅+💲 |
-| [Perplexity](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف | gpt-3.5-turbo, Claude-2, GPT-4 |  ✅ |
-| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی | Claude-1-2, gpt3-4, Llama, bloom, flan-t5, gpt-neox, Pythia, SantaCoder, Cohere, davinci | ✅+💲 |
-| [H2O Driverless AI](https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg) | مقایسه پاسخ مدل های مختلف هوش مصنوعی | gpt-3.5, Llama, Falcon, Code-Llama | ✅ |
-| [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی | gpt-3.5, GPT-4 | ✅ |
-| [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس | Llama-2, Falcon 180b, Code-Llama  | ✅ |
-| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 | Llama-2, Code-Llama, Stable Diffusion XL | ✅ |
-| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی | GPT-3.5, GPT-4, PaLM 2, Codey, Claude 2, Claude Instant 100K, Llama 2, Code Llama | ✅+💲 |
-| [YouChat Search](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) | موتور جستجوی بهینه شده با هوش مصنوعی | GPT-3 | ✅ |
-| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی | Auto-GPT | ✅ |
-| [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI | ✅ |
-| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی | Famed.Chat, SillyTavern, RisuAI, Venus AI, ... | ✅ |
-| [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی | GPT-3, Wu Dao 2, Jurassic-1 Jumbo, Megatron-Turing NLG | ✅+💲 |
-| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی | Llama 2, Code-Llama, Vicuna, WizardLM, ChatGLM | ✅ |
-| [WizardCoder](http://47.103.63.15:50085/) | نسخه بهبود یافته لاما | Llama2 | ✅ |
-| [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | هوش مصنوعی تمرین داده شده با زبان های مختلف | RWKV-LM | ✅ |
-| [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان | BlackBox AI | ✅ |
-| [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب | | ✅ |
-| [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی |  | ✅ |
-## تولید تصویر و ویدیو
+## چت بات های عمومی
+| Tool | Description | 
+|-|-|
+| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی
+| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل 
+| [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت
+| [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک 
+| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک)
+| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات 
+| [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد 
+| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی 
+| [Perplexity](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف
+| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
+| [H2O Driverless AI](https://gpt.h2o.ai/) | مقایسه پاسخ مدل های مختلف هوش مصنوعی 
+| [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی 
+| [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس 
+| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی 
+| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی 
+| [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI 
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی 
+| [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | هوش مصنوعی تمرین داده شده با زبان های مختلف
+| [https://replika.com/
+| [https://www.cogram.com/
+| [Zapier AI Chatbot
+| [KoalaChat
+| [Tidio
+| [Drift
 
-| Website | Description | AI Model | Free |
-| --- | --- | --- | --- |
-| [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن  | stable-diffusion | ✅ |
-| [FireFly](https://firefly.adobe.com/) | تولید تصاویر و ویرایش تصاویر | Adobe FireFly | ✅+💲 |
-| [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی | Midjourney v5 | ✅+💲 |
-| [bing image creator](https://www.bing.com/create) ||| ✅ |
-| [microsoft designer](https://designer.microsoft.com/) ||| ✅+💲 |
-| [leonardo ai](https://leonardo.ai) ||| ✅ |
-| [dall-e](https://openai.com/dall-e-2) ||| ✅ |
-| [mann-e](https://manne.ir/) ||| ✅ |
-| [ideogram](https://ideogram.ai/)||| ✅ |
-| [synthesia]()||| ✅ |
-| [runway]()||| ✅ |
-| [lluma]()||| ✅ |
-| [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی |  Luma Labs AI | ✅ |
-| [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی |  Plask Ai | ✅ |
-| [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  | ✅ |
-| [Gravitai](https://webui.graviti.com/) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند | Stable Diffusion | ✅ |
-| [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی | ReV Animated, beautiful Realistic Asians, ChilloutMix, majicMIX realistic, ... | ✅ |
-| [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی |  | ✅ |
-| []()||| ✅ |
+## تولید محتوا و تحقیق
+| Tool | Description | 
+|-|-|
+| [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال
+| [Jasper
+| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر
+| [Writesonic
+| [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی
+| [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی
+| [tome.app]()|
+| [Scalenut⁵
+| [HubSpot⁵
+| [Grammarly⁵
+| [Lately⁵
+| [HelloWoofy⁵
+| [Anyword⁵
+| [DeepL Pro⁵
+| [LongShot AI⁵
+| [LOVO Studio⁵
+| [NeuralText⁵
+| [https://www.deepl.com/write
+| [https://www.slidesai.io/
+| [https://www.sudowrite.com/
+| [https://wordhero.co/
+| [https://www.textbuilder.ai/
+## تولید و ویرایش تصویر
+| Tool | Description | 
+|-|-|
+| [Stability AI](https://clipdrop.co/stable-diffusion?output=true) |  تولید عکس بر اساس متن 
+| [FireFly](https://firefly.adobe.com/) | تولید تصاویر و ویرایش تصاویر 
+| [Midjourney](https://www.midjourney.com/) |   تولید تصاویر فوق العاده توسط هوش مصنوعی میدجرنی
+| [bing image creator](https://www.bing.com/create) |
+| [microsoft designer](https://designer.microsoft.com/) |
+| [leonardo ai](https://leonardo.ai) |
+| [dall-e](https://openai.com/dall-e-2) |
+| [Picsart
+| [Imagen
+| [Parti
+| [Craiyon
+| [mann-e](https://manne.ir/) |
+| [ideogram](https://ideogram.ai/)|
+| [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی 
+| [Plask](https://dashboard.plask.ai/login) |  تولید انیموشن توسط هوش مصنوعی
+| [Civitai](https://civitai.com/) | انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  
+| [Gravitai](https://webui.graviti.com/) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند 
+| [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی 
+| [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی
+| [Jasper.ai¹¹¹⁴
+| [Photosonic¹¹
+| [DALL-E 2¹¹¹³¹⁴
+| [Craiyon¹¹¹⁴
+| [StarryAI¹¹
 
-## تولید محتوا
-| Website | Description | AI Model | Free |
-| --- | --- | --- | --- |
-| [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | GPT-3 | ✅+💲 |
-| [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال | | ✅+💲 |
-| [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی |  | ✅ |
-| [Tensorplay AI](https://tensorplay.ai/models/28303/run) | پلتفرم تولید محتوای مبتنی بر هوش مصنوعی |  | ✅+💲 |
-| [tome.app]()||| ✅+💲 |
+## تولید و ویرایش ویدیو
+| Tool | Description | 
+|-|-|
+| [synthesia]()|
+| [runway]()|
+| [lluma]()|
+| [Kapwing's AI Video Generator
+| [Descript
+| [Lumen5
+| [InVideo
+| [Clipchamp
+| [https://otter.ai/
+| [Descript⁹¹⁷
+| [Wondershare Filmora⁹¹⁷
+| [Runway for experimenting with generative AI⁹
+| [Peech for content marketing teams⁹
+| [Pictory AI
+## کدنویسی و توسعه
+| Tool | Description | 
+|-|-|
+| [GitHub Copilot
+| [Tabnine
+| [Kite
+| [Replit
+| [CodePen
+| [Amazon CodeWhisperer
+| [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان 
+| [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب
+| [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی 
+| [WizardCoder](http://47.103.63.15:50085/) | نسخه بهبود یافته لاما
+| [https://aws.amazon.com/
+| [codewhisperer/
+| [https://www.scalenut.com/
+| [https://kafkai.com/en/
+| [GitHub Copilot X — Best AI coding tool, helps with code completion, code explanation, debugging, and more.26
+| [CodeGPT — A third-party extension developed by Daniel San for VS Code.26
+## خدمات مشتری و بازاریابی
+| Tool | Description | 
+|-|-|
+| [Drift
+| [HubSpot
+| [LivePerson Einstein
+| [Persado
+| [https://www.cogram.com/
+| [https://character.ai/
+| [https://admaker.memorable.io/
+| [HubSpot CRM — Best for a shared, singular inbox²¹
+| [Churn360 — Best for predictive customer analytics²¹
 
-## جستجوی هوش مصنوعی
-| Website | Description | AI Model | Free |
-| --- | --- | --- | --- |
-| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی |  | ✅ |
-| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی |  | ✅ |
-| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  |  | ✅ |
-| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود مدل های هوش مصنوعی اوپن سورس |  | ✅ |
-| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی |  | ✅ |
-| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها |  | ✅ |
+## جستجو و اکتشاف
+| Tool | Description | 
+|-|-|
+| [Theres an AI for that](https://theresanaiforthat.com/) | موتور جستجوی ابزار ها و منابع هوش مصنوعی 
+| [aimodels](https://www.aimodels.fyi/models) |  جستجوی مدل های هوش مصنوعی
+| [Ora AI Explore](https://ora.ai/explore?type=trending) | پلفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی  
+| [Hugging Face](https://huggingface.co/) | پلتفرم دسترسی و دانلود مدل های هوش مصنوعی اوپن سورس
+| [Komo AI](https://komo.ai/) | موتور جستجوی قدرت گرفته از هوش مصنوعی 
+| [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها 
+| [YouChat Search](https://you.com) | موتور جستجوی بهینه شده با هوش مصنوعی 
+| [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی
+| [https://neeva.com/
+| [https://socratic.org/
+| [https://elsaspeak.com/en/
+| [https://www.perplexity.ai/
+| [Rewind (Best Mac Search Tool)29
+| [SearchIQ (Best Website Search Tool for Site Owners)29
+| [Searchable (Best Document Search Tool)29
+| [History Search (Best Browser Search Tool)29
+| [Everypixel (Best Stock Photo Search)29
+| [Omnisearch (Best Search for Courses and Education)29
+| [Lets Find (Best Universal Search)29
+| [Numbers Search Engine (Best NFT Search Engine)29
+| [Neeva AI29
+| [Bing AI
 
-## ربات ها
-### Telegram Bots
+## ربات تلگرام
 - [TruthGPT](https://t.me/xtelegpt_bot)
 - [Bard AI](https://t.me/bard_kpbot) 
 - [ChatGPT FREE](https://t.me/OPENAl_ChatGPT_bot)
