@@ -6,7 +6,7 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 
 
 ## Text generation
-| Website | Description AI Model | Free
+| Website | Description | AI Model | Free
 | --- | --- | --- | --- |
 | [ChatGPT](https://openai.com/chatgpt) | The official website of ChatGPT (requires a virtual number to register) | GPT-3.5, GPT-4 ✅+💲 |
 | [Bard](https://bard.google.com/) | Bard artificial intelligence website from Google (requires proxy). PALM 2 | ✅
@@ -31,7 +31,7 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 | [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | Artificial intelligence trained with different languages RWKV-LM | ✅
 ## Image and video production
 
-| Website | Description AI Model | Free
+| Website | Description | AI Model | Free
 | --- | --- | --- | --- |
 | [Stability AI](https://clipdrop.co/stable-diffusion?output=true) | Photo production based on text stable-diffusion | ✅
 | [FireFly](https://firefly.adobe.com/) | Image production and image editing Adobe FireFly ✅+💲 |
@@ -55,7 +55,7 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 | []()||| ✅
 
 ## Content production
-| Website | Description AI Model | Free
+| Website | Description | AI Model | Free
 | --- | --- | --- | --- |
 | [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | Produce different types of content including blog headlines, emails, social media content, web copy and more GPT-3 ✅+💲 |
 | [copy ai](https://www.copy.ai/) | Artificial intelligence to produce blog posts and digital content | ✅+💲 |
@@ -72,14 +72,14 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 | [tome.app](https://tome.app/)| Creating presentations (PowerPoint, etc.) with artificial intelligence gpt-3, dall-e | ✅+💲 |
 
 ## Programming
-| Website | Description AI Model | Free
+| Website | Description | AI Model | Free
 | --- | --- | --- | --- |
 | [Black Box](https://www.useblackbox.io/search) | Coding assistant for programmers BlackBox AI | ✅
 | [Adrenaline](https://usedadrenaline.com/app) | Debug code and description of GitHub repository | ✅
 | [Codepal](https://codepal.ai/) | Programming companion and code generator based on artificial intelligence | ✅
 | [WizardCoder](http://47.103.63.15:50085/) | Improved version of Llama | Llama2 ✅
 ## Artificial intelligence search
-| Website | Description AI Model | Free
+| Website | Description | AI Model | Free
 | --- | --- | --- | --- |
 | [Theres an AI for that](https://theresanaiforthat.com/) | Search engine for artificial intelligence tools and resources | ✅
 | [aimodels](https://www.aimodels.fyi/models) | Searching for artificial intelligence models | ✅
