@@ -128,15 +128,14 @@
 ## خدمات مشتری و بازاریابی
 | Tool | Description | 
 |-|-|
-| [Drift]() |
-| [HubSpot]() |
-| [LivePerson Einstein]() |
-| [Persado]() |
-| [](https://www.cogram.com/) |
-| [](https://character.ai/) |
-| [](https://admaker.memorable.io/) |
-| [HubSpot CRM]() |
-| [Churn360]() |
+| [Drift](https://www.drift.com/) |
+| [HubSpot](https://www.hubspot.com/) |
+| [LivePerson](https://www.liveperson.com/) |
+| [Salesforce Einstein](https://www.salesforce.com/products/einstein-ai-solutions/) |
+| [Persado](https://www.persado.com/) |
+| [character ai](https://character.ai/) |
+| [Memorable Ad Maker](https://admaker.memorable.io/) |
+| [Churn360](https://churn360.com/) |
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## جستجو و اکتشاف
