@@ -47,6 +47,9 @@
 | [Tidio
 | [Drift
 
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
+
 ## تولید محتوا و تحقیقات
 | Tool | Description | 
 |-|-|
@@ -72,6 +75,9 @@
 | [https://www.sudowrite.com/
 | [https://wordhero.co/
 | [https://www.textbuilder.ai/
+
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## تولید و ویرایش تصویر
 | Tool | Description | 
 |-|-|
@@ -100,6 +106,8 @@
 | [Craiyon¹¹¹⁴
 | [StarryAI¹¹
 
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## تولید و ویرایش ویدیو
 | Tool | Description | 
 |-|-|
@@ -117,6 +125,9 @@
 | [Runway for experimenting with generative AI⁹
 | [Peech for content marketing teams⁹
 | [Pictory AI
+
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## کدنویسی و توسعه
 | Tool | Description | 
 |-|-|
@@ -136,6 +147,9 @@
 | [https://kafkai.com/en/
 | [GitHub Copilot X — Best AI coding tool, helps with code completion, code explanation, debugging, and more.26
 | [CodeGPT — A third-party extension developed by Daniel San for VS Code.26
+
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## خدمات مشتری و بازاریابی
 | Tool | Description | 
 |-|-|
@@ -149,6 +163,8 @@
 | [HubSpot CRM — Best for a shared, singular inbox²¹
 | [Churn360 — Best for predictive customer analytics²¹
 
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## جستجو و اکتشاف
 | Tool | Description | 
 |-|-|
@@ -175,6 +191,8 @@
 | [Neeva AI29
 | [Bing AI
 
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## ربات تلگرام
 - [TruthGPT](https://t.me/xtelegpt_bot)
 - [Bard AI](https://t.me/bard_kpbot) 
@@ -204,6 +222,8 @@
 - [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
 - [sd_prompt_generator_bot](https://t.me/sd_prompt_generator_bot)
 
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## نرم افزار موبایل
 
 - 📱 Poe 
@@ -222,7 +242,9 @@
 - 🧠 Wiz AI Chat Bot Writing Helper
 - 🧠 Frank: The AI Chat Assistant
 - 💬 Famed.Chat
-- 
+
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## نرم افزار دسکتاپ
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch=1)
 - [Skype](https://www.skype.com/en/get-skype/)
@@ -235,7 +257,8 @@
 - [Free ChatGPT V4 Desktop](https://sourceforge.net/projects/freechatgptv3desktop/)
 - [PYGPT](https://sourceforge.net/projects/pygpt.mirror/)
 
-
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## افزونه و پلاگین
 ### Chrome (and other chromium base browsers)
 
@@ -287,3 +310,6 @@ _ 🔖 Tabnine - a popular extension that provides AI-powered short code complet
 - 💡 CodeAssist - an AI-powered extension that provides code completion and suggestion
 - 🤖 AIXcoder - an AI-powered extension that provides code completion and suggestions
 - 💡 AI Coding Assistant - an AI-powered extension that provides code completion and suggestions
+
+<!--lint ignore double-link-->
+**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
