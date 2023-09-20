@@ -1,9 +1,33 @@
-# AI Resource Repository
 # مخزن منابع هوش مصنوعی
 به مخزن منابع AI خوش آمدید! هدف این مخزن ارائه یک مکان همه کاره برای مجموعه ای رو به رشد از چیزهای جالب در مورد هوش مصنوعی و ChatGPT است. چه به دنبال منابع، ابزارها، نمونه ها، دموها، هک ها یا برنامه های مرتبط با هوش مصنوعی و به طور خاص فناوری ChatGPT باشید، این مخزن شما را تحت پوشش قرار داده است.
 
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://img.freepik.com/premium-vector/artificial-intelligence-machine-learning-ai-data-deep-learning-future-technology-artwork_258787-1056.jpg?w=2000" /> AI Collection
+
+---
+
+<div align="center">
+    <br />
+    <i>THE GENERATIVE AI LANDSCAPE</i>
+    <br />
+    <br />
+    <i>A Collection of Awesome Generative AI Applications</i>
+    <br />
+</div>
+
+## Index
+- 🤖 [چت بات های عمومی](#چت-بات-های-عمومی)
+- 🌄 [Art & Image Generator](#art--image-generator)
+- 💻 [Code & Database Assistant](#code--database-assistant)
+- 📠 [Content Generation & Seo](#content-generation--seo)
+- 👨‍💻 [Customer Support](#customer-support)
+- 💰 [Sales & Marketing](#sales--marketing)
+- 🔍 [Search Engines](#search-engines)
+- 🎬 [Video](#video)
+- ✍️ [Writing Assistant](#writing-assistant)
+
+---
 
 ## چت بات های عمومی
 | Tool | Description | 
