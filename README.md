@@ -21,25 +21,24 @@
 ## چت بات های عمومی
 | Tool | Description | 
 |-|-|
-| [ChatGPT](https://openai.com/chatgpt) |  وبسایت رسمی چت‌جی‌پی‌تی
-| [Bard ](https://bard.google.com/) |  وبسایت هوش مصنوعی بارد از شرکت گوگل 
-| [Bing ](https://www.bing.com/?/ai) | هوش مصنوعی بینگ از شرکت مایکروسافت
-| [Claude 2 ](https://www.anthropic.com/index/claude-2) | هوش مصنوعی کلاد 2 از شرکت آنتروپیک 
-| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | هوش مصنوعی لاما 2 از شرکت متا (فیسبوک)
-| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | هوش مصنوعی فالکون تمرین داده شده با حجم بسیار عظیمی از اطلاعات 
-| [Pi](https://pi.ai/talk) | هوش مصنوعی طراحی شده تا همدلانه، مفید و ایمن باشد 
-| [POE Sage](https://poe.com/Sage) | بهترین پلتفرم برای دسترسی و مدیریت همزمان بهترین مدل های هوش مصنوعی 
-| [Perplexity](https://www.perplexity.ai/) |    دسترسی رایگان به چت‌جی‌پی‌تی همراه با اتصال به وب و پی دی اف
-| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
-| [H2O Driverless AI](https://gpt.h2o.ai/) | مقایسه پاسخ مدل های مختلف هوش مصنوعی 
+| [ChatGPT](https://openai.com/chatgpt) |   یک مدل زبان مبتنی بر هوش مصنوعی است که قادر به تولید متنی شبیه انسان بر اساس زمینه و مکالمات گذشته است
+| [Bard ](https://bard.google.com/) |  ابزار مکالمه هوش مصنوعی توسط گوگل. با بارد همکاری کنید تا ایده‌ها را طوفان کنید، خلاقیت را جرقه بزنید و بهره‌وری را تسریع کنید
+| [Bing ](https://www.bing.com/?/ai) | بینگ به شما کمک می‌کند اطلاعات را به عمل تبدیل کنید و از جستجو به انجام سریع‌تر و آسان‌تر بروید
+| [Claude 2 ](https://www.anthropic.com/index/claude-2) | کلود یک دستیار هوش مصنوعی برای وظایف شما بدون توجه به مقیاس است
+| [Llama 2 ](https://ai.meta.com/llama/#download-the-model) | یک مدل زبان بزرگ اوپن سورس است که توسط متا که قبلاً با نام فیس بوک شناخته می شد توسعه یافته است که می تواند برای تولید متن برای انواع وظایف پردازش زبان طبیعی  مانند ربات های چت و ترجمه زبان استفاده شود.   بر روی حجم عظیمی از داده ها  آموزش دیده است، رایگان است و می توان از آن برای ساخت برنامه های کاربردی مختلف استفاده کرد 
+| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | یک مدل زبان بزرگ پیشرفته است که توسط موسسه نوآوری فناوری در ابوظبی ساخته شده است. روی 3.5 تریلیون آموزش دیده است. 
+| [Pi](https://pi.ai/talk) | سلام، من پی هستم. من هوش مصنوعی شخصی شما هستم که به گونه‌ای طراحی شده‌ام که پشتیبان، هوشمند و در هر زمان در کنار شما باشم 
+| [POE](https://poe.com/Sage) |  یک پلتفرم مبتنی بر وب است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید. می‌توانید از هوش مصنوعی برای تولید محتوا، ترجمه زبان‌ها، پاسخ به سؤالات و موارد دیگر استفاده کنید.
+| [Perplexity](https://www.perplexity.ai/) | یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد
 | [Phind](https://www.phind.com/) | دسترس رایگان به چت‌جی‌پی‌تی و به همراه اتصال به وب و همچنین دستیار برنامه نویسی 
-| [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس 
-| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | استفاده آسان از مدل های هوش مصنوعی 
 | [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | ابزاری برای انجام دادن خودکار وظایف با نوشتن خودکار دستور برای چت‌جی‌پی‌تی 
 | [Godmode](https://godmode.space/) | ابزار مبتنی بر هوش مصنوعی ابرای ایجاد خروجی های منحصر به فرد و خلاق بر اساس داده های ورودی | AutoGPT, BabyAGI 
+| [Hugging Face Chat](https://huggingface.co/chat/) | دسترسی به ابزار های هوش مصنوعی اوپن سورس 
+| [Vercel SDK](https://sdk.vercel.ai/) | پلتفرمی برای دسترسی همزمان به چندین مدل هوش مصنوعی
+| [H2O Driverless AI](https://gpt.h2o.ai/) | مقایسه پاسخ مدل های مختلف هوش مصنوعی 
+| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | دسترسی آسان به هوش مصنوعی لاما 2 
 | [Chatbot Arena](https://chat.lmsys.org/?arena) | مقایسه سرعت و کارایی مدل های هوش مصنوعی 
-| [BlinkDL](https://huggingface.co/spaces/BlinkDL/RWKV-World-7B) | هوش مصنوعی تمرین داده شده با زبان های مختلف
 | [https://replika.com/
 | [https://www.cogram.com/
 | [Zapier AI Chatbot
