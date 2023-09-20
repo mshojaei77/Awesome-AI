@@ -19,30 +19,29 @@
 ---
 
 ## چت بات های عمومی
-| توضیح | هوش مصنوعی | 
+
+| AI | توضیح |
 |-|-|
-| یک مدل زبان مبتنی بر هوش مصنوعی است که قادر به تولید متنی شبیه انسان بر اساس زمینه و مکالمات گذشته است | [ChatGPT](https://openai.com/chatgpt) |
-| ابزار مکالمه هوش مصنوعی توسط گوگل. با بارد همکاری کنید تا ایده‌ها را طوفان کنید، خلاقیت را جرقه بزنید و بهره‌وری را تسریع کنید | [Bard](https://bard.google.com/) |
-| بینگ به شما کمک می‌کند اطلاعات را به عمل تبدیل کنید و از جستجو به انجام سریع‌تر و آسان‌تر بروید | [Bing](https://www.bing.com/?/ai) |
-| کلود یک دستیار هوش مصنوعی برای وظایف شما بدون توجه به مقیاس است | [Claude 2](https://www.anthropic.com/index/claude-2) |
-| یک مدل زبان بزرگ اوپن سورس است که توسط متا که قبلاً با نام فیس بوک شناخته می شد توسعه یافته است که می تواند برای تولید متن برای انواع وظایف پردازش زبان طبیعی مانند ربات های چت و ترجمه زبان استفاده شود. بر روی حجم عظیمی از داده ها آموزش دیده است، رایگان است و می توان از آن برای ساخت برنامه های کاربردی مختلف استفاده کرد | [Llama 2](https://ai.meta.com/llama/#download-the-model) |
-| یک مدل زبان بزرگ پیشرفته است که توسط موسسه نوآوری فناوری در ابوظبی ساخته شده است. روی 3.5 تریلیون آموزش دیده است | [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) |
-| سلام، من پی هستم. من هوش مصنوعی شخصی شما هستم که به گونه‌ای طراحی شده‌ام که پشتیبان، هوشمند و در هر زمان در کنار شما باشم | [Pi](https://pi.ai/talk) |
-| یک پلتفرم مبتنی بر وب است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید. می‌توانید از هوش مصنوعی برای تولید محتوا، ترجمه زبان‌ها، پاسخ به سؤالات و موارد دیگر استفاده کنید. | [POE](https://poe.com/Sage) |
-| یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد | [Perplexity](https://www.perplexity.ai/) |
-|  یک موتور جستجوی هوش مصنوعی است که برای توسعه دهندگان و سوالات فنی بهینه شده است | [Phind](https://www.phind.com/) |
-| دسترسی به طیف متنوعی از مدل‌های پیشرفته، از مدل‌های زبان پیشرفته تا مدل‌های تصویر قدرتمند و فراتر از آن. | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) |
-| نسخه ای از مدل هوش مصنوعی جی پی تی که کاربران می توانند با افزودن یک نام و هدف هوش مصنوعی سفارشی خود را ایجاد کنند. | [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) |
-|  یک رابط کاربری گرافیکی برای تعامل با مدل چت جی پی تی فراهم می کند. با استفاده از این رابط کاربری گرافیکی، کاربران می توانند پیام های متنی یا سوالات را وارد کرده و پاسخ های مبتنی بر متن را دریافت کنند. این رابط ممکن است شامل ویژگی‌هایی مانند قالب‌بندی متن، گزینه‌های سفارشی‌سازی، و امکان ذخیره یا صادر کردن مکالمات باشد. این ابزار ممکن است برای کارهایی مانند تولید متن، پاسخ به سؤالات یا شبیه سازی مکالمات با دستیار مجازی مفید باشد. | [Godmode](https://godmode.space/) |
-| Hugging Face Chat: Access to open-source AI tools | [Hugging Face Chat](https://huggingface.co/chat/) |
-| Vercel SDK: A platform for accessing multiple AI models simultaneously | [Vercel SDK](https://sdk.vercel.ai/) |
-| H2O Driverless AI: Compare the responses of different AI models | [H2O Driverless AI](https://gpt.h2o.ai/) |
-| Lepton Playground: Easy access to Llama 2 AI | [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) |
-| Chatbot Arena: Compare the speed and performance of AI models | [Chatbot Arena](https://chat.lmsys.org/?arena) |
-| Replika | [https://replika.com/](https://replika.com/) |
-| Cogram | [https://www.cogram.com/](https://www.cogram.com/) |
-| Zapier AI Chatbot | [Zapier AI Chatbot](https://zapier.com/apps/chatbot) |
-| KoalaChat | [KoalaChat](https://koalachat.com/) |
+| [ChatGPT](https://openai.com/chatgpt) | یک مدل زبان مبتنی بر هوش مصنوعی است که قادر به تولید متنی شبیه انسان بر اساس زمینه و مکالمات گذشته است |
+| [Bard](https://bard.google.com/) | ابزار مکالمه هوش مصنوعی توسط گوگل. با بارد همکاری کنید تا ایده‌ها را طوفان کنید، خلاقیت را جرقه بزنید و بهره‌وری را تسریع کنید |
+| [Bing](https://www.bing.com/?/ai) | بینگ به شما کمک می‌کند اطلاعات را به عمل تبدیل کنید و از جستجو به انجام سریع‌تر و آسان‌تر بروید |
+| [Claude 2](https://www.anthropic.com/index/claude-2) | کلود یک دستیار هوش مصنوعی برای وظایف شما بدون توجه به مقیاس است |
+| [Llama 2](https://ai.meta.com/llama/#download-the-model) | یک مدل زبان بزرگ اوپن سورس است که توسط متا توسعه یافته است که می تواند برای تولید متن برای انواع وظایف پردازش زبان طبیعی مانند ربات های چت و ترجمه زبان استفاده شود. بر روی حجم عظیمی از داده ها آموزش دیده است، رایگان است و می توان از آن برای ساخت برنامه های کاربردی مختلف استفاده کرد |
+| [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | یک مدل زبان بزرگ پیشرفته است که توسط مؤسسه نوآوری فناوری در ابوظبی ساخته شده است. روی 3.5 تریلیون آموزش دیده است |
+| [Pi](https://pi.ai/talk) | سلام، من پی هستم. من هوش مصنوعی شخصی شما هستم که به گونه‌ای طراحی شده‌ام که پشتیبان، هوشمند و در هر زمان در کنار شما باشم |
+| [POE](https://poe.com/Sage) | یک پلتفرم مبتنی بر وب است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید. می‌توانید از هوش مصنوعی برای تولید محتوا، ترجمه زبان‌ها، پاسخ به سؤالات و موارد دیگر استفاده کنید. |
+| [Perplexity](https://www.perplexity.ai/) | یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد |
+| [Phind](https://www.phind.com/) | یک موتور جستجوی هوش مصنوعی است که برای توسعه دهندگان و سوالات فنی بهینه شده است |
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | دسترسی به طیف متنوعی از مدل‌های پیشرفته، از مدل‌های زبان پیشرفته تا مدل‌های تصویر قدرتمند و فراتر از آن. |
+| [Agent GPT](https://agentgpt.reworkd.ai/agent?id=clm45eq0000npjq08w5ptcjru) | نسخه ای از مدل هوش مصنوعی جی پی تی که کاربران می توانند با افزودن یک نام و هدف هوش مصنوعی سفارشی خود را ایجاد کنند. |
+| [Godmode](https://godmode.space/) |  یک رابط کاربری گرافیکی برای تعامل با مدل چت جی پی تی فراهم می کند. با استفاده از این رابط کاربری گرافیکی، کاربران می توانند پیام های متنی یا سوالات را وارد کرده و پاسخ های مبتنی بر متن را دریافت کنند. این رابط ممکن است شامل ویژگی‌هایی مانند قالب‌بندی متن، گزینه‌های سفارشی‌سازی، و امکان ذخیره یا صادر کردن مکالمات باشد. این ابزار ممکن است برای کارهایی مانند تولید متن، پاسخ به سؤالات یا شبیه سازی مکالمات با دستیار مجازی مفید باشد. |
+| [Hugging Face Chat](https://huggingface.co/chat/) | یک ربات چت هوش مصنوعی است که توسط  توسعه دهنده پیشرو ابزارها و فناوری های هوش مصنوعی ایجاد شده است. |
+| [Vercel SDK](https://sdk.vercel.ai/) | یک کتابخانه منبع باز برای ایجاد رابط های کاربری مبتنی بر هوش مصنوعی |
+| [Lepton Playground](https://dashboard.lepton.ai/playground/llama2) | برنامه‌های هوش مصنوعی را به طور کارآمد، در مقیاس و در عرض چند دقیقه اجرا کنید. |
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | پلتفرمی است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید و به بهترین مدل رای دهید. |
+| [Replika](https://replika.com/) |  یک همراه شخصی با قدرت هوش مصنوعی |
+| [Zapier Chatbot](https://zapier.com/apps/chatbot) |  از هوش مصنوعی برای تجزیه و تحلیل و تجزیه متن خود، ایجاد ربات‌های گفتگوی سفارشی، و تقویت برنامه‌های خود با ابزارهای هوش مصنوعی استفاده کنید. |
+| [KoalaChat](https://koalachat.com/) |  یک برنامه چت مبتنی بر هوش مصنوعی است که برای تولید محتوا و اطلاعات برای استفاده شخصی و حرفه ای استفاده می شود |
 
 
 <!--lint ignore double-link-->
@@ -52,27 +51,28 @@
 | Tool | Description | 
 |-|-|
 | [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال
-| [Jasper
+| [Jasper]
 | [Rytr Me](https://app.rytr.me/create/file/64eb7ae0c5c98e2d6ea54091) | تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر
-| [Writesonic
+| [Writesonic]
 | [Consensus](https://consensus.app/search/) | یافتن پاسخ در مقالات تحقیقاتی
 | [AI Scholar](https://ai-chat.scholarcn.com/) | هوش مصنوعی دستیار مقاله نویسی و تحقیقات دانشجویی
-| [tome.app]()|
-| [Scalenut⁵
-| [HubSpot⁵
-| [Grammarly⁵
-| [Lately⁵
-| [HelloWoofy⁵
-| [Anyword⁵
-| [DeepL Pro⁵
-| [LongShot AI⁵
-| [LOVO Studio⁵
-| [NeuralText⁵
-| [https://www.deepl.com/write
-| [https://www.slidesai.io/
-| [https://www.sudowrite.com/
-| [https://wordhero.co/
-| [https://www.textbuilder.ai/
+| [tome app]()|
+| [Scalenut]() |
+| [HubSpot]() |
+| [Grammarly]() |
+| [Lately]() |
+| [HelloWoofy]() |
+| [Anyword]() |
+| [DeepL Pro]() |
+| [LongShot AI]() |
+| [LOVO Studio]() |
+| [NeuralText]() |
+| [](https://www.deepl.com/write) |
+| [](https://www.slidesai.io/) |
+| [](https://www.sudowrite.com/) |
+| [](https://wordhero.co/) |
+| [](https://www.textbuilder.ai/) |
+| []() | 
 
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
@@ -86,10 +86,10 @@
 | [microsoft designer](https://designer.microsoft.com/) |
 | [leonardo ai](https://leonardo.ai) |
 | [dall-e](https://openai.com/dall-e-2) |
-| [Picsart
-| [Imagen
-| [Parti
-| [Craiyon
+| [Picsart]() |
+| [Imagen]() |
+| [Parti]() |
+| [Craiyon]() |
 | [mann-e](https://manne.ir/) |
 | [ideogram](https://ideogram.ai/)|
 | [Lumalabs](https://lumalabs.ai/dashboard/imagine) |  تولید مدل های سه بعدی 
@@ -98,11 +98,10 @@
 | [Gravitai](https://webui.graviti.com/) | پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند 
 | [Sea Art AI](https://www.seaart.ai/home) | مدل های تولید عکس توسط هوش مصنوعی 
 | [Happy Accidents](https://www.happyaccidents.ai/create) |  تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی
-| [Jasper.ai¹¹¹⁴
-| [Photosonic¹¹
-| [DALL-E 2¹¹¹³¹⁴
-| [Craiyon¹¹¹⁴
-| [StarryAI¹¹
+| [Jasper.ai]() |
+| [Photosonic]() |
+| [Craiyon]() |
+| [StarryAI]() |
 
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
@@ -112,55 +111,57 @@
 | [synthesia]()|
 | [runway]()|
 | [lluma]()|
-| [Kapwing's AI Video Generator
-| [Descript
-| [Lumen5
-| [InVideo
-| [Clipchamp
-| [https://otter.ai/
-| [Descript⁹¹⁷
-| [Wondershare Filmora⁹¹⁷
-| [Runway for experimenting with generative AI⁹
-| [Peech for content marketing teams⁹
-| [Pictory AI
+| [Kapwing's AI Video Generator]() |
+| [Descript]() |
+| [Lumen5]() |
+| [InVideo]() |
+| [Clipchamp]() |
+| [](https://otter.ai/) | 
+| [Descript]() |
+| [Wondershare Filmora]() |
+| [Runway]() |
+| [Peech]() |
+| [Pictory AI]() |
 
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## کدنویسی و توسعه
 | Tool | Description | 
 |-|-|
-| [GitHub Copilot
-| [Tabnine
-| [Kite
-| [Replit
-| [CodePen
-| [Amazon CodeWhisperer
+| [GitHub Copilot]() |
+| [Tabnine]() |
+| [Kite]() |
+| [Replit]() |
+| [CodePen]() |
+| [Amazon CodeWhisperer]() |
 | [Black Box](https://www.useblackbox.io/search) | دستیار کدنویسی برای برنامه نویسان 
 | [Adrenaline](https://useadrenaline.com/app) | دیباگ کد و توضیح مخزن گیت هاب
 | [Codepal](https://codepal.ai/) |  همراه برنامه نویسی و تولید کننده کد مبتنی بر هوش مصنوعی 
 | [WizardCoder](http://47.103.63.15:50085/) | نسخه بهبود یافته لاما
-| [https://aws.amazon.com/
-| [codewhisperer/
-| [https://www.scalenut.com/
-| [https://kafkai.com/en/
-| [GitHub Copilot X — Best AI coding tool, helps with code completion, code explanation, debugging, and more.26
-| [CodeGPT — A third-party extension developed by Daniel San for VS Code.26
+| کارهای وقت گیر علم داده از جمله مهندسی ویژگی های پیشرفته، انتخاب مدل، تنظیم هایپرپارامتر، انباشته مدل، … را خودکار می کند | [H2O Driverless AI](https://gpt.h2o.ai/) |
+| ابزارهایی برای تولید کد و یادداشت برداری در جلسات | [https://www.cogram.com/](https://www.cogram.com/) |
+
+
+| [](https://aws.amazon.com/) |
+| [](codewhisperer/)
+| [](https://www.scalenut.com/)
+| [](https://kafkai.com/en/)
+| [CodeGPT]() |
 
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## خدمات مشتری و بازاریابی
 | Tool | Description | 
 |-|-|
-| [Drift
-| [HubSpot
-| [LivePerson Einstein
-| [Persado
-| [https://www.cogram.com/
-| [https://character.ai/
-| [https://admaker.memorable.io/
-| [HubSpot CRM — Best for a shared, singular inbox²¹
-| [Churn360 — Best for predictive customer analytics²¹
-
+| [Drift]() |
+| [HubSpot]() |
+| [LivePerson Einstein]() |
+| [Persado]() |
+| [](https://www.cogram.com/) |
+| [](https://character.ai/) |
+| [](https://admaker.memorable.io/) |
+| [HubSpot CRM]() |
+| [Churn360]() |
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## جستجو و اکتشاف
@@ -174,20 +175,20 @@
 | [CrowdView](https://crowdview.ai/) |  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها 
 | [YouChat Search](https://you.com) | موتور جستجوی بهینه شده با هوش مصنوعی 
 | [OpenRouter AI](https://openrouter.ai/) | مدل های شخصی سازی شده هوش مصنوعی
-| [https://neeva.com/
-| [https://socratic.org/
-| [https://elsaspeak.com/en/
-| [https://www.perplexity.ai/
-| [Rewind (Best Mac Search Tool)29
-| [SearchIQ (Best Website Search Tool for Site Owners)29
-| [Searchable (Best Document Search Tool)29
-| [History Search (Best Browser Search Tool)29
-| [Everypixel (Best Stock Photo Search)29
-| [Omnisearch (Best Search for Courses and Education)29
-| [Lets Find (Best Universal Search)29
-| [Numbers Search Engine (Best NFT Search Engine)29
-| [Neeva AI29
-| [Bing AI
+| [](https://neeva.com/)
+| [](https://socratic.org/)
+| [](https://elsaspeak.com/en/)
+| [](https://www.perplexity.ai/)
+| [Rewind]()
+| [SearchIQ]()
+| [Searchable]()
+| [History Search]()
+| [Everypixel]()
+| [Omnisearch]()
+| [Lets Find]()
+| [Numbers Search Engine]()
+| [Neeva AI29]()
+| [Bing AI]()
 
 <!--lint ignore double-link-->
 **[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
