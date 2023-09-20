@@ -4,29 +4,18 @@
 به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
 
 # <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://img.freepik.com/premium-vector/artificial-intelligence-machine-learning-ai-data-deep-learning-future-technology-artwork_258787-1056.jpg?w=2000" /> AI Collection
-
----
-
-<div align="center">
-    <br />
-    <i>THE GENERATIVE AI LANDSCAPE</i>
-    <br />
-    <br />
-    <i>A Collection of Awesome Generative AI Applications</i>
-    <br />
-</div>
-
-## Index
-- 🤖 [چت بات های عمومی](#چت-بات-های-عمومی)
-- 🌄 [Art & Image Generator](#art--image-generator)
-- 💻 [Code & Database Assistant](#code--database-assistant)
-- 📠 [Content Generation & Seo](#content-generation--seo)
-- 👨‍💻 [Customer Support](#customer-support)
-- 💰 [Sales & Marketing](#sales--marketing)
-- 🔍 [Search Engines](#search-engines)
-- 🎬 [Video](#video)
-- ✍️ [Writing Assistant](#writing-assistant)
-
+## فهرست مطالب
+- 📝 [چت بات های عمومی](#چت-بات-های-عمومی)
+- 📠 [تولید محتوا و تحقیقات](#تولید-محتوا-و-تحقیقات)
+- 🌄 [تولید و ویرایش تصویر](#تولید-و-ویرایش-تصویر)
+- 🎬 [تولید و ویرایش ویدیو](#تولید-و-ویرایش-ویدیو)
+- 💻 [کدنویسی و توسعه](#کدنویسی-و-توسعه)
+- 👨‍💻 [خدمات مشتری و بازاریابی](#خدمات-مشتری-و-بازاریابی)
+- 🔍 [جستجو و اکتشاف](#جستجو-و-اکتشاف)
+- 🤖 [ربات تلگرام](#ربات-تلگرام)
+- 📱 [نرم افزار موبایل](#نرم-افزار-موبایل)
+- 🖥 [نرم افزار دسکتاپ](#نرم-افزار-دسکتاپ)
+- 🧩 [افزونه و پلاگین](#افزونه-و-پلاگین)
 ---
 
 ## چت بات های عمومی
@@ -58,7 +47,7 @@
 | [Tidio
 | [Drift
 
-## تولید محتوا و تحقیق
+## تولید محتوا و تحقیقات
 | Tool | Description | 
 |-|-|
 | [copy ai](https://www.copy.ai/) | هوش مصنوعی تولید پست وبلاگ و محتوای دیجیتال
@@ -215,8 +204,7 @@
 - [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
 - [sd_prompt_generator_bot](https://t.me/sd_prompt_generator_bot)
 
-## نرم افزار ها
-### Mobile apps
+## نرم افزار موبایل
 
 - 📱 Poe 
 - 🧠 Perplexity AI
@@ -235,7 +223,7 @@
 - 🧠 Frank: The AI Chat Assistant
 - 💬 Famed.Chat
 - 
-### Desktop apps 
+## نرم افزار دسکتاپ
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch=1)
 - [Skype](https://www.skype.com/en/get-skype/)
 - [Botpress](https://botpress.com/)
@@ -248,7 +236,7 @@
 - [PYGPT](https://sourceforge.net/projects/pygpt.mirror/)
 
 
-## افزونه ها
+## افزونه و پلاگین
 ### Chrome (and other chromium base browsers)
 
 - 🧠 [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) - AI Companion
