@@ -11,6 +11,10 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 | [Bard](https://bard.google.com/) | Bard artificial intelligence website from Google | PALM 2 | ✅
 | [Bing](https://www.bing.com/?/ai) | Bing artificial intelligence from Microsoft (requires an application or Edge browser)| GPT-4 |✅
 | [Claude 2](https://www.anthropic.com/index/claude-2) | Cloud 2 artificial intelligence from Anthropic company | claude-2 | ✅
+“`html
+<div id="container"></div>
+<script src="load-more.js"></script>
+“`
 | [Llama 2](https://ai.meta.com/llama/#download-the-model) | Llama 2 Artificial Intelligence from Meta Company (Facebook) (Open Source) | llama-2 | ✅
 | [Falcon 180b](https://tiiuae-falcon-180b-demo.hf.space/?__theme=dark) | Falcon artificial intelligence trained with a very large amount of information | Falcon 180b |✅
 | [Pi](https://pi.ai/talk) | Artificial intelligence is designed to be empathic, helpful and safe| Inflection-1 | ✅
