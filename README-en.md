@@ -1,4 +1,4 @@
-# Awesome-AI
+# Awesome-AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 This is a list of some of the best resources, tools, samples, demos, hacks, or apps related to AI and ChatGPT technology. ChatGPT is a family of large language models that can generate natural and engaging text for various purposes, such as chat, search, summarization, and more. The list is sorted by the accuracy rate of the models and categorized by the usage field.
 
