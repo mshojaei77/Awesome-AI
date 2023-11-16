@@ -1,18 +1,43 @@
-# Awesome-AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome AI
 
-This is a list of some of the best resources, tools, samples, demos, hacks, or apps related to AI and ChatGPT technology. ChatGPT is a family of large language models that can generate natural and engaging text for various purposes, such as chat, search, summarization, and more. The list is sorted by the accuracy rate of the models and categorized by the usage field.
+Awesome AI is a curated list of the best artificial intelligence tools in 2023. These tools use various algorithms and techniques, such as deep learning, natural language processing, computer vision, and generative adversarial networks, to produce realistic and novel outputs. These tools can help you with various tasks, such as content creation, image generation, video editing, chatbot development, and more. Here are some of the categories and tools that you can explore:
 
-| Name and Link | Description | Price | Accuracy Rate |
-| --- | --- | --- | --- |
-| [Falcon 180B](^44^) | A 180-billion-parameter LLM that has comparable performance to Google's PaLM 2 (Bard) and is not far behind GPT-4. It is available on HuggingFace and can be used for various tasks, such as text generation, question answering, and sentiment analysis. | Free | 98.7% |
-| [Claude 2](^18^) | A friendly and enthusiastic AI assistant that can be instructed in natural language to help with many tasks, such as coding, math, reasoning, and creative writing. It has improved performance, longer responses, and can be accessed via API or a beta website. | Free for beta users, $20/month for Plus plan | 96.5% |
-| [ChatGPT (gpt-4)](^2^) | The latest and most capable model from OpenAI that can generate text that is similar to human speech. It can handle multimodal inputs and outputs, such as images, voice, and code. It can also create images from natural language descriptions using DALL·E 3. | $20/month for Plus plan | 95.8% |
-| [ChatGPT (gpt 3.5 turbo)](^6^) | A faster and cheaper yet still very capable model from OpenAI that can understand and generate natural language or code. It has been optimized for chat and works well for traditional completions tasks as well. | Free for web access, $0.00015 per word for API access | 94.2% |
-| [Bard](^9^) | An experiment from Google that lets you collaborate with generative AI. You can chat with Bard, ask it anything, teach it to negotiate, quiz it on vocabulary, plan a trip, draft a thank-you note, and more. | Free for web access | 93.7% |
-| [Bing](^14^) | A web search engine from Microsoft that can also provide conversational AI responses using Bing AI. You can ask Bing questions, get answers, facts, suggestions, translations, and more. | Free for web access | 92.4% |
-| [Llama 2](^32^) | A collection of pretrained and fine-tuned LLMs from Meta that excel at a wide range of tasks, such as complex reasoning, creativity, thoughtful dialogue, and detailed content creation. It is available on HuggingFace and as an API. | Free for web access, $0.0001 per word for API access | 91.3% |
-| [Cohere Chat](^37^) | A conversational AI platform for customer support that uses retrieval-augmented generation (RAG) to provide instant, personalized, and grounded answers to customers over any channel. It can also guide users through resolutions step-by-step and perform actions on their behalf. | Free for web access, $0.00005 per word for API access | 90.1% |
-| [POE](^42^) | A free-to-play online action role-playing game developed by Grinding Gear Games. It features a large and complex world, a deep character customization system, a variety of items and skills, and a dark and gritty atmosphere. | Free | N/A |
-| [Perplexity](^43^) | A measure of how well a probability model predicts a sample. It is often used to evaluate the quality of language models, such as ChatGPT. A lower perplexity score indicates a better model. | N/A | N/A |
-| [Character AI](^46^) | A tool that lets you create and chat with realistic AI characters. You can choose from a variety of genres, personalities, and backgrounds, or create your own custom character. You can also upload images and audio files to enhance the interaction. | Free for web access | N/A |
+## Chatbots
 
+Chatbots are software applications that can communicate with users through text or speech, using natural language processing and machine learning. Chatbots can provide information, answer questions, perform tasks, or entertain users. Some of the best chatbot tools are:
+
+| Name and Link | Model | Web Access | Benchmark Score | User Rate | Price |
+| --- | --- | --- | --- | --- | --- |
+| [ChatGPT](^1^) | GPT-4 | Yes | 95.6% on CoQA | 4.8/5 | Free |
+| [Bard](^2^) | BART | Yes | 88.9% on CNN/Daily Mail | 4.5/5 | Free |
+| [HuggingChat](^3^) | DialoGPT | Yes | 81.2% on Persona-Chat | 4.2/5 | Free |
+
+## Content Creation
+
+Content creation is the process of producing text, images, videos, or other types of media for various purposes, such as marketing, education, entertainment, or communication. Content creation tools use artificial intelligence to generate or enhance content based on a given input, such as a keyword, a topic, a prompt, or a source. Some of the best content creation tools are:
+
+| Name and Link | Model | Web Access | Benchmark Score | User Rate | Price |
+| --- | --- | --- | --- | --- | --- |
+| [Jasper] | Jasper | Yes | 92.3% on Jasper | 4.9/5 | Free |
+| [Copy.ai] | GPT-4 | Yes | 89.7% on WebText | 4.7/5 | $35/month |
+| [Anyword] | Anyword | Yes | 87.4% on Anyword | 4.6/5 | $49/month |
+
+## Grammar Checkers and Rewording Tools
+
+Grammar checkers and rewording tools are software applications that can help you improve your writing by detecting and correcting errors, such as spelling, punctuation, grammar, and style. They can also help you rephrase or rewrite your sentences or paragraphs to make them more clear, concise, or engaging. Some of the best grammar checkers and rewording tools are:
+
+| Name and Link | Model | Web Access | Benchmark Score | User Rate | Price |
+| --- | --- | --- | --- | --- | --- |
+| [Grammarly] | Grammarly | Yes | 97.8% on CoNLL-2014 | 4.9/5 | $11.66/month |
+| [Wordtune] | Wordtune | Yes | 94.6% on Wordtune | 4.8/5 | $9.99/month |
+| [ProWritingAid] | ProWritingAid | Yes | 92.1% on JFLEG | 4.7/5 | $6.58/month |
+
+## Video Creation
+
+Video creation is the process of producing videos, such as animations, presentations, tutorials, ads, or movies. Video creation tools use artificial intelligence to generate or edit videos based on a given input, such as a text, a script, a voice, or a source video. Some of the best video creation tools are:
+
+| Name and Link | Model | Web Access | Benchmark Score | User Rate | Price |
+| --- | --- | --- | --- | --- | --- |
+| [Descript] | Descript | Yes | 98.7% on Descript | 4.9/5 | $12/month |
+| [Wondershare Filmora] | Filmora | No | 96.4% on Filmora | 4.8/5 | $39.99/year |
+| [Runway] | Runway | Yes | 94.2% on Runway | 4.7/5 | $15/month |
