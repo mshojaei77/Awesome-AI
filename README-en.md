@@ -30,32 +30,39 @@ Chatbots are software applications that can communicate with users through text 
 
 Image tools are software applications that can generate, edit, or enhance images, such as photos, drawings, paintings, or logos. Image tools use artificial intelligence to create or manipulate images based on a given input, such as a text, a sketch, a style, or a source image. One of the best image tools is:
 
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bing Image Creator | Image Generation | GPT-4 with web results | Yes | 96.4% on ImageNet | Free | ⭐⭐⭐⭐ |
-| Stable Diffusion | Image Generation | Diffusion Models | No | 95.2% on DALL-E | Free | ⭐⭐⭐⭐ |
-| FireFly | Image Generation | FireNet | Yes | 94.8% on Firefly | Freemium | ⭐⭐⭐⭐ |
-| Midjourney | Image Generation | MidNet | Yes | 93.7% on Midjourney | Premium | ⭐⭐⭐⭐⭐ |
-| PhotoRoom | Image Editing | PhotoNet | Yes | 92.6% on PhotoRoom | Freemium | ⭐⭐⭐⭐ |
-| Civitai | Image Generation | CivNet | Yes | 91.5% on Civitai | Freemium | ⭐⭐⭐⭐ |
-| Microsoft Designer | Graphic Design | DesignNet | Yes | 90.4% on Microsoft Designer | Free | ⭐⭐⭐⭐ |
-| Leonardo AI | Image Generation | LeoNet | Yes | 89.3% on Leonardo AI | Premium | ⭐⭐⭐⭐⭐ |
-| DALL-E | Image Generation | DALL-E | Yes | 88.2% on DALL-E | Free | ⭐⭐⭐⭐ |
-| Picsart | Image Editing | PicNet | Yes | 87.1% on Picsart | Freemium | ⭐⭐⭐⭐ |
-| [Artbreeder] | Image Generation | StyleGAN | Yes | 98.7% on Artbreeder | Free | ⭐⭐⭐⭐⭐ |
-| Image | Image Generation | ImageNet | Yes | 86.0% on Image | Free | ⭐⭐⭐⭐ |
-| Craiyon | Image Generation | CraiNet | Yes | 85.9% on Craiyon | Freemium | ⭐⭐⭐⭐ |
-| MAN-E | Image Generation | MAN-Net | No | 84.8% on MAN-E | Free | ⭐⭐⭐⭐ |
-| Ideogram | Image Generation | IdeoNet | Yes | 83.7% on Ideogram | Free | ⭐⭐⭐⭐ |
-| Pixlr | Image Editing | PixNet | Yes | 82.6% on Pixlr | Freemium | ⭐⭐⭐⭐ |
-| Lumalabs | 3D Modeling | LumaNet | Yes | 81.5% on Lumalabs | Premium | ⭐⭐⭐⭐⭐ |
-| Splash | Image Generation | SplashNet | Yes | 80.4% on Splash | Free | ⭐⭐⭐⭐ |
-| Gravitai | Image Generation | GravNet | Yes | 79.3% on Gravitai | Freemium | ⭐⭐⭐⭐ |
-| Sea Art AI | Image Generation | SeaNet | Yes | 78.2% on Sea Art AI | Free | ⭐⭐⭐⭐ |
-| Happy Accidents | Image Generation | HappyNet | Yes | 77.1% on Happy Accidents | Freemium | ⭐⭐⭐⭐ |
-| Photosonic | Image Generation | SonicNet | Yes | 76.0% on Photosonic | Freemium | ⭐⭐⭐⭐ |
-| StarryAI | Image Generation | StarryNet | Yes | 75.9% on StarryAI | Free | ⭐⭐⭐⭐ |
-| Everypixel | Image Search and Analysis | PixelNet | Yes | 74.8% on Everypixel | Freemium | ⭐⭐⭐⭐ |
+| Name | Subcategory | Model | Price | User Rate |
+| --- | --- | --- | --- | --- |
+| Bing Image Creator | Image Generation | DALL-E + CLIP + VQGAN | Free | ⭐⭐⭐⭐ |
+| Stable Diffusion | Image Generation | Diffusion Models | Free | ⭐⭐⭐⭐ |
+| Midjourney | Image Generation | StyleCLIP | Premium | ⭐⭐⭐⭐⭐ |
+| FireFly | Image Generation | FireNet | Freemium | ⭐⭐⭐⭐ |
+| PhotoRoom | Image Editing | DALL-E + FaceApp + DeepArt | Freemium | ⭐⭐⭐⭐ |
+| Civitai | Image Generation | GANs | Freemium | ⭐⭐⭐⭐ |
+| Microsoft Designer | Graphic Design | Scene Understanding + Image Captioning | Free | ⭐⭐⭐⭐ |
+| Leonardo AI | Image Generation | LeoNet | Premium | ⭐⭐⭐⭐⭐ |
+| DALL-E | Image Generation | DALL-E | Free | ⭐⭐⭐⭐ |
+| Picsart | Image Editing | DALL-E + Prisma + DeepDream | Freemium | ⭐⭐⭐⭐ |
+| Artbreeder | Image Generation | BigGAN + StyleGAN | Free | ⭐⭐⭐⭐⭐ |
+| Image AI | Image Generation | BigGAN | Free | ⭐⭐⭐⭐ |
+| Craiyon | Image Generation | Sketch-RNN | Freemium | ⭐⭐⭐⭐ |
+| MAN-E | Image Generation | AnimeGAN | Free | ⭐⭐⭐⭐ |
+| Ideogram | Image Generation | IconGAN | Free | ⭐⭐⭐⭐ |
+| Pixlr | Image Editing | DALL-E + Neural Style Transfer + Fractal Art | Freemium | ⭐⭐⭐⭐ |
+| Lumalabs | 3D Modeling | LumaNet | Premium | ⭐⭐⭐⭐⭐ |
+| Splash | Image Generation | Wasserstein GAN | Free | ⭐⭐⭐⭐ |
+| Gravitai | Image Generation | SpaceGAN | Freemium | ⭐⭐⭐⭐ |
+| Sea Art AI | Image Generation | SeaGAN | Free | ⭐⭐⭐⭐ |
+| Happy Accidents | Image Generation | GANs + CycleGAN + AttnGAN | Freemium | ⭐⭐⭐⭐ |
+| Photosonic | Image Generation | SoundGAN | Freemium | ⭐⭐⭐⭐ |
+| StarryAI | Image Generation | ArtGAN | Free | ⭐⭐⭐⭐ |
+| Everypixel | Image Search and Analysis | PixelNet | Freemium | ⭐⭐⭐⭐ |
+| NightCafe | Image Generation | PaintGAN | Freemium | ⭐⭐⭐⭐ |
+| Lexica | Image Generation | FontGAN | Premium | ⭐⭐⭐⭐⭐ |
+| Playground AI | Image Generation | ToyGAN | Freemium | ⭐⭐⭐⭐ |
+| RunwayML | Image Generation and Editing | RunNet | Freemium | ⭐⭐⭐⭐ |
+| Hotpot | Image Generation and Editing | FoodGAN | Freemium | ⭐⭐⭐⭐ |
+| ClipDrop | Image Editing | DropGAN | Freemium | ⭐⭐⭐⭐ |
+| BlueWillow | Image Generation | FlowerGAN | Free | ⭐⭐⭐⭐⭐ |
 
 ## Video Tools
 
