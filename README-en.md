@@ -9,22 +9,22 @@ Chatbots are software applications that can communicate with users through text 
 | Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
 | --- | --- | --- | --- | --- | --- | --- |
 | ChatGPT | Conversational AI | GPT-4 | Yes | 95.6% on CoQA | Free | ⭐⭐⭐⭐⭐ |
-| Bard | Conversational AI | BERT | Yes | 88.3% on ROCStories | Free | ⭐⭐⭐⭐ |
-| Bing | Search Engine AI | GPT-4 with web results | Yes | 92.7% on WebQuestions | Free | ⭐⭐⭐ |
-| Claude 2 | Task Assistant AI | ClaudeNet | Yes | 89.5% on GLUE | Premium | ⭐⭐⭐⭐⭐ |
-| Call 2 | Open Source Language Model | CallNet | No | 90.2% on SQuAD | Free | ⭐⭐⭐⭐ |
-| Cohere Chat | Conversation Platform | CohereNet | Yes | 91.4% on PersonaChat | Free | ⭐⭐⭐⭐ |
-| Falcon | Advanced Large Language Model | FalconNet | No | 94.1% on LAMBADA | Freemium | ⭐⭐⭐⭐⭐ |
-| Pi | Personal AI | PiNet | Yes | 87.6% on EmpatheticDialogues | Free | ⭐⭐⭐⭐ |
-| Grok | AI Development Platform | GrokNet | Yes | 93.2% on SuperGLUE | Premium | ⭐⭐⭐⭐⭐ |
-| POE | Web-based AI Platform | POENet | Yes | 89.7% on CommonGen | Freemium | ⭐⭐⭐⭐ |
-| Perplexity | Natural Language Processing Tool | PerplexNet | Yes | 90.8% on TextSum | Freemium | ⭐⭐⭐⭐⭐ |
-| character ai | 3D Character Creation Tool | characterNet | Yes | 88.9% on FaceGen | Freemium | ⭐⭐⭐⭐ |
-| Phind | AI Search Engine for Developers | PhindNet | Yes | 91.3% on StackSearch | Free | ⭐⭐⭐⭐ |
-| Forefront | AI Assistant Service | ForeNet | Yes | 90.4% on TaskMaster | Freemium | ⭐⭐⭐⭐ |
-| The B AI | AI Model Access Platform | The B Net | Yes | 92.1% on Leaderboard | Freemium | ⭐⭐⭐⭐⭐ |
-| Hugging Face Chat | AI Chat Bot | HuggingFaceNet | Yes | 89.9% on DailyDialog | Free | ⭐⭐⭐⭐ |
-| Vercel SDK | AI User Interface Library | VercelNet | No | 88.7% on UIEval | Free | ⭐⭐⭐⭐⭐ |
+| Bard | Conversational AI | PaLM 2 | Yes | 88.3% on ROCStories | Free | ⭐⭐⭐⭐ |
+| Bing | Search Engine AI | GPT-4 | Yes | 92.7% on WebQuestions | Free | ⭐⭐⭐ |
+| Claude 2 | Task Assistant AI | Claude | Yes | 89.5% on GLUE | Premium | ⭐⭐⭐⭐⭐ |
+| Llama 2 | Open Source Language Model | Llama 2 | No | 90.2% on SQuAD | Free | ⭐⭐⭐⭐ |
+| Cohere Chat | Conversation Platform | Command | Yes | 91.4% on PersonaChat | Free | ⭐⭐⭐⭐ |
+| Falcon | Advanced Large Language Model | Falcon | No | 94.1% on LAMBADA | Freemium | ⭐⭐⭐⭐⭐ |
+| Pi | Personal AI | inflection | Yes | 87.6% on EmpatheticDialogues | Free | ⭐⭐⭐⭐ |
+| Grok | AI Development Platform | Grok | Yes | 93.2% on SuperGLUE | Premium | ⭐⭐⭐⭐⭐ |
+| Poe | Web-based AI Platform | various models | Yes | 89.7% on CommonGen | Freemium | ⭐⭐⭐⭐ |
+| Perplexity |  AI Search Engine | GPT-3.5 | Yes | 90.8% on TextSum | Freemium | ⭐⭐⭐⭐⭐ |
+| character ai | 3D Character Creation Tool | character ai | Yes | 88.9% on FaceGen | Freemium | ⭐⭐⭐⭐ |
+| Phind | AI Search Engine for Developers |  GPT-4 | Yes | 91.3% on StackSearch | Free | ⭐⭐⭐⭐ |
+| Forefront | AI Assistant Service | various models | Yes | 90.4% on TaskMaster | Freemium | ⭐⭐⭐⭐ |
+| The B AI | AI Model Access Platform | various models | Yes | 92.1% on Leaderboard | Freemium | ⭐⭐⭐⭐⭐ |
+| Hugging Face Chat | AI Chat Bot | various models | Yes | 89.9% on DailyDialog | Free | ⭐⭐⭐⭐ |
+| Vercel SDK | AI User Interface Library |various models | No | 88.7% on UIEval | Free | ⭐⭐⭐⭐⭐ |
 
 ## Image Tools
 
@@ -68,94 +68,94 @@ Image tools are software applications that can generate, edit, or enhance images
 
 Video tools are software applications that can generate, edit, or enhance videos, such as animations, presentations, tutorials, ads, or movies. Video tools use artificial intelligence to create or manipulate videos based on a given input, such as a text, a script, a voice, or a source video. One of the best video tools is:
 
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
-| --- | --- | --- | --- | --- | --- | --- |
-| Synthesia | Video Generation | SynNet | Yes | 97.6% on Synthesia | $49/month | ⭐⭐⭐⭐⭐ |
-| VEED IO | Video Editing | VeedNet | Yes | 96.5% on VEED IO | $24/month | ⭐⭐⭐⭐ |
-| Runway | Video Editing | RunNet | Yes | 95.4% on Runway | $15/month | ⭐⭐⭐⭐ |
-| Kapwing | Video Editing | KapNet | Yes | 94.3% on Kapwing | $20/month | ⭐⭐⭐⭐ |
-| HeyGen | Video Generation | HeyNet | Yes | 93.2% on HeyGen | Free | ⭐⭐⭐⭐ |
-| [Descript] | Video Editing | Descript | Yes | 98.7% on Descript | $12/month | ⭐⭐⭐⭐⭐ |
-| Lumen5 | Video Generation | LumenNet | Yes | 92.1% on Lumen5 | $19/month | ⭐⭐⭐⭐ |
-| InVideo | Video Generation | InNet | Yes | 91.0% on InVideo | $10/month | ⭐⭐⭐⭐ |
-| Clipchamp | Video Editing | ClipNet | Yes | 89.9% on Clipchamp | $9/month | ⭐⭐⭐⭐ |
-| Otter AI | Video Transcription | OtterNet | Yes | 88.8% on Otter AI | $8.33/month | ⭐⭐⭐⭐ |
-| Peech | Video Transcription | PeechNet | Yes | 87.7% on Peech | $5/month | ⭐⭐⭐⭐ |
-| Pictory AI | Video Generation | PictNet | Yes | 86.6% on Pictory AI | $49/month | ⭐⭐⭐⭐ |
+
+| Name | Subcategory | Model | Price | User Rate |
+| --- | --- | --- | --- | --- |
+| Synthesia | Video Generation | GAN-based video synthesis | $49/month | ⭐⭐⭐⭐⭐ |
+| VEED IO | Video Editing | CNN- and RNN-based video editing | $24/month | ⭐⭐⭐⭐ |
+| Runway | Video Editing | Multimodal AI systems | $15/month | ⭐⭐⭐⭐⭐ |
+| Kapwing | Video Editing | Deep learning-based video editing | $20/month | ⭐⭐⭐⭐ |
+| HeyGen | Video Generation | NLP- and computer vision-based text to video | Free | ⭐⭐⭐⭐ |
+| Descript | Video Editing | Speech recognition, synthesis, and NLU-based audio and video editing | $12/month | ⭐⭐⭐⭐⭐ |
+| Lumen5 | Video Generation | NLP- and computer vision-based text to video | $19/month | ⭐⭐⭐⭐ |
+| InVideo | Video Generation | NLP- and computer vision-based text to video | $10/month | ⭐⭐⭐⭐ |
+| Clipchamp | Video Editing | Computer vision and image processing-based video editing | $9/month | ⭐⭐⭐⭐ |
+| Otter AI | Video Transcription | Speech recognition, NLP, and machine learning-based audio transcription | $8.33/month | ⭐⭐⭐⭐ |
+| Peech | Video Transcription | Speech synthesis and processing-based voice cloning | $5/month | ⭐⭐⭐⭐ |
+| Pictory AI | Video Generation | Computer vision and deep learning-based video summarization | $49/month | ⭐⭐⭐⭐ |
 
 ## Audio Tools
 
 Audio tools are software applications that can generate, edit, or enhance audio, such as music, speech, sound effects, or podcasts. Audio tools use artificial intelligence to create or manipulate audio based on a given input, such as a text, a melody, a style, or a source audio. One of the best audio tools is:
 
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jukebox] | Music Generation | Jukebox | Yes | 98.7% on Jukebox | Free | ⭐⭐⭐⭐⭐ |
-| LANDR | Audio Mastering and Distribution | LANDR | Yes | 97.6% on LANDR | $4/month | ⭐⭐⭐⭐ |
-| Descript | Audio Editing and Transcription | Descript | Yes | 96.5% on Descript | $12/month | ⭐⭐⭐⭐⭐ |
-| Mubert | Music Generation | Mubert | Yes | 95.4% on Mubert | $9.99/month | ⭐⭐⭐⭐ |
-| LALAL.AI | Audio Separation | LALAL.AI | Yes | 94.3% on LALAL.AI | $10/3 hours | ⭐⭐⭐⭐ |
-| iZotope RX 10 | Audio Editing and Processing | iZotope RX 10 | No | 93.2% on iZotope RX 10 | $299 | ⭐⭐⭐⭐⭐ |
-| Dolby.io's Vocal Enhancer | Vocal Enhancement | Dolby.io's Vocal Enhancer | Yes | 92.1% on Dolby.io's Vocal Enhancer | $0.03/minute | ⭐⭐⭐⭐ |
-| Krisp AI | Noise Cancellation | Krisp AI | Yes | 91.0% on Krisp AI | $5/month | ⭐⭐⭐⭐ |
-| Eleven Labs | Vocal Recreation | Eleven Labs | No | 89.9% on Eleven Labs | $99/month | ⭐⭐⭐⭐⭐ |
-| AudioPen | Audio Generation | AudioPen | Yes | 88.8% on AudioPen | Free | ⭐⭐⭐⭐ |
+| Name | Subcategory | Model | Price | User Rate |
+| --- | --- | --- | --- | --- | 
+| Jukebox | Music Generation | Jukebox | Free | ⭐⭐⭐⭐⭐ |
+| LANDR | Audio Mastering and Distribution | LANDR | $4/month | ⭐⭐⭐⭐ |
+| Descript | Audio Editing and Transcription | Descript | $12/month | ⭐⭐⭐⭐⭐ |
+| Mubert | Music Generation | Mubert | $9.99/month | ⭐⭐⭐⭐ |
+| LALAL.AI | Audio Separation | LALAL.AI | $10/3 hours | ⭐⭐⭐⭐ |
+| iZotope RX 10 | Audio Editing and Processing | iZotope RX 10 | $299 | ⭐⭐⭐⭐⭐ |
+| Dolby.io's Vocal Enhancer | Vocal Enhancement | Dolby.io's Vocal Enhancer | $0.03/minute | ⭐⭐⭐⭐ |
+| Krisp AI | Noise Cancellation | Krisp AI | $5/month | ⭐⭐⭐⭐ |
+| Eleven Labs | Vocal Recreation | Eleven Labs | $99/month | ⭐⭐⭐⭐⭐ |
+| AudioPen | Audio Generation | AudioPen | Free | ⭐⭐⭐⭐ |
 
 
 ## Content Creation
 
 Content creation is the process of producing text, images, videos, or other types of media for various purposes, such as marketing, education, entertainment, or communication. Content creation tools use artificial intelligence to generate or enhance content based on a given input, such as a keyword, a topic, a prompt, or a source. One of the best content creation tools is:
 
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Jasper] | Text Generation | Jasper | Yes | 92.3% on Jasper | Free | ⭐⭐⭐⭐⭐ |
-| Copy.ai | Social Media Copywriting | CopyNet | Yes | 91.2% on Copy.ai | $35/month | ⭐⭐⭐⭐ |
-| Narrato | Content Creation and Planning | NarrNet | Yes | 90.1% on Narrato | $99/month | ⭐⭐⭐⭐⭐ |
-| Surfer | SEO and Content Research | SurfNet | Yes | 89.0% on Surfer | $59/month | ⭐⭐⭐⭐ |
-| Byword | Writing Assistant | ByNet | Yes | 87.9% on Byword | $5.99 | ⭐⭐⭐⭐ |
-| Lately | Social Media Content Creation | LateNet | Yes | 86.8% on Lately | $99/month | ⭐⭐⭐⭐ |
-| Synthesia | Video Creation | SynNet | Yes | 85.7% on Synthesia | $49/month | ⭐⭐⭐⭐⭐ |
-| Murf | E-commerce Content Creation | MurfNet | Yes | 84.6% on Murf | $29/month | ⭐⭐⭐⭐ |
-| Canva | Graphic Design | CanNet | Yes | 83.5% on Canva | $12.95/month | ⭐⭐⭐⭐ |
-| DeepBrain AI | Writing Assistant | DeepNet | Yes | 82.4% on DeepBrain AI | $9.99/month | ⭐⭐⭐⭐ |
-| Rapidely | E-commerce Content Creation | RapNet | Yes | 81.3% on Rapidely | $19/month | ⭐⭐⭐⭐ |
-| Trellis | Amazon Seller Content Creation | TrellNet | Yes | 80.2% on Trellis | $49/month | ⭐⭐⭐⭐ |
-| AdZis | E-commerce Content Creation | AdzNet | Yes | 79.1% on AdZis | $0.03/word | ⭐⭐⭐⭐ |
-| Rytr Me | Text Generation | RytrNet | Yes | 78.0% on Rytr Me | $29/month | ⭐⭐⭐⭐ |
-| Tweet Generator | Social Media Copywriting | TweetNet | Yes | 77.9% on Tweet Generator | Free | ⭐⭐⭐⭐ |
-| Consensus | Content Research | ConsNet | Yes | 76.8% on Consensus | Free | ⭐⭐⭐⭐ |
-| tome app | Content Generation | tomeNet | Yes | 75.7% on tome app | Freemium | ⭐⭐⭐⭐ |
-| NovelAI | Story Generation | NovelNet | Yes | 74.6% on NovelAI | Freemium | ⭐⭐⭐⭐ |
-| Scalenut | SEO and Content Marketing | ScaleNet | Yes | 73.5% on Scalenut | Freemium | ⭐⭐⭐⭐ |
-| Grammarly | Writing Assistant | GramNet | Yes | 72.4% on Grammarly | Freemium | ⭐⭐⭐⭐ |
-| Drift | Conversational Marketing | DriftNet | Yes | 71.3% on Drift | Freemium | ⭐⭐⭐⭐ |
-| HubSpot | Marketing, Sales and Service | HubNet | Yes | 70.2% on HubSpot | Freemium | ⭐⭐⭐⭐ |
-| LivePerson | Conversational AI | LiveNet | Yes | 69.1% on LivePerson | Freemium | ⭐⭐⭐⭐ |
-| Salesforce Einstein | AI for CRM | EinsteinNet | Yes | 68.0% on Salesforce Einstein | Freemium | ⭐⭐⭐⭐ |
+| Name | Subcategory | Model | Price | User Rate |
+| --- | --- | --- | --- | --- |
+| Jasper | Text Generation | Proprietary AI engine for graphical artworks | Premium | ⭐⭐⭐⭐⭐ |
+| Copy.ai | Social Media Copywriting | GPT-3-based content generation | $35/month | ⭐⭐⭐⭐ |
+| Narrato | Content Creation and Planning | NLP- and machine learning-based freelancer matching | $99/month | ⭐⭐⭐⭐⭐ |
+| Surfer | SEO and Content Research | AI-powered content optimization | $59/month | ⭐⭐⭐⭐ |
+| Byword | Writing Assistant | Markdown-based writing app | $5.99 | ⭐⭐⭐⭐ |
+| Lately | Social Media Content Creation | AI-powered content generator | $99/month | ⭐⭐⭐⭐ |
+| Synthesia | Video Creation | GAN-based video synthesis | $49/month | ⭐⭐⭐⭐⭐ |
+| Murf | E-commerce Content Creation | Text-to-speech AI voice generator | $29/month | ⭐⭐⭐⭐ |
+| Canva | Graphic Design | Graphic design platform | $12.95/month | ⭐⭐⭐⭐ |
+| DeepBrain AI | Writing Assistant | Generative AI videos | $9.99/month | ⭐⭐⭐⭐ |
+| Rapidely | E-commerce Content Creation | AI-powered web page creation | $19/month | ⭐⭐⭐⭐ |
+| Trellis | Amazon Seller Content Creation | AI-powered legal document automation | $49/month | ⭐⭐⭐⭐ |
+| AdZis | E-commerce Content Creation | AI-powered product description generation | $0.03/word | ⭐⭐⭐⭐ |
+| Rytr Me | Text Generation | GPT-3-based content generation | $29/month | ⭐⭐⭐⭐ |
+| Tweet Generator | Social Media Copywriting | AI-powered tweet generation | Free | ⭐⭐⭐⭐ |
+| Consensus | Content Research | AI-powered personalized video demos | Free | ⭐⭐⭐⭐ |
+| tome app | Content Generation | AI-powered writing assistant | Freemium | ⭐⭐⭐⭐ |
+| NovelAI | Story Generation | AI-powered story generation | Freemium | ⭐⭐⭐⭐ |
+| Scalenut | SEO and Content Marketing | AI-powered freelancer and agency hiring | Freemium | ⭐⭐⭐⭐ |
+| Grammarly | Writing Assistant | AI-powered writing improvement | Freemium | ⭐⭐⭐⭐ |
+| Drift | Conversational Marketing | AI-powered conversational chatbots | Freemium | ⭐⭐⭐⭐ |
+| HubSpot | Marketing, Sales and Service | AI-powered CRM and automation | Freemium | ⭐⭐⭐⭐ |
+| LivePerson | Conversational AI | AI-powered conversational experiences | Freemium | ⭐⭐⭐⭐ |
+| Salesforce Einstein | AI for CRM | AI-powered Salesforce enhancement | Freemium | ⭐⭐⭐⭐ |
 
 ## Coding Assistant
 
 Coding assistant is a software application that can help you with writing, debugging, or optimizing code for various programming languages, such as Python, Java, C++, or JavaScript. Coding assistant uses artificial intelligence to generate or suggest code based on a given input, such as a description, a specification, a test case, or a source code. One of the best coding assistant tools is:
 
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Codex] | Code Generation | GPT-4 | Yes | 97.8% on Codex | Free | ⭐⭐⭐⭐⭐ |
-| GitHub Copilot | Code Completion | Copilot | Yes | 96.7% on GitHub Copilot | Free | ⭐⭐⭐⭐ |
-| Replit-Ghostwriter | Code Generation | Ghostwriter | Yes | 95.6% on Replit-Ghostwriter | Free | ⭐⭐⭐⭐ |
-| CodePen | Code Editor | CodePen | Yes | 94.5% on CodePen | Free | ⭐⭐⭐⭐ |
-| Amazon CodeWhisperer | Code Generation | CodeWhisperer | Yes | 93.4% on Amazon CodeWhisperer | Free | ⭐⭐⭐⭐ |
-| Black Box | Code Generation | BlackBox | Yes | 92.3% on Black Box | Free | ⭐⭐⭐⭐ |
-| Adrenaline | Code Debugging | AdrenNet | Yes | 91.2% on Adrenaline | Free | ⭐⭐⭐⭐ |
-| Codepal | Code Generation and Review | CodepalNet | Yes | 90.1% on Codepal | Free | ⭐⭐⭐⭐ |
-| CodeGPT | Code Generation and Documentation | CodeGPT | Yes | 89.0% on CodeGPT | Free | ⭐⭐⭐⭐ |
-| Sourcegraph Cody | Code Intelligence and Navigation | CodyNet | Yes | 87.9% on Sourcegraph Cody | Free | ⭐⭐⭐⭐ |
-| Replit | Code Editor and Collaboration | Replit | Yes | 86.8% on Replit | Free | ⭐⭐⭐⭐ |
-| AskCodi | Code Completion and Suggestion | AskNet | Yes | 85.7% on AskCodi | Free | ⭐⭐⭐⭐ |
-| CodeGeeX | Code Acceleration | GeeXNet | Yes | 84.6% on CodeGeeX | Free | ⭐⭐⭐⭐ |
-| UserWay | Code Optimization and Accessibility | UserNet | Yes | 83.5% on UserWay | Free | ⭐⭐⭐⭐ |
-| Drift | Conversational Coding | DriftNet | Yes | 82.4% on Drift | Free | ⭐⭐⭐⭐ |
-| HubSpot | Coding for Marketing, Sales and Service | HubNet | Yes | 81.3% on HubSpot | Freemium | ⭐⭐⭐⭐ |
-| LivePerson | Conversational AI for Coding | LiveNet | Yes | 80.2% on LivePerson | Freemium | ⭐⭐⭐⭐ |
-| Salesforce Einstein | AI for CRM Coding | EinsteinNet | Yes | 79.1% on Salesforce Einstein | Freemium | ⭐⭐⭐⭐ |
+| Name | Subcategory | Model | Price | User Rate |
+| --- | --- | --- | --- | --- |
+| GitHub Copilot | Code Completion | Codex | Premium | ⭐⭐⭐⭐ |
+| Replit-Autocode | Code Generation | Codex | Free | ⭐⭐⭐⭐ |
+| CodePen | Code Editor and Collaboration | N/A | Free | ⭐⭐⭐⭐ |
+| AWS CodeGuru | Code Generation and Review | CodeWhisperer | $0.75 per 100 lines of code | ⭐⭐⭐⭐ |
+| Black Box | Code Analysis and Optimization | BlackBox | $0.50 per 100 lines of code | ⭐⭐⭐⭐ |
+| Adrenaline | Code Generation and Documentation | CodeGPT | Free | ⭐⭐⭐⭐ |
+| Codepal | Code Completion and Suggestion | CodeGPT | Free | ⭐⭐⭐⭐ |
+| CodeGeeX | Code Generation and Documentation | GeeXNet | Free | ⭐⭐⭐⭐ |
+| UserWay | Web Accessibility Solution | N/A | Free | ⭐⭐⭐⭐ |
+| Drift | Conversational Marketing and Sales | N/A | Free for up to 100 contacts | ⭐⭐⭐⭐ |
+| HubSpot | CRM Platform | N/A | Free for basic features, $50-$3,200 per month for premium features | ⭐⭐⭐⭐ |
+| LivePerson | Conversational AI for Customer Engagement | N/A | $40-$65 per month per user | ⭐⭐⭐⭐ |
+| Salesforce Einstein | AI for CRM | N/A | $50-$300 per month per user | ⭐⭐⭐⭐ |
+| Sourcegraph Code Intelligence | Code Generation and Chat | CodyNet | Free for up to 10 users, $5-$50 per user per month for more users | ⭐⭐⭐⭐ |
+| Replit | Code Execution and Hosting | N/A | Free for basic features, $7-$20 per month for premium features | ⭐⭐⭐⭐ |
+| AskCodi | Code Generation and Chat | AskNet | Free | ⭐⭐⭐⭐ |
+
 
 ## Search Assistant
 
@@ -164,7 +164,7 @@ Search assistant is a software application that can help you with finding inform
 
 | Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Bing] | Web Search | Bing | Yes | 99.2% on Bing | Free | ⭐⭐⭐⭐⭐ |
+| Bing | Web Search | Bing | Yes | 99.2% on Bing | Free | ⭐⭐⭐⭐⭐ |
 | Google | Web Search | Google | Yes | 98.1% on Google | Free | ⭐⭐⭐⭐ |
 | Bard | Content Research | BERT | Yes | 97.0% on Bard | Free | ⭐⭐⭐⭐ |
 | ChatGPT | Conversational Search | GPT-4 | Yes | 95.9% on ChatGPT | Free | ⭐⭐⭐⭐ |
