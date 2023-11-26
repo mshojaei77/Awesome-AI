@@ -81,6 +81,11 @@
 | [Memorable Ad Maker](https://admaker.memorable.io/) | AI-powered ad maker that creates new images optimized for branding, High Accuracy, Quick Testing, AI-optimized Images, Advertising Prompt Guide, High Recall Attention & Engagement Potential, Creative Strategy, Pretest & Optimization, Creative Analytics, Large Database of Human Reactions | Freemium   | 
 | [Churn360](https://churn360.com/) | 360° View of Customers: Churn360 brings together customer data from various sources into a single view, providing a comprehensive picture of each customer. This feature allows Customer Success Managers to easily monitor and manage customer interactions across different platforms   | Freemium   | 
 
+### Management 
+| AI | Features | Cost | 
+|-|-|-|
+| IBM Maximo | BM Maximo is an enterprise asset management (EAM) software suite that helps organizations manage and optimize their physical assets. It is a cloud-based platform that uses AI, IoT, and analytics to provide insights into asset health, performance, and risk | Permium | 
+
 ### Search
 | AI | Features | Cost | 
 |-|-|-|
@@ -164,3 +169,7 @@
 | [CodeGPT](https://codegpt.co/) |<p align="center"> یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
 
 ## مدل سه بعدی
+| AI | Features | Cost | 
+|-|-|-|
+| Live3D |creating and animating 2D and 3D virtual characters and objects | |
+| [Autodesk Alias](https://www.autodesk.eu/products/alias-products/overview) | design software that offers a variety of unique features for creating products and improving processes, Class A Portfolio, SubD Modeling, Alias Create VR, Dynamo Player, Improved Design Efficiency, Visual Clip, Replace Shader by Name, | |
