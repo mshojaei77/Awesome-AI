@@ -14,31 +14,32 @@
 - 🔍 [جستجو](#جستجو)
 ------
 ## متن
-### Chatbot
+### Official Chatbot
 | AI | Features | Cost | 
 |-|-|-|
-|  [ChatGPT](https://openai.com/chatgpt)  | Idea Generation, Compose Marketing Emails and Social Media Posts, Rephrase Text to Overcome Writer’s Block, Edit and Proofread Content, Summarize Data and Explain Complex Topics, Translation, Text Completion and Personalization, Answering Questions and Sentiment Analysis, Content Creation and Image Captioning, Text Summarization |  Free + Premium |
-| [Bard](https://bard.google.com/) | Multiple Drafts, Content Export, Real-time Data Use, Acknowledging its Flaws, Annotated Responses | Free | 
-| [Bing](https://www.bing.com/?/ai) |Wide Spectrum of Instant Answers, Fun Features, Creative Writing, Citing Sources, Adaptable AI Copilot | Free | 3/5 
-| [Claude 2](https://www.anthropic.com/index/claude-2) |<p align="center"> کلود یک دستیار هوش مصنوعی برای وظایف شما بدون توجه به مقیاس است | Permium | 4.5/5 
-| [Llama 2](https://ai.meta.com/llama) |<p align="center"> یک مدل زبان بزرگ اوپن سورس است که توسط متا توسعه یافته است که می تواند برای تولید متن برای انواع وظایف پردازش زبان طبیعی مانند ربات های چت و ترجمه زبان استفاده شود. بر روی حجم عظیمی از داده ها آموزش دیده است، رایگان است و می توان از آن برای ساخت برنامه های کاربردی مختلف استفاده کرد | Free | 4/5 
-| [Cohere Chat](https://coral.cohere.com/) | <p align="center"> یک پلت فرم مکالمه هوش مصنوعی است که به توسعه دهندگان اجازه می دهد تا چت بات های قدرتمند و دستیاران دانش بسازند. | Free | 3.5/5
-| [Falcon](https://tiiuae-falcon-180b-demo.hf.space/) |<p align="center"> یک مدل زبان بزرگ پیشرفته است که توسط مؤسسه نوآوری فناوری در ابوظبی ساخته شده است. روی 3.5 تریلیون آموزش دیده است | Freemium | 4.5/5 
-| [Pi](https://pi.ai/talk) |<p align="center"> سلام، من پی هستم. من هوش مصنوعی شخصی شما هستم که به گونه‌ای طراحی شده‌ام که پشتیبان، هوشمند و در هر زمان در کنار شما باشم | Free | 3.5/5 
-| [Grok](https://grok.x.ai/)  | The program is currently limited to verified users. You can get verified by subscribing to X Premium+. | Permium | 4.5/5 
-| [Vercel SDK](https://sdk.vercel.ai/) |<p align="center"> یک کتابخانه منبع باز برای ایجاد رابط های کاربری مبتنی بر هوش مصنوعی | Free | 4.5/5
-|  [POE](https://poe.com/Sage)  |<p align="center"> یک پلتفرم مبتنی بر وب است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید. می‌توانید از هوش مصنوعی برای تولید محتوا، ترجمه زبان‌ها، پاسخ به سؤالات و موارد دیگر استفاده کنید. | Freemium  | 4/5 
-| [Perplexity](https://www.perplexity.ai/)  |<p align="center"> یک ابزار هوش مصنوعی است که در پردازش و درک زبان طبیعی تخصص دارد. این برنامه برای انجام وظایف پیچیده زبان مانند تولید زبان، تجزیه و تحلیل احساسات، خلاصه سازی متن و غیره طراحی شده است | Freemium  | 4.5/5 
-| [character ai](https://character.ai/)  |<p align="center"> پلتفرمی است که از هوش مصنوعی برای ایجاد شخصیت های سه بعدی واقع گرایانه برای بازی ها، فیلم ها و سایر برنامه ها استفاده می کند | Freemium  | 4/5 
-| [Phind](https://www.phind.com/)  |<p align="center"> یک موتور جستجوی هوش مصنوعی است که برای توسعه دهندگان و سوالات فنی بهینه شده است | Free | 3.5/5 
-| [Forefront](https://chat.forefront.ai) |<p align="center"> سرویسی است که یک دستیار هوش مصنوعی برای کار در اختیار شما قرار می دهد. می‌توانید مدل‌های مختلف را انتخاب کنید، با فایل‌ها چت کنید، اینترنت را مرور کنید، و موارد دیگر | Freemium  | 4/5 
-| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) |<p align="center"> دسترسی به طیف متنوعی از مدل‌های پیشرفته، از مدل‌های زبان پیشرفته تا مدل‌های تصویر قدرتمند و فراتر از آن. | Freemium  | 4.5/5 
-| [Hugging Face Chat](https://huggingface.co/chat/)   |<p align="center"> یک ربات چت هوش مصنوعی است که توسط  توسعه دهنده پیشرو ابزارها و فناوری های هوش مصنوعی ایجاد شده است.  | Free  | 3.5/5 
-
-
+|  [ChatGPT](https://openai.com/chatgpt)  | Idea Generation, Compose Marketing Emails and Social Media Posts, Rephrase Text to Overcome Writer’s Block, Edit and Proofread Content, Summarize Data and Explain Complex Topics, Translation, Text Completion and Personalization, Answering Questions and Sentiment Analysis, Content Creation and Image Captioning, Text Summarization, Custom GPTs |  Free + Premium |
+| [Bard](https://bard.google.com/) | Multiple Drafts, Content Export, Real-time Data Use, Visual Responses, Acknowledging its Flaws, Annotated Responses, Google it feature, Multilingual responses | Free | 
+| [Bing](https://www.bing.com/?/ai) | Wide Spectrum of Instant Answers, Fun Features, Creative Writing, Citing Sources, Adaptable AI Copilot | Free |
+| [Claude 2](https://www.anthropic.com/index/claude-2) | Large Token Limit, Enhanced Coding, Math, and Reasoning Capabilities, Creative Writing Abilities, API Access, Ability to Handle Long Texts, Natural Conversations, Data Analysis, Data Analysis| Permium | 
+| [Llama 2](https://ai.meta.com/llama) | Open Source, Training with Large Data, Customization, Ghost Attention (GAtt), Performance in Multi-turn Conversations, Different Parameter Sizes| Free | 
+| [Cohere Chat](https://coral.cohere.com/) | Writing Assistance, Editing Tools, Browser Extension, Domain Adaptation, Collaboration Tools, API Access | Free | 
+| [Falcon](https://tiiuae-falcon-180b-demo.hf.space/) | Large Language Model,Open Source and Commercial Use, Custom Data, Performance, Instruct Versions, SEO Content Optimization, Custom AI Models and Rapid Deployment, User-Friendly Dashboard and Interface  | Free |
+| [Pi](https://pi.ai/talk) |Personalized Responses, Emotion and Empathy, Personal Assistance and Emotional Support, Human-like Conversations, Real-time Insights, Customization| Free |
+| [Grok](https://grok.x.ai/)  | Real-time knowledge of the world, Humor and personality, Multitasking, Access to real-time data, Lower cost | Permium |
+### Other Chatbots
+| AI | Features | Cost | 
+|-|-|-|
+| [POE](https://poe.com/Sage)  | Supports a wide variety of AI models, including ChatGPT, GPT-4, and DALL-E 3 from OpenAI, Claude Instant and Claude 2 from Anthropic, StableDiffusionXL from Stability AI, PaLM from Google, Llama 2 from Meta, and many other bots created by the community, Cross-Platform Availability, Customization, Continuous Expansion | Freemium  | 
+| [Perplexity](https://www.perplexity.ai/)  | AI-powered search engine, Customizable Search (Users can search for specific domains like Wolfram|Alpha, Reddit, Wikipedia, YouTube, News articles, Academic Papers), File Uploads for Data Analysis, Entity Linking, Copilot, Content Generation, Problem-Solving Abilities, Chrome Extension, | Freemium  |  
+| [Vercel SDK](https://sdk.vercel.ai/) | First-class support for multiple AI models, Chat & Prompt Playground | Free | 
+| [character ai](https://character.ai/)  | Contextual Conversation Generation, Digital Avatar Generation, Multi-Media Interaction, Customizable Characters, Adaptive Learning Capability, Tailored Interactions, User-Friendly Interface | Freemium  | 
+| [Phind](https://www.phind.com/)  | Customizable Search Options, Developer-Focused, AI-Powered Insights, Efficient Information Retrieval, Pair Programmer  | Free | 
+| [Forefront](https://chat.forefront.ai) | Access to different LLMs (including GPT-3.5, GPT-4, Claude Instant 1.2, Claude 2, and Forefront), Internet Content Access, Personas,  | Freemium  |
+| [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | access to advanced language models, which can be used for tasks such as text generation, sentiment analysis, and more | Freemium  | 
+| [Hugging Face Chat](https://huggingface.co/chat/)   | Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration  | Free  | 
 ### Content Creation 
-| AI | توضیح | Cost | Rating |
-|-|-|-|-|
+| AI | Features | Cost | 
+|-|-|-|
 | [QuillBot](https://quillbot.com/) |<p align="center"> یک ابزار نوشتاری مبتنی بر هوش مصنوعی است که به کاربران در بازنویسی جملات، پاراگراف ها و مقالات کمک می کند. همچنین می تواند محتوای تولید شده با هوش مصنوعی ایجاد کند. QuillBot می تواند به کاربران کمک کند زمان نوشتن خود را به بیش از نصف کاهش دهند. | Freemium  | 4/5 
 | [YouChat Search](https://you.com)  |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | Freemium  | 3.5/5 
 | [Agent GPT](https://agentgpt.reworkd.ai/)|<p align="center"> نسخه ای از مدل هوش مصنوعی جی پی تی که کاربران می توانند با افزودن یک نام و هدف هوش مصنوعی سفارشی خود را ایجاد کنند. | Free | 3/5 
