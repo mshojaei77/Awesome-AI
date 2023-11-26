@@ -6,12 +6,12 @@
 
 
 ## دسته بندی
-- 📝 [متن](#متن)
+- 📝 [متن](#متن)  
 - 🌄 [تصویر](#تصویر)
 - 🎬 [ویدیو](#ویدیو)
 - 🔊 [صدا](#صدا)
 - 💻 [کد](#کد)
-- 🔍 [جستجو](#جستجو)
+- 📦 [مدل سه بعدی](#مدل-سه-بعدی)
 ------
 ## متن
 ### Official Chatbot
@@ -38,14 +38,12 @@
 | [Forefront](https://chat.forefront.ai) | Access to different LLMs (including GPT-3.5, GPT-4, Claude Instant 1.2, Claude 2, and Forefront), Internet Content Access, Personas,  | Freemium  |
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | access to advanced language models, which can be used for tasks such as text generation, sentiment analysis, and more | Freemium  | 
 | [Hugging Face Chat](https://huggingface.co/chat/)   | Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration  | Free  | 
-| [YouChat Search](https://you.com)  |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | Freemium  | 3.5/5 
-| [Agent GPT](https://agentgpt.reworkd.ai/)|<p align="center"> نسخه ای از مدل هوش مصنوعی جی پی تی که کاربران می توانند با افزودن یک نام و هدف هوش مصنوعی سفارشی خود را ایجاد کنند. | Free | 3/5 
-| [Godmode](https://godmode.space/) |<p align="center">  یک رابط کاربری گرافیکی برای تعامل با مدل چت جی پی تی فراهم می کند. با استفاده از این رابط کاربری گرافیکی، کاربران می توانند پیام های متنی یا سوالات را وارد کرده و پاسخ های مبتنی بر متن را دریافت کنند. این رابط ممکن است شامل ویژگی‌هایی مانند قالب‌بندی متن، گزینه‌های سفارشی‌سازی، و امکان ذخیره یا صادر کردن مکالمات باشد. این ابزار ممکن است برای کارهایی مانند تولید متن، پاسخ به سؤالات یا شبیه سازی مکالمات با دستیار مجازی مفید باشد. | Free  | 3/5 
-| [Lepton Playground](https://dashboard.lepton.ai/playground/) |<p align="center"> برنامه‌های هوش مصنوعی را به طور کارآمد، در مقیاس و در عرض چند دقیقه اجرا کنید. | Free | 4/5 
-| [Chatbot Arena](https://chat.lmsys.org/?arena) |<p align="center"> پلتفرمی است که به شما امکان می دهد با مدل های مختلف هوش مصنوعی چت کنید و به بهترین مدل رای دهید. | Free | 3.5/5 
-| [Replika](https://replika.com/) |<p align="center">  یک همراه شخصی با قدرت هوش مصنوعی | Freemium | 4.5/5 
-| [Zapier Chatbot](https://zapier.com/apps/chatbot) |<p align="center">  از هوش مصنوعی برای تجزیه و تحلیل و تجزیه متن خود، ایجاد ربات‌های گفتگوی سفارشی، و تقویت برنامه‌های خود با ابزارهای هوش مصنوعی استفاده کنید | Freemium | 4/5 
-| [KoalaChat](https://koalachat.com/) |<p align="center">  یک برنامه چت مبتنی بر هوش مصنوعی است که برای تولید محتوا و اطلاعات برای استفاده شخصی و حرفه ای استفاده می شود | Free | 4/5 
+| [Agent GPT](https://agentgpt.reworkd.ai/)|Autonomous Behavior, Multi-Tasking Capability, Customizability, Scalability, can be utilized as a virtual assistant in various domains, such as personal assistants, scheduling assistants, travel assistants, and more | Free | 3/5 
+| [Godmode](https://godmode.space/) | Generative AI Agents, Web-Based Access, AutoGPT/BabyAGI Integration, Task Automation, can be used for content creation, marketing campaigns, determining the best market to launch a product, writing a resignation letter, or exploring hypothetical scenarios | Free  | 3/5 
+| [Lepton Playground](https://dashboard.lepton.ai/playground/) | Run AI applications efficiently, at scale, and in minutes with a cloud native platform | Free | 4/5 
+| [Chatbot Arena](https://chat.lmsys.org/?arena) | benchmark platform for Large Language Models (LLMs), user can chat with two anonymous models side-by-side and vote for which one is better | Free | 3.5/5 
+| [Replika](https://replika.com/) | Replika is an app that lets you chat with an AI companion, Personalization, Emotional Connection, Learning and Adaptation, Human-Like Conversation | Freemium |
+| [Zapier Chatbot](https://zapier.com/apps/chatbot) | Allows you to create custom AI-powered chatbots, Easy to Build, Data Control, Automated Workflows | Freemium | 4/5 
 | [PandoraAI](https://ai-chat.scholarcn.com/) |<p align="center">  یک کلاینت چت وب است که به شما امکان می دهد با چندین سیستم هوش مصنوعی چت کنید | Free | 3.5/5 
 | [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 4/5 
 ### Content Creation 
@@ -77,6 +75,7 @@
 ### Marketing 
 | [Scalenut](https://www.sc3++alenut.com/) |<p align="center"> پلتفرم سئو و بازاریابی محتوا مبتنی بر هوش مصنوعی است که فرآیند تولید محتوا را خودکار می کند. این به شما کمک می کند کلمات کلیدی، موضوعات و سوالات را شناسایی کنید، محتوا را بنویسید و بهینه کنید و آن را در وب سایت خود منتشر کنید.  | Freemium   | 4/5 
 | [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   | 3.5/5 
+| [KoalaChat](https://koalachat.com/) | Chat app that help small business owners solve their sales and customer service challenges, making it an invaluable tool for their success | Free | 
 
 ### Search
 | AI | توضیح | Status |
@@ -160,4 +159,4 @@
 | [Codepal](https://codepal.ai/) |<p align="center">   مجموعه ای از ابزارهای مبتنی بر هوش مصنوعی برای توسعه دهندگان است که می تواند کد تولید، بررسی، ساده سازی، اشکال زدایی و سند را ایجاد کند.
 | [CodeGPT](https://codegpt.co/) |<p align="center"> یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
 
-
+## مدل سه بعدی
