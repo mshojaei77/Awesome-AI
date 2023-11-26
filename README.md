@@ -40,50 +40,53 @@
 | [Hugging Face Chat](https://huggingface.co/chat/)   | Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration  | Free  | 
 | [Agent GPT](https://agentgpt.reworkd.ai/)|Autonomous Behavior, Multi-Tasking Capability, Customizability, Scalability, can be utilized as a virtual assistant in various domains, such as personal assistants, scheduling assistants, travel assistants, and more | Free | 3/5 
 | [Godmode](https://godmode.space/) | Generative AI Agents, Web-Based Access, AutoGPT/BabyAGI Integration, Task Automation, can be used for content creation, marketing campaigns, determining the best market to launch a product, writing a resignation letter, or exploring hypothetical scenarios | Free  | 3/5 
-| [Lepton Playground](https://dashboard.lepton.ai/playground/) | Run AI applications efficiently, at scale, and in minutes with a cloud native platform | Free | 4/5 
+| [Lepton Playground](https://dashboard.lepton.ai/playground/) | Run AI applications efficiently, at scale, and in minutes with a cloud native platform | Free |
 | [Chatbot Arena](https://chat.lmsys.org/?arena) | benchmark platform for Large Language Models (LLMs), user can chat with two anonymous models side-by-side and vote for which one is better | Free | 3.5/5 
 | [Replika](https://replika.com/) | Replika is an app that lets you chat with an AI companion, Personalization, Emotional Connection, Learning and Adaptation, Human-Like Conversation | Freemium |
-| [Zapier Chatbot](https://zapier.com/apps/chatbot) | Allows you to create custom AI-powered chatbots, Easy to Build, Data Control, Automated Workflows | Freemium | 4/5 
-| [PandoraAI](https://ai-chat.scholarcn.com/) |<p align="center">  یک کلاینت چت وب است که به شما امکان می دهد با چندین سیستم هوش مصنوعی چت کنید | Free | 3.5/5 
-| [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 4/5 
+| [Zapier Chatbot](https://zapier.com/apps/chatbot) | Allows you to create custom AI-powered chatbots, Easy to Build, Data Control, Automated Workflows | Freemium | 
+| [PandoraAI](https://ai-chat.scholarcn.com/) | web chat client powered to interact with ChatGPT and Bing | Free | 
+
 ### Content Creation 
 | AI | Features | Cost | 
 |-|-|-|
-| [copy ai](https://www.copy.ai/) ⭐ |<p align="center"> ایجاد محتوا برای وب سایت ها، وبلاگ ها، رسانه های اجتماعی و موارد دیگر | Freemium  | 4.5/5 
-| [Rytr Me](https://app.rytr.me/) |<p align="center"> تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | Freemium   | 4.5/5 
-| [Writesonic](https://writesonic.com/) ⭐ |<p align="center">  یک پلتفرم مبتنی بر هوش مصنوعی است که می تواند انواع مختلفی از محتوا مانند کپی بازاریابی، پست های وبلاگ، ربات های گفتگو و تصاویر را ایجاد کند | Premium   | 4/5 
-| [Tweet Generator](https://mention.com/en/tweet-generator/) |<p align="center"> توئیت های منحصر به فرد، خلاقانه و جذاب با مولد توییت رایگان هوش مصنوعی ایجاد کنید | Freemium   | 3.5/5 
-| [tome app](https://tome.app/) ⭐|<p align="center">  ایجاد ارائه ها و پروژه ها با متون منسجم و خلاقانه در مورد هر موضوعی همچنسن می تواند تصاویر اصلی را از توضیحات متنی ایجاد کند  |  Freemium   | 4.5/5 
+| [copy ai](https://www.copy.ai/) | generating various types of content, Versatile Content Generation, Tailored Outputs, Prompt Suggestions, Feedback Loop, Infobase, Product Description Generator | Freemium  | 
+| [Rytr Me](https://app.rytr.me/) | create high-quality content in just a few seconds at a fraction of the cost, Writing Templates, Language Support, Content Expansion, Tone and Style Customization, Easy Editing and Revision, Time-saving Efficiency | Freemium   | 
+| [Writesonic](https://writesonic.com/) ⭐ | AI-Powered Content Generation, real-time results based on real-time information provided by Google, Brand Voice Customization, Plagiarism-Free Content, Chatbot Creation, Paraphrasing and Summarization Tools, Automated AI Content Production  | Premium   | 
+| [Tweet Generator](https://mention.com/en/tweet-generator/) | help you come up with clever and witty tweets in no time. All you need to do is enter your keywords and the generator will provide you with a unique and creative tweet that you can use | Freemium   |
+| [tome app](https://tome.app/) ⭐| offers a range of unique features to simplify the process of creating professional-looking presentations, AI-Powered Slide Creation and Formatting, Intelligent Titles and Pagination, Customization Features, Drag-and-Drop Creation and Responsive Pages, One-Click Themes and Embeds from the Web, Native Video Recording and Easy Sharing  |  Freemium   |
+| [SlidesAI](https://www.slidesai.io/) |evolutionize the process of creating presentation slides, Text to Presentation, Topic to Presentation, Customization Options, Integration with Google Workspace, Comparison Slides  | Freemium   | 4/5
 
-### Writing Assistant 
+### Writing Assistant
+| AI | Features | Cost | 
+|-|-|-|
 | [QuillBot](https://quillbot.com/) | Paraphrasing, Grammar and Plagiarism Checking, Translation, Co-writer Feature, Synonym Suggestions, Extensions | Freemium  |
-| [Grammarly](https://www.grammarly.com/) |<p align="center"> یک دستیار تایپ مبتنی بر هوش مصنوعی است که به شما کمک می کند بهتر به زبان انگلیسی بنویسید. املا، دستور زبان، علائم نگارشی، وضوح و موارد دیگر را بررسی می کند.  | Freemium   | 4/5 
-| [NovelAI](https://novelai.net/) ⭐|<p align="center">  یک سرویس اشتراکی است که از هوش مصنوعی (AI) برای کمک به کاربران در نوشتن داستان و ایجاد تصاویر استفاده می کند   | Freemium   | 4/5 
+| [Grammarly](https://www.grammarly.com/) | Tone Detector(analyzes word choice, phrasing, punctuation, and even capitalization to determine the tone of your writing), Clarity and Readability, Plagiarism Detection, Idea Generation   | Freemium   | 
+| [NovelAI](https://novelai.net/) ⭐| Content Creation(fresh story ideas, compelling character profiles, and captivating dialogue) , Character Generation, Storyteller Mode, Text Adventure Mode, Image Generation Mode, Collaborative Writing  | Freemium   |
+| [Anyword](https://anyword.com/) | AI-powered copywriting tool, Increased Productivity and Efficient Workflows, Improved Content Quality, Built-In Analytics, Custom AI Models, Brand Voice, Copy Variations, Copy Insights, Copy Templates, Copy Formats, Copy Languages, Data-Driven Marketing Copy  | Freemium   |
+| [DeepL Write](https://www.deepl.com/write) | AI writing tool, Writing Suggestions, Improved Grammar and Punctuation, Rephrasing   | Freemium   | 
+| [Sudowrite](https://www.sudowrite.com/) | writing assistant (uses GPT-3, GPT-3.5, GPT-4, and Claude 2) , can generate up to 1000 words in seconds, Revision tools, Brainstorming tools, Canvas, Poem Tool, Twist Feature | Freemium   | 4/5 
+| [WordHero ](https://wordhero.co/) | powerful AI writing tool, Generator Mode(over 70 tools that can help you come up with a compelling headline, captivating slogan, persuasive call to action, and more),  SEO keywords Assistant, WordHero Chat with Wizard Mode(uses a series of targeted questions to learn your unique needs and creates impactful, tailored copy for your brand) | Freemium   | 
 
-| [Anyword](https://anyword.com/) |<p align="center"> نرم افزار کپی رایت است که از هوش مصنوعی برای کمک به کسب و کارها در تولید محتوا استفاده می کند.  | Freemium   | 4/5 
-| [DeepL Write](https://www.deepl.com/write) |<p align="center"> نوشتن خود را در چند ثانیه کامل کنید واضح، دقیق و راحت بنویسید  | Freemium   | 4.5/5 
-| [SlidesAI](https://www.slidesai.io/) |<p align="center"> یک ابزار رایگان مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا اسلایدهای ارائه حرفه ای ایجاد کنند  | Freemium   | 4/5 
-| [Sudowrite](https://www.sudowrite.com/) |<p align="center"> یک نرم افزار نوشتن و ویرایش هوش مصنوعی است که به داستان نویسان کمک می کند.  | Freemium   | 4/5 
-| [WordHero ](https://wordhero.co/) |<p align="center">  یک ابزار نوشتن هوش مصنوعی است که به افراد کمک می کند محتوای اصلی را به سرعت و به راحتی ایجاد کنند. بیش از 70 ابزار نوشتاری مختلف از جمله گزینه‌هایی برای تولید پست‌های وبلاگ، محتوای رسانه‌های اجتماعی، ایمیل‌ها و موارد دیگر را ارائه می‌دهد  | Freemium   | 4/5 
-| [Drift](https://www.drift.com/) |<p align="center"> یک پلت فرم بازاریابی مکالمه ای است که به کسب و کارها کمک می کند تا با ارائه مکالمات شخصی با مشتریان، در روز یا شب، اعتماد ایجاد کنند و درآمد را افزایش دهند  | Freemium   | 4/5 
-| [HubSpot](https://www.hubspot.com/) |<p align="center"> یک نرم‌افزار بازاریابی، فروش و خدمات است که برنامه‌های شما را همگام‌سازی می‌کند، داده‌های مشتریان را تمیز و مدیریت می‌کند و فرآیندها را خودکار می‌کند تا به همه سیستم‌ها و تیم‌های شما کمک کند تا با هم بهتر کار کنند  | Freemium   | 4/5 
-| [LivePerson](https://www.liveperson.com/) |<p align="center"> یک پلتفرم هوش مصنوعی محاوره‌ای است که به کسب‌وکارها کمک می‌کند تا قدرت مدل‌های زبان بزرگ را برای برآوردن نیازهای کسب‌وکارشان، صرف نظر از بخش یا صنعت، باز کنند  | Freemium   | 4/5 
-| [Salesforce Einstein](https://www.salesforce.com/products/einstein-ai-solutions/) |<p align="center">مجموعه‌ای از ویژگی‌های مبتنی بر هوش مصنوعی است که به کسب‌وکارها در خودکارسازی وظایف، پیش‌بینی نتایج و شخصی‌سازی تجربیات مشتری کمک می‌کند  | Freemium   | 4/5 
-| [Persado](https://www.persado.com/) |<p align="center"> یک پلتفرم بازاریابی است که از هوش مصنوعی برای تولید موثرترین زبان برای کمپین های بازاریابی استفاده می کند و در نتیجه تعامل و تبدیل بالاتری دارد  | Freemium   | 4/5 
-| [Memorable Ad Maker](https://admaker.memorable.io/) |<p align="center"> یک پلتفرم مبتنی بر هوش مصنوعی است که به کسب و کارها کمک می کند تبلیغات به یاد ماندنی ایجاد کنند که با مخاطبان هدف آنها طنین انداز شود  | Freemium   | 4/5 
-| [Churn360](https://churn360.com/) |<p align="center">  یک پلتفرم مبتنی بر هوش مصنوعی است که به کسب‌وکارها کمک می‌کند تا با پیش‌بینی اینکه کدام مشتریان احتمال بیشتری را ترک می‌کنند و ارائه استراتژی‌های حفظ شخصی، ریزش مشتری را کاهش دهند.  | Freemium   | 4/5 
 ### Marketing 
+| AI | Features | Cost | 
+|-|-|-|
 | [Scalenut](https://www.sc3++alenut.com/) |<p align="center"> پلتفرم سئو و بازاریابی محتوا مبتنی بر هوش مصنوعی است که فرآیند تولید محتوا را خودکار می کند. این به شما کمک می کند کلمات کلیدی، موضوعات و سوالات را شناسایی کنید، محتوا را بنویسید و بهینه کنید و آن را در وب سایت خود منتشر کنید.  | Freemium   | 4/5 
-| [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   | 3.5/5 
+| [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   |
 | [KoalaChat](https://koalachat.com/) | Chat app that help small business owners solve their sales and customer service challenges, making it an invaluable tool for their success | Free | 
+| [Drift](https://www.drift.com/) combination of live chat, conversational marketing, and conversational sales, Knowledge Base, Email Automation, Virtual Selling Assistants, Bots, Account-Based Marketing, Meetings, Conversational AI, Integrations, Reporting & Analytics |
+| [HubSpot](https://www.hubspot.com/) |comprehensive CRM platform(providing marketing, sales, customer service, operations, and content management features), Contact Management, Website Activity Tracking, Email Integration and Tracking, Extensive Marketplace, Custom Objects and Properties  | Freemium   | 
+| [LivePerson](https://www.liveperson.com/) | enables brands to engage with millions of consumers in a personal and authentic way, Trustworthy AI Capabilities, Conversational Flywheel, Commerce Capabilities, Dynamic Routing and Actions, Self-Learning Loop  | Freemium   | 
+| [Salesforce Einstein](https://www.salesforce.com/products/einstein-ai-solutions/) | (take complex Salesforce organizations, databases, and customer expectations, and surface key insights, streamline operations, and delight customers), Einstein Email Insights, Einstein GPT, Einstein Search, Einstein Copilot, Einstein Prediction Builder  | Freemium   | 
+| [Persado](https://www.persado.com/) | Motivation AI Platform(generate content that engages customers),Insights into Performance, Integration with Web Platforms and ESPs, Enterprise Security and Privacy Certifications, Unlimited Content and Users, Highest Performing Digital Messaging  | Freemium   | 
+| [Memorable Ad Maker](https://admaker.memorable.io/) | AI-powered ad maker that creates new images optimized for branding, High Accuracy, Quick Testing, AI-optimized Images, Advertising Prompt Guide, High Recall Attention & Engagement Potential, Creative Strategy, Pretest & Optimization, Creative Analytics, Large Database of Human Reactions | Freemium   | 
+| [Churn360](https://churn360.com/) | 360° View of Customers: Churn360 brings together customer data from various sources into a single view, providing a comprehensive picture of each customer. This feature allows Customer Success Managers to easily monitor and manage customer interactions across different platforms   | Freemium   | 
 
 ### Search
-| AI | توضیح | Status |
+| AI | Features | Cost | 
 |-|-|-|
 | [Theres an AI for that](https://theresanaiforthat.com/) |<p align="center"> این وب سایت فهرستی از ابزارهای هوش مصنوعی است که بر اساس دسته بندی سازماندهی شده است. این شامل ابزارهایی برای کارهای مختلف از جمله نوشتن، طراحی، ترجمه و غیره است.
 | [aimodels](https://www.aimodels.fyi/models) |<p align="center">  این وب سایت یک موتور جستجو برای مدل های هوش مصنوعی است. این به شما امکان می دهد مدل ها را بر اساس وظیفه، زبان یا چارچوب جستجو کنید.
 | [Ora AI Explore](https://ora.ai/explore?type=trending) |<p align="center"> یک پلتفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا چت بات های سفارشی ایجاد کنند و از چت بات های موجود استفاده کنند.  
-| [Hugging Face](https://huggingface.co/) |<p align="center"> یک پلتفرم که کتابخانه ای از مدل ها و ابزارهای منبع باز ارائه می دهد. در بین محققان و توسعه دهندگان محبوبیت دارد
 | [Komo AI](https://komo.ai/) |<p align="center">  یک موتور جستجوی قدرت گرفته از هوش مصنوعی است که به کاربران کمک می کند تا اطلاعات را به صورت هدفمندتری پیدا کنند
 | [CrowdView](https://crowdview.ai/) |<p align="center">  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها است که به کاربران کمک می کند تا اطلاعات مورد نیاز خود را در فروم ها پیدا کنند
 | [YouChat Search](https://you.com) |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | ⭐
@@ -96,10 +99,11 @@
 | [Omnisearch](https://omnisearch.ai/) |<p align="center">  یک ابزار جستجوی مبتنی بر هوش مصنوعی است که یک تجربه جستجوی یکپارچه را در چندین پلت فرم و منبع ارائه می دهد. این به کاربران اجازه می دهد تا اطلاعات، فایل ها، ایمیل ها، مخاطبین و موارد دیگر را از یک رابط جستجو کنند
 | [Numbers Search Engine](https://nftsearch.site/) |<p align="center"> موتور جستجوی اعداد یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به طور خاص بر روی داده‌ها و اطلاعات عددی متمرکز است. این به کاربران اجازه می دهد تا داده های آماری، فرمول های ریاضی، الگوهای عددی و موارد دیگر را جستجو کنند. با استفاده از موتور جستجوی اعداد، کاربران می‌توانند به مجموعه وسیعی از اطلاعات عددی دسترسی داشته باشند که آن را به منبعی ارزشمند برای محققان، دانشجویان و متخصصانی که با اعداد کار می‌کنند تبدیل می‌کند.
 | [Bing AI](https://www.bing.com/?/ai) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است. از تکنیک های یادگیری ماشین و پردازش زبان طبیعی برای بهبود نتایج جستجو و ارائه تجربه جستجوی شخصی تر استفاده می کند. 
+| [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 
 
 
 ## تصویر
-| AI | توضیح | Status |
+| AI | Features | Cost | 
 |-|-|-|
 | [bing image creator](https://www.bing.com/create)  ⭐|<p align="center"> یک ابزار هوش مصنوعی رایگان است که به کاربران امکان می دهد با استفاده از پیام های متنی تصاویر ایجاد کنند
 | [Stable Diffusion](https://clipdrop.co/stable-diffusion?output=true)  ⭐|<p align="center">  یک مدل هوش مصنوعی منبع باز است که تصاویر را از زبان طبیعی تولید می کند | 
