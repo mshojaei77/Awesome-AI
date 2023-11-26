@@ -26,21 +26,18 @@
 | [Falcon](https://tiiuae-falcon-180b-demo.hf.space/) | Large Language Model,Open Source and Commercial Use, Custom Data, Performance, Instruct Versions, SEO Content Optimization, Custom AI Models and Rapid Deployment, User-Friendly Dashboard and Interface  | Free |
 | [Pi](https://pi.ai/talk) |Personalized Responses, Emotion and Empathy, Personal Assistance and Emotional Support, Human-like Conversations, Real-time Insights, Customization| Free |
 | [Grok](https://grok.x.ai/)  | Real-time knowledge of the world, Humor and personality, Multitasking, Access to real-time data, Lower cost | Permium |
+
 ### Other Chatbots
 | AI | Features | Cost | 
 |-|-|-|
 | [POE](https://poe.com/Sage)  | Supports a wide variety of AI models, including ChatGPT, GPT-4, and DALL-E 3 from OpenAI, Claude Instant and Claude 2 from Anthropic, StableDiffusionXL from Stability AI, PaLM from Google, Llama 2 from Meta, and many other bots created by the community, Cross-Platform Availability, Customization, Continuous Expansion | Freemium  | 
-| [Perplexity](https://www.perplexity.ai/)  | AI-powered search engine, Customizable Search (Users can search for specific domains like Wolfram|Alpha, Reddit, Wikipedia, YouTube, News articles, Academic Papers), File Uploads for Data Analysis, Entity Linking, Copilot, Content Generation, Problem-Solving Abilities, Chrome Extension, | Freemium  |  
+| [Perplexity](https://www.perplexity.ai/)  | AI-powered search engine, Customizable Search (Users can search for specific domains like Wolfram Alpha, Reddit, Wikipedia, YouTube, News articles, Academic Papers), File Uploads for Data Analysis, Entity Linking, Copilot, Content Generation, Problem-Solving Abilities, Chrome Extension, | Freemium  |  
 | [Vercel SDK](https://sdk.vercel.ai/) | First-class support for multiple AI models, Chat & Prompt Playground | Free | 
 | [character ai](https://character.ai/)  | Contextual Conversation Generation, Digital Avatar Generation, Multi-Media Interaction, Customizable Characters, Adaptive Learning Capability, Tailored Interactions, User-Friendly Interface | Freemium  | 
 | [Phind](https://www.phind.com/)  | Customizable Search Options, Developer-Focused, AI-Powered Insights, Efficient Information Retrieval, Pair Programmer  | Free | 
 | [Forefront](https://chat.forefront.ai) | Access to different LLMs (including GPT-3.5, GPT-4, Claude Instant 1.2, Claude 2, and Forefront), Internet Content Access, Personas,  | Freemium  |
 | [The B AI](https://chatbot.theb.ai/#/chat/1688388943679) | access to advanced language models, which can be used for tasks such as text generation, sentiment analysis, and more | Freemium  | 
 | [Hugging Face Chat](https://huggingface.co/chat/)   | Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration  | Free  | 
-### Content Creation 
-| AI | Features | Cost | 
-|-|-|-|
-| [QuillBot](https://quillbot.com/) |<p align="center"> یک ابزار نوشتاری مبتنی بر هوش مصنوعی است که به کاربران در بازنویسی جملات، پاراگراف ها و مقالات کمک می کند. همچنین می تواند محتوای تولید شده با هوش مصنوعی ایجاد کند. QuillBot می تواند به کاربران کمک کند زمان نوشتن خود را به بیش از نصف کاهش دهند. | Freemium  | 4/5 
 | [YouChat Search](https://you.com)  |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | Freemium  | 3.5/5 
 | [Agent GPT](https://agentgpt.reworkd.ai/)|<p align="center"> نسخه ای از مدل هوش مصنوعی جی پی تی که کاربران می توانند با افزودن یک نام و هدف هوش مصنوعی سفارشی خود را ایجاد کنند. | Free | 3/5 
 | [Godmode](https://godmode.space/) |<p align="center">  یک رابط کاربری گرافیکی برای تعامل با مدل چت جی پی تی فراهم می کند. با استفاده از این رابط کاربری گرافیکی، کاربران می توانند پیام های متنی یا سوالات را وارد کرده و پاسخ های مبتنی بر متن را دریافت کنند. این رابط ممکن است شامل ویژگی‌هایی مانند قالب‌بندی متن، گزینه‌های سفارشی‌سازی، و امکان ذخیره یا صادر کردن مکالمات باشد. این ابزار ممکن است برای کارهایی مانند تولید متن، پاسخ به سؤالات یا شبیه سازی مکالمات با دستیار مجازی مفید باشد. | Free  | 3/5 
@@ -50,16 +47,21 @@
 | [Zapier Chatbot](https://zapier.com/apps/chatbot) |<p align="center">  از هوش مصنوعی برای تجزیه و تحلیل و تجزیه متن خود، ایجاد ربات‌های گفتگوی سفارشی، و تقویت برنامه‌های خود با ابزارهای هوش مصنوعی استفاده کنید | Freemium | 4/5 
 | [KoalaChat](https://koalachat.com/) |<p align="center">  یک برنامه چت مبتنی بر هوش مصنوعی است که برای تولید محتوا و اطلاعات برای استفاده شخصی و حرفه ای استفاده می شود | Free | 4/5 
 | [PandoraAI](https://ai-chat.scholarcn.com/) |<p align="center">  یک کلاینت چت وب است که به شما امکان می دهد با چندین سیستم هوش مصنوعی چت کنید | Free | 3.5/5 
+| [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 4/5 
+### Content Creation 
+| AI | Features | Cost | 
+|-|-|-|
 | [copy ai](https://www.copy.ai/) ⭐ |<p align="center"> ایجاد محتوا برای وب سایت ها، وبلاگ ها، رسانه های اجتماعی و موارد دیگر | Freemium  | 4.5/5 
 | [Rytr Me](https://app.rytr.me/) |<p align="center"> تولید انواع مختلف محتوا از جمله سرفصل های وبلاگ، ایمیل ها، محتوای رسانه های اجتماعی، کپی وب و موارد دیگر | Freemium   | 4.5/5 
 | [Writesonic](https://writesonic.com/) ⭐ |<p align="center">  یک پلتفرم مبتنی بر هوش مصنوعی است که می تواند انواع مختلفی از محتوا مانند کپی بازاریابی، پست های وبلاگ، ربات های گفتگو و تصاویر را ایجاد کند | Premium   | 4/5 
 | [Tweet Generator](https://mention.com/en/tweet-generator/) |<p align="center"> توئیت های منحصر به فرد، خلاقانه و جذاب با مولد توییت رایگان هوش مصنوعی ایجاد کنید | Freemium   | 3.5/5 
-| [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 4/5 
 | [tome app](https://tome.app/) ⭐|<p align="center">  ایجاد ارائه ها و پروژه ها با متون منسجم و خلاقانه در مورد هر موضوعی همچنسن می تواند تصاویر اصلی را از توضیحات متنی ایجاد کند  |  Freemium   | 4.5/5 
-| [NovelAI](https://novelai.net/) ⭐|<p align="center">  یک سرویس اشتراکی است که از هوش مصنوعی (AI) برای کمک به کاربران در نوشتن داستان و ایجاد تصاویر استفاده می کند   | Freemium   | 4/5 
-| [Scalenut](https://www.scalenut.com/) |<p align="center"> پلتفرم سئو و بازاریابی محتوا مبتنی بر هوش مصنوعی است که فرآیند تولید محتوا را خودکار می کند. این به شما کمک می کند کلمات کلیدی، موضوعات و سوالات را شناسایی کنید، محتوا را بنویسید و بهینه کنید و آن را در وب سایت خود منتشر کنید.  | Freemium   | 4/5 
+
+### Writing Assistant 
+| [QuillBot](https://quillbot.com/) | Paraphrasing, Grammar and Plagiarism Checking, Translation, Co-writer Feature, Synonym Suggestions, Extensions | Freemium  |
 | [Grammarly](https://www.grammarly.com/) |<p align="center"> یک دستیار تایپ مبتنی بر هوش مصنوعی است که به شما کمک می کند بهتر به زبان انگلیسی بنویسید. املا، دستور زبان، علائم نگارشی، وضوح و موارد دیگر را بررسی می کند.  | Freemium   | 4/5 
-| [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   | 3.5/5 
+| [NovelAI](https://novelai.net/) ⭐|<p align="center">  یک سرویس اشتراکی است که از هوش مصنوعی (AI) برای کمک به کاربران در نوشتن داستان و ایجاد تصاویر استفاده می کند   | Freemium   | 4/5 
+
 | [Anyword](https://anyword.com/) |<p align="center"> نرم افزار کپی رایت است که از هوش مصنوعی برای کمک به کسب و کارها در تولید محتوا استفاده می کند.  | Freemium   | 4/5 
 | [DeepL Write](https://www.deepl.com/write) |<p align="center"> نوشتن خود را در چند ثانیه کامل کنید واضح، دقیق و راحت بنویسید  | Freemium   | 4.5/5 
 | [SlidesAI](https://www.slidesai.io/) |<p align="center"> یک ابزار رایگان مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا اسلایدهای ارائه حرفه ای ایجاد کنند  | Freemium   | 4/5 
@@ -72,11 +74,31 @@
 | [Persado](https://www.persado.com/) |<p align="center"> یک پلتفرم بازاریابی است که از هوش مصنوعی برای تولید موثرترین زبان برای کمپین های بازاریابی استفاده می کند و در نتیجه تعامل و تبدیل بالاتری دارد  | Freemium   | 4/5 
 | [Memorable Ad Maker](https://admaker.memorable.io/) |<p align="center"> یک پلتفرم مبتنی بر هوش مصنوعی است که به کسب و کارها کمک می کند تبلیغات به یاد ماندنی ایجاد کنند که با مخاطبان هدف آنها طنین انداز شود  | Freemium   | 4/5 
 | [Churn360](https://churn360.com/) |<p align="center">  یک پلتفرم مبتنی بر هوش مصنوعی است که به کسب‌وکارها کمک می‌کند تا با پیش‌بینی اینکه کدام مشتریان احتمال بیشتری را ترک می‌کنند و ارائه استراتژی‌های حفظ شخصی، ریزش مشتری را کاهش دهند.  | Freemium   | 4/5 
-<!--lint ignore double-link-->
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
+### Marketing 
+| [Scalenut](https://www.sc3++alenut.com/) |<p align="center"> پلتفرم سئو و بازاریابی محتوا مبتنی بر هوش مصنوعی است که فرآیند تولید محتوا را خودکار می کند. این به شما کمک می کند کلمات کلیدی، موضوعات و سوالات را شناسایی کنید، محتوا را بنویسید و بهینه کنید و آن را در وب سایت خود منتشر کنید.  | Freemium   | 4/5 
+| [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   | 3.5/5 
 
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
+### Search
+| AI | توضیح | Status |
+|-|-|-|
+| [Theres an AI for that](https://theresanaiforthat.com/) |<p align="center"> این وب سایت فهرستی از ابزارهای هوش مصنوعی است که بر اساس دسته بندی سازماندهی شده است. این شامل ابزارهایی برای کارهای مختلف از جمله نوشتن، طراحی، ترجمه و غیره است.
+| [aimodels](https://www.aimodels.fyi/models) |<p align="center">  این وب سایت یک موتور جستجو برای مدل های هوش مصنوعی است. این به شما امکان می دهد مدل ها را بر اساس وظیفه، زبان یا چارچوب جستجو کنید.
+| [Ora AI Explore](https://ora.ai/explore?type=trending) |<p align="center"> یک پلتفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا چت بات های سفارشی ایجاد کنند و از چت بات های موجود استفاده کنند.  
+| [Hugging Face](https://huggingface.co/) |<p align="center"> یک پلتفرم که کتابخانه ای از مدل ها و ابزارهای منبع باز ارائه می دهد. در بین محققان و توسعه دهندگان محبوبیت دارد
+| [Komo AI](https://komo.ai/) |<p align="center">  یک موتور جستجوی قدرت گرفته از هوش مصنوعی است که به کاربران کمک می کند تا اطلاعات را به صورت هدفمندتری پیدا کنند
+| [CrowdView](https://crowdview.ai/) |<p align="center">  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها است که به کاربران کمک می کند تا اطلاعات مورد نیاز خود را در فروم ها پیدا کنند
+| [YouChat Search](https://you.com) |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | ⭐
+| [OpenRouter AI](https://openrouter.ai/) |<p align="center"> یک پلتفرم ایجاد مدل های شخصی سازی شده هوش مصنوعی است که به کاربران کمک می کند تا مدل های هوش مصنوعی را برای نیازهای خاص خود ایجاد کنند
+| [](https://neeva.com/) |<p align="center"> یک موتور جستجو است که از هوش مصنوعی پشتیبانی می کند. این یک تجربه جستجوی منحصر به فرد و شخصی را ارائه می دهد و نتایج جستجوی مرتبط و باکیفیت را در اختیار کاربران قرار می دهد.
+| [Perplexity](https://www.perplexity.ai/) |<p align="center"> یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد |
+| [Rewind](https://www.rewind.ai/) |<p align="center"> یک ابزار مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا تاریخچه مرور خود را بررسی و تجزیه و تحلیل کنند. ویژگی هایی مانند جستجو، فیلتر کردن، و سازماندهی تاریخچه مرور را ارائه می دهد که به کاربران امکان می دهد به راحتی صفحات وب را که قبلاً بازدید کرده اند پیدا کرده و دوباره از آن بازدید کنند
+| [SearchIQ](https://www.searchiq.co/) |<p align="center">یک ابزار جستجوی مبتنی بر هوش مصنوعی است که برای افزایش قابلیت های جستجوی وب سایت ها طراحی شده است. این قابلیت جستجوی پیشرفته از جمله تکمیل خودکار هوشمند، فیلتر کردن و الگوریتم‌های رتبه‌بندی ارتباط را ارائه می‌کند
+| [Searchable](https://www.searchable.ai/) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به کاربران امکان می دهد اطلاعات مرتبط را در اسناد و فایل ها جستجو و پیدا کنند. از تکنیک‌های پردازش زبان طبیعی و یادگیری ماشین برای درک محتوای اسناد استفاده می‌کند و آنها را بر اساس کلمات کلیدی، عبارات و مفاهیم قابل جستجو می‌کند. 
+| [Omnisearch](https://omnisearch.ai/) |<p align="center">  یک ابزار جستجوی مبتنی بر هوش مصنوعی است که یک تجربه جستجوی یکپارچه را در چندین پلت فرم و منبع ارائه می دهد. این به کاربران اجازه می دهد تا اطلاعات، فایل ها، ایمیل ها، مخاطبین و موارد دیگر را از یک رابط جستجو کنند
+| [Numbers Search Engine](https://nftsearch.site/) |<p align="center"> موتور جستجوی اعداد یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به طور خاص بر روی داده‌ها و اطلاعات عددی متمرکز است. این به کاربران اجازه می دهد تا داده های آماری، فرمول های ریاضی، الگوهای عددی و موارد دیگر را جستجو کنند. با استفاده از موتور جستجوی اعداد، کاربران می‌توانند به مجموعه وسیعی از اطلاعات عددی دسترسی داشته باشند که آن را به منبعی ارزشمند برای محققان، دانشجویان و متخصصانی که با اعداد کار می‌کنند تبدیل می‌کند.
+| [Bing AI](https://www.bing.com/?/ai) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است. از تکنیک های یادگیری ماشین و پردازش زبان طبیعی برای بهبود نتایج جستجو و ارائه تجربه جستجوی شخصی تر استفاده می کند. 
+
+
 ## تصویر
 | AI | توضیح | Status |
 |-|-|-|
@@ -105,8 +127,6 @@
 | [StarryAI](https://starryai.com/) |<p align="center">یک برنامه رایگان است که از هوش مصنوعی برای تبدیل کلمات به هنر استفاده می کند. کاربران می توانند یک پیام متنی را وارد کنند و یک اثر هنری تولید شده توسط هوش مصنوعی را در عرض چند دقیقه دریافت کنند.
 | [Everypixel](https://www.everypixel.com/) |<p align="center"> ک ابزار جستجو و تجزیه و تحلیل تصویر مبتنی بر هوش مصنوعی است. از الگوریتم های پیشرفته بینایی کامپیوتری برای درک و تجزیه و تحلیل تصاویر استفاده می کند و نتایج جستجوی دقیق و مرتبط را در اختیار کاربران قرار می دهد. Everypixel همچنین ویژگی هایی مانند دسته بندی تصاویر، تجزیه و تحلیل احساسات و تجزیه و تحلیل رنگ را ارائه می دهد که آن را به ابزاری ارزشمند برای تحقیقات مبتنی بر تصویر، ایجاد محتوا و تجزیه و تحلیل بصری تبدیل می کند.
 
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## ویدیو
 | AI | توضیح | Status |
 |-|-|-|
@@ -124,14 +144,10 @@
 | [Peech](https://www.peech-ai.com/) |<p align="center"> یک ابزار مبتنی بر هوش مصنوعی است که می تواند محتوای صوتی و تصویری را رونویسی و ترجمه کند. از الگوریتم های یادگیری عمیق برای بهبود عملکرد خود با هر بار استفاده استفاده می کند
 | [Pictory AI](https://pictory.ai/) |<p align="center">با استفاده از هوش مصنوعی ویدیوهای کوتاهی را از محتوای طولانی بسازید. می توانید از آن برای تبدیل هر محتوایی به ویدیوهای با قابلیت اشتراک گذاری بالا برای اهداف بازاریابی استفاده کنید. همچنین می‌توانید ویدیوهای خود را با ویژگی‌های مختلفی مانند افزودن گفتار، موسیقی، تصاویر و کلیپ‌ها ویرایش کنید.
 
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## صدا
 | AI | کاربرد | توضیح | Status |
 |-|-|-|-|
 | [AudioPen](https://audiopen.ai/) |<p align="center">
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
 ## کد
 | AI | توضیح | Status |
 |-|-|-|
@@ -144,145 +160,4 @@
 | [Codepal](https://codepal.ai/) |<p align="center">   مجموعه ای از ابزارهای مبتنی بر هوش مصنوعی برای توسعه دهندگان است که می تواند کد تولید، بررسی، ساده سازی، اشکال زدایی و سند را ایجاد کند.
 | [CodeGPT](https://codegpt.co/) |<p align="center"> یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
 
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
-## جستجو
-| AI | توضیح | Status |
-|-|-|-|
-| [Theres an AI for that](https://theresanaiforthat.com/) |<p align="center"> این وب سایت فهرستی از ابزارهای هوش مصنوعی است که بر اساس دسته بندی سازماندهی شده است. این شامل ابزارهایی برای کارهای مختلف از جمله نوشتن، طراحی، ترجمه و غیره است.
-| [aimodels](https://www.aimodels.fyi/models) |<p align="center">  این وب سایت یک موتور جستجو برای مدل های هوش مصنوعی است. این به شما امکان می دهد مدل ها را بر اساس وظیفه، زبان یا چارچوب جستجو کنید.
-| [Ora AI Explore](https://ora.ai/explore?type=trending) |<p align="center"> یک پلتفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا چت بات های سفارشی ایجاد کنند و از چت بات های موجود استفاده کنند.  
-| [Hugging Face](https://huggingface.co/) |<p align="center"> یک پلتفرم که کتابخانه ای از مدل ها و ابزارهای منبع باز ارائه می دهد. در بین محققان و توسعه دهندگان محبوبیت دارد
-| [Komo AI](https://komo.ai/) |<p align="center">  یک موتور جستجوی قدرت گرفته از هوش مصنوعی است که به کاربران کمک می کند تا اطلاعات را به صورت هدفمندتری پیدا کنند
-| [CrowdView](https://crowdview.ai/) |<p align="center">  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها است که به کاربران کمک می کند تا اطلاعات مورد نیاز خود را در فروم ها پیدا کنند
-| [YouChat Search](https://you.com) |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | ⭐
-| [OpenRouter AI](https://openrouter.ai/) |<p align="center"> یک پلتفرم ایجاد مدل های شخصی سازی شده هوش مصنوعی است که به کاربران کمک می کند تا مدل های هوش مصنوعی را برای نیازهای خاص خود ایجاد کنند
-| [](https://neeva.com/) |<p align="center"> یک موتور جستجو است که از هوش مصنوعی پشتیبانی می کند. این یک تجربه جستجوی منحصر به فرد و شخصی را ارائه می دهد و نتایج جستجوی مرتبط و باکیفیت را در اختیار کاربران قرار می دهد.
-| [Perplexity](https://www.perplexity.ai/) |<p align="center"> یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد |
-| [Rewind](https://www.rewind.ai/) |<p align="center"> یک ابزار مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا تاریخچه مرور خود را بررسی و تجزیه و تحلیل کنند. ویژگی هایی مانند جستجو، فیلتر کردن، و سازماندهی تاریخچه مرور را ارائه می دهد که به کاربران امکان می دهد به راحتی صفحات وب را که قبلاً بازدید کرده اند پیدا کرده و دوباره از آن بازدید کنند
-| [SearchIQ](https://www.searchiq.co/) |<p align="center">یک ابزار جستجوی مبتنی بر هوش مصنوعی است که برای افزایش قابلیت های جستجوی وب سایت ها طراحی شده است. این قابلیت جستجوی پیشرفته از جمله تکمیل خودکار هوشمند، فیلتر کردن و الگوریتم‌های رتبه‌بندی ارتباط را ارائه می‌کند
-| [Searchable](https://www.searchable.ai/) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به کاربران امکان می دهد اطلاعات مرتبط را در اسناد و فایل ها جستجو و پیدا کنند. از تکنیک‌های پردازش زبان طبیعی و یادگیری ماشین برای درک محتوای اسناد استفاده می‌کند و آنها را بر اساس کلمات کلیدی، عبارات و مفاهیم قابل جستجو می‌کند. 
-| [Omnisearch](https://omnisearch.ai/) |<p align="center">  یک ابزار جستجوی مبتنی بر هوش مصنوعی است که یک تجربه جستجوی یکپارچه را در چندین پلت فرم و منبع ارائه می دهد. این به کاربران اجازه می دهد تا اطلاعات، فایل ها، ایمیل ها، مخاطبین و موارد دیگر را از یک رابط جستجو کنند
-| [Numbers Search Engine](https://nftsearch.site/) |<p align="center"> موتور جستجوی اعداد یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به طور خاص بر روی داده‌ها و اطلاعات عددی متمرکز است. این به کاربران اجازه می دهد تا داده های آماری، فرمول های ریاضی، الگوهای عددی و موارد دیگر را جستجو کنند. با استفاده از موتور جستجوی اعداد، کاربران می‌توانند به مجموعه وسیعی از اطلاعات عددی دسترسی داشته باشند که آن را به منبعی ارزشمند برای محققان، دانشجویان و متخصصانی که با اعداد کار می‌کنند تبدیل می‌کند.
-| [Bing AI](https://www.bing.com/?/ai) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است. از تکنیک های یادگیری ماشین و پردازش زبان طبیعی برای بهبود نتایج جستجو و ارائه تجربه جستجوی شخصی تر استفاده می کند. 
 
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
-## ربات تلگرام
-- [TruthGPT](https://t.me/xtelegpt_bot)
-- [Bard AI](https://t.me/bard_kpbot) 
-- [ChatGPT FREE](https://t.me/OPENAl_ChatGPT_bot)
-- [Bing AI | Chat & DALLE Bot](https://t.me/chatgpt4_megabot)
-- [Bing Copilot](https://t.me/askbingbot)
-- [Search Bot](https://t.me/ribot)
-- [Cohere Ai](https://t.me/askprobot)  
-- [BuddyGPT](https://t.me/BuddyGPTBot)
-- [Telellama](https://t.me/telellamabot)
-- [GPT + Midjourney](https://t.me/chatsgpts_bot)
-- [RoboAceBot](https://t.me/RoboAceBot)
-- [TheB_AI_4Bot](https://t.me/TheB_AI_4Bot)
-- [TheB_AI_3Bot](https://t.me/TheB_AI_3Bot)  
-- [ai_modern_bot](https://t.me/ai_modern_bot)
-- [evilsgptbot](https://t.me/evilsgptbot)
-- [txt2img_kpbot](https://t.me/txt2img_kpbot)
-- [StableDiffusionRobot](https://t.me/StableDiffusionRobot) 
-- [midjourneyfreebot](https://t.me/midjourneyfreebot)
-- [dallefreebot](https://t.me/dallefreebot)
-- [Midjourney6Bot](https://t.me/Midjourney6Bot)
-- [PixelMindTheBot](https://t.me/PixelMindTheBot)
-- [Dark_GPT_Bot](https://t.me/Dark_GPT_Bot)
-- [piiixybot](https://t.me/piiixybot)
-- [chat_gpt_robot](https://t.me/chat_gpt_robot)
-- [MidjourneyOriginalBot](https://t.me/MidjourneyOriginalBot)
-- [stable_diffusion_bot](https://t.me/stable_diffusion_bot) 
-- [sd_prompt_generator_bot](https://t.me/sd_prompt_generator_bot)
-
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
-## نرم افزار
-### نرم افزار موبایل
-
-- 📱 Poe 
-- 🧠 Perplexity AI
-- 💬 Bing: Chat with AI & GPT-4
-- 🤖 AI Chat Master
-- 🤖 Chatbot Pro
-- 🧠 Frank AI
-- 💬 ChatSonic
-- 💬 Jasper Chat
-- 🤖 AI4Chat
-- 💬 ChatGod 
-- 💬 Aico AI Chat 
-- 🧠 Wisdom Ai 
-- ✍️ Write For Me
-- 🧠 Wiz AI Chat Bot Writing Helper
-- 🧠 Frank: The AI Chat Assistant
-- 💬 Famed.Chat
-### نرم افزار دسکتاپ
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&ch=1)
-- [Skype](https://www.skype.com/en/get-skype/)
-- [Botpress](https://botpress.com/)
-- [neuralspace](https://www.neuralspace.ai/)
-- [GodMode](https://github.com/smol-ai/GodMode)
-- [ChatGPT](https://github.com/lencx/ChatGPT)
-- [BingGPT](https://sourceforge.net/projects/binggpt.mirror/)
-- [Freedom GPT](https://sourceforge.net/projects/freedom-gpt.mirror/)
-- [Free ChatGPT V4 Desktop](https://sourceforge.net/projects/freechatgptv3desktop/)
-- [PYGPT](https://sourceforge.net/projects/pygpt.mirror/)
-
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
-## افزونه
-### Chrome (and other chromium base browsers)
-
-- 🧠 [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) - AI Companion
-- https://chromewebstore.google.com/detail/multigpt-access-all-chatb/dfobejficjaelohpjceiicphofmmglop
-- 🚁 [Monica](https://chrome.google.com/webstore/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) - Your AI Copilot powered by GPT-4
-- 🔖 [Bing Chat (GPT-4) in Google](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
-- ⚔️ [Bard for search engines](https://chrome.google.com/webstore/detail/bard-for-search-engines/pkdmfoabhnkpkcacnmgilaeghiggdbgf)
-- 🔖 [MaxAI](https://chrome.google.com/webstore/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi) - a popular extension that provides prompts for ChatGPT, Bard AI, and Bing AI
-- 🔖 [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - a browser extension that augments your ChatGPT prompts with web results
-- 💬 [ChatSonic](https://chrome.google.com/webstore/detail/chatsonic-chatgpt-with-su/kchaponcodemjigejilffhfchecpgdpf) - an extension that lets you enjoy the convenience of AI-assisted writing across various platforms
-- 💬 [TweetGPT](https://chrome.google.com/webstore/detail/tweetgpt/lkjblpoingopdeaofcaapmeoojjjnhnc) - an extension that generates tweets with AIl
-- 💬 [ReaderGPT](https://chrome.google.com/webstore/detail/readergpt-chatgpt-based-w/ohgodjgnfedgikkgcjdkomkadbfedcjd) - an extension that summarizes articles and web pages
-- 💬 [Merlin ](https://chrome.google.com/webstore/detail/merlin-ai-chat-powered-by/camppjleccjaphfdbohjdohecfnoikec)- an extension that provides access to recent information
-- 📝 [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/ai-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - an extension that helps you write better prompts to get improved responses
-- 🎙️ [Talk-to-ChatGPT](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk)- an extension that allows you to talk to ChatGPT using voice commands
-- 📱 [ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb?hl=en&authuser=0) - an extension that generates social media posts with AI
-- ✒️ [FancyGPT](https://chrome.google.com/webstore/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk) - an extension that generates text with AI
-- 🔖 [ChatGPT For Google]() - allows you to use ChatGPT alongside Google search
-- 🔖 [Engage AI ChatGPT]() - helps you write insightful AI-powered comments
-- 💌 [Compose AI]() - helps you write better emails and messages with AI
-- 📝 [Summarize]() - summarizes text
-- ✒️ [GPT-EZ]() - generates text with AI
-- 📝 [SnackPrompt]() - helps you write better prompts to get improved responses
-  
-### FireFox 
-- 🔖 [WebChatGPT](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) - a browser extension that augments your ChatGPT prompts with web results
-- 💬 [AI Anywhere for ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/ai_anywhere/) - adds context menu, keyboard shortcuts, history, and more
-- 🔎 [Search Engine 2.0](https://addons.mozilla.org/en-US/firefox/addon/search-engine-pro/) - combines the power of OpenAI and Midjourney with Google search to bring you an unparalleled search experience
-- 🔖 [ChatGPT for Search Engines](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) - provides access to ChatGPT for any search query
-### Vs code
-_ 🔖 Tabnine - a popular extension that provides AI-powered short code completion for VS Code Intellisense
-- 🤝 GitHub Copilot - an AI pair programmer tool that helps you write code faster and smarter
-- 💡 IntelliCode - an extension built into Microsoft's flagship IDE, Visual Studio, that provides AI-assisted code completion
-- 🦙 Code Llama - an AI-powered extension that helps you write better code by suggesting code snippets based on your coding patterns
-- 🤝 TogetherAI / Replicate - an extension that utilizes the Continue VS Code Extension to provide AI-powered code completion
-- 🚶 Code Attendant - an extension that uses AI to suggest code snippets based on your coding patterns
-- 📚 OverflowAI - a new VS Code extension from Stack Overflow that uses generative AI to help developers write better code
-- 🤖 AIXcoder - an extension that provides AI-powered code completion and suggestions
-- 🤖 Bito AI - an AI assistant tool with a diverse use case, including generating code, asking for syntax, generating test cases, and more
-- 📖 Readable - an extension that uses AI to suggest more readable code
-- 🧪 Ponicode - an extension that uses AI to generate unit tests for your code
-### JetBrains IDEs
-- 🔖 Tabnine - an AI-powered extension that provides smart code completion and suggestions
-- 🔖 Kite - an AI-powered extension that provides code completion, documentation, and error checking
-- 💡 Codeium - an AI-powered extension that provides code completion and suggestions
-- 💡 AskCodi - an AI-powered extension that provides code completion and suggestions
-- 🦙 JetBrains Datalore - an AI-powered extension that provides code completion and suggestions
-- 💡 CodeAssist - an AI-powered extension that provides code completion and suggestion
-- 🤖 AIXcoder - an AI-powered extension that provides code completion and suggestions
-- 💡 AI Coding Assistant - an AI-powered extension that provides code completion and suggestions
-
-<!--lint ignore double-link-->
-**[⬆ بازگشت به فهرست ](#فهرست-مطالب)**
