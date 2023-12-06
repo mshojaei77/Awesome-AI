@@ -1,6 +1,4 @@
-## Official Chatbots
-<img width="100" style="margin-right:6px;" src="https://github.com/mshojaei77/Awesome-AI/assets/76538971/1a6c90f0-7232-43e5-aa43-37e204343dee" />
-
+# Chatbots 
 
 ###  [ChatGPT](https://openai.com/chatgpt)
 <details>
@@ -55,3 +53,61 @@ more
   <summary>Introduction</summary>
 more
 </details>
+
+## Other Chatbots  🔰
+
+### [POE](https://poe.com/Sage) 
+<details>
+  <summary>Introduction</summary> 
+Supports a wide variety of AI models, including ChatGPT, GPT-4, and DALL-E 3 from OpenAI, Claude Instant and Claude 2 from Anthropic, StableDiffusionXL from Stability AI, PaLM from Google, Llama 2 from Meta, and many other bots created by the community, Cross-Platform Availability, Customization, Continuous Expansion 
+</details>
+
+### [Perplexity](https://www.perplexity.ai/) 
+AI-powered search engine, Customizable Search (Users can search for specific domains like Wolfram Alpha, Reddit, Wikipedia, YouTube, News articles, Academic Papers), File Uploads for Data Analysis, Entity Linking, Copilot, Content Generation, Problem-Solving Abilities, Chrome Extension,
+
+### [Vercel SDK](https://sdk.vercel.ai/) 
+First-class support for multiple AI models, Chat & Prompt Playground 
+
+### [character ai](https://character.ai/)  
+Contextual Conversation Generation, Digital Avatar Generation, Multi-Media Interaction, Customizable Characters, Adaptive Learning Capability, Tailored Interactions, User-Friendly Interface | Freemium  | 
+
+### [Phind](https://www.phind.com/) 
+Customizable Search Options, Developer-Focused, AI-Powered Insights, Efficient Information Retrieval, Pair Programmer  
+
+### [Forefront](https://chat.forefront.ai)
+Access to different LLMs (including GPT-3.5, GPT-4, Claude Instant 1.2, Claude 2, and Forefront), Internet Content Access, Personas, 
+
+### [The B AI](https://chatbot.theb.ai/#/chat/1688388943679)
+access to advanced language models, which can be used for tasks such as text generation, sentiment analysis, and more
+
+
+### [Hugging Face Chat](https://huggingface.co/chat/)   
+Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration 
+
+### [Gpt4Free]() 
+
+### [Agent GPT](https://agentgpt.reworkd.ai/)
+Autonomous Behavior, Multi-Tasking Capability, Customizability, Scalability, can be utilized as a virtual assistant in various domains, such as personal assistants, scheduling assistants, travel assistants, and more 
+
+### [Godmode](https://godmode.space/) 
+Generative AI Agents, Web-Based Access, AutoGPT/BabyAGI Integration, Task Automation, can be used for content creation, marketing campaigns, determining the best market to launch a product, writing a resignation letter, or exploring hypothetical scenarios 
+
+ ### [Zapier Chatbot](https://zapier.com/apps/chatbot)
+ Allows you to create custom AI-powered chatbots, Easy to Build, Data Control, Automated Workflows 
+ 
+[Lepton Playground](https://dashboard.lepton.ai/playground/) 
+Run AI applications efficiently, at scale, and in minutes with a cloud native platform 
+
+### [Chatbot Arena](https://chat.lmsys.org/?arena)
+benchmark platform for Large Language Models (LLMs), user can chat with two anonymous models side-by-side and vote for which one is better
+
+### [Replika](https://replika.com/) 
+Replika is an app that lets you chat with an AI companion, Personalization, Emotional Connection, Learning and Adaptation, Human-Like Conversation 
+
+### [PandoraAI](https://ai-chat.scholarcn.com/) 
+web chat client powered to interact with ChatGPT and Bing 
+
+### My AskAI
+### Chatbase
+### Chatsimple
+### SiteSpeakAI
