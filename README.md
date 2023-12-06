@@ -4,10 +4,11 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 
 - 🤖 [Chatbots](https://github.com/mshojaei77/Awesome-AI/blob/main/Chatbots.md): Engage in captivating conversations with conversational AI.
-  - Top Picks: Chatgpt, Claude, Copilot, Bard
+  - **Top Picks** ▶ _Chatgpt, Claude, Copilot, Bard_
 - 🔍 [Search Tools](https://github.com/mshojaei77/Awesome-AI/blob/main/Search%20Tools.md): Harness the power of AI for efficient search capabilities.
-  - Top Picks: Phind, Perplexity, Copilot
+  - **Top Picks** ▶ _Phind, Perplexity, Copilot_
 - 💻 [Coding](https://github.com/mshojaei77/Awesome-AI/blob/main/Code%20Generator.md): Boost your coding experience with AI-assisted code generation.
+  - **Top Picks** ▶ _Github Copilot, Deep Seek, Chatgpt, Phind, Continue_
 - 🌐 [Translation](https://github.com/mshojaei77/Awesome-AI/blob/main/Translation.md): Experience precise language translation with the power of AI.
 - ✍️ [Content Writing](https://github.com/mshojaei77/Awesome-AI/blob/main/Content%20Writing.md): Unleash your creativity with AI-driven text creation.
 - 📝 [Writing Assistant](https://github.com/mshojaei77/Awesome-AI/blob/main/Writing%20Assistant.md): Access tools that enhance your writing prowess.
