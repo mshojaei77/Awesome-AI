@@ -1,46 +1,42 @@
 # Awesome-AI <img width="100" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.pngmart.com/files/21/AI-PNG-HD.png" /> 
+Welcome to the AI Resource Repository! The purpose of this repository is to provide a one-stop place for a growing collection of interesting things about generative synthetics. Whether you're looking for resources, tools, samples, demos, hacks, or apps related to AI and specifically generative AI technology, this repository has you covered.
 
-به مخزن منابع AI خوش آمدید! هدف این مخزن ارائه یک مکان همه کاره برای مجموعه ای رو به رشد از چیزهای جالب در مورد هوش مصنوعی و ChatGPT است. چه به دنبال منابع، ابزارها، نمونه ها، دموها، هک ها یا برنامه های مرتبط با هوش مصنوعی و به طور خاص فناوری ChatGPT باشید، این مخزن شما را تحت پوشش قرار داده است.
-
-به عنوان یک علاقه‌مند به هوش مصنوعی و علاقه‌مند به کاوش در دنیای هوش مصنوعی و برنامه‌های کاربردی آن، این فهرست را به صورت دستی تنظیم کرده‌ام. هدف ایجاد یک مرکز متمرکز است که در آن افراد علاقه مند به هوش مصنوعی بتوانند محتوای ارزشمندی را پیدا کنند که جنبه های مختلف این حوزه را در بر می گیرد.
+As an AI enthusiast and interested in exploring the world of AI and its applications, I have hand-curated this list. The goal is to create a hub where people interested in artificial intelligence can find tools that cover different aspects of the field.
 
 
-## دسته بندی
-- 📝 [متن](#متن)
-  - [چت بات های رسمی](#Official-Chatbots)
-- 🌄 [تصویر](#تصویر)
-- 🎬 [ویدیو](#ویدیو)
-- 🔊 [صدا](#صدا)
-- 💻 [کد](#کد)
-- 📦 [مدل سه بعدی](#مدل-سه-بعدی)
+## Table of Contents 
+- 📝 [Text](#Text)
+  - [Official Chatbots](#Official-Chatbots)
+- 🌄 [Image](#تصویر)
+- 🎬 [Video](#ویدیو)
+- 🔊 [Audio ](#صدا)
+- 💻 [Code](#کد)
+- 📦 [3D Models](#مدل-سه-بعدی)
 ------
-## متن
+## Text
 ### Official Chatbots
 
 ####  [ChatGPT](https://openai.com/chatgpt)
 <details>
-  <summary>مشاهده توضیحات</summary>
- 
-چت چی پی تی که توسط OpenAI توسعه یافته است، یک مدل زبان همه کاره با برنامه های کاربردی بی شمار است. می تواند متنی شبیه انسان تولید کند که در زمینه های مختلفی مانند برنامه نویسی، ایجاد محتوا، خدمات مشتری و تجزیه و تحلیل داده ها کمک می کند. برای توسعه دهندگان، می تواند به عنوان یک دستیار برنامه نویسی، کمک به بازآفرینی کد، بررسی اشکال، و پاسخ به سؤالات کدنویسی متنی باشد. برای کسب و کارها، می تواند در ایجاد محتوای بازاریابی، پاسخ های پشتیبانی مشتری و حتی تجزیه و تحلیل اسناد قانونی کمک کند. همچنین می‌تواند با خلاصه کردن مقالات و ایجاد بینش از داده‌های متنی گسترده به تحقیق کمک کند. ویژگی منحصر به فرد ChatGPT توانایی آن در درک زمینه است که به آن امکان می دهد پاسخ های منسجمی ارائه دهد و مکالمات شبیه انسان را شبیه سازی کند. کاربردهای آن همچنان در حال گسترش است و پتانسیل عظیم خود را برای تغییر بخش های مختلف نشان می دهد.
+  <summary>Introduction</summary>
+ChatGPT, developed by OpenAI, is a versatile language model with a wide range of applications. It can generate human-like text, aiding in various tasks such as content creation, customer support, and data analysis. For developers, it can serve as a coding assistant, helping with code refactoring, bug checks, and answering contextual coding questions. For businesses, it can assist in creating marketing content, customer support responses, and even legal document analysis. It can also aid in research by summarizing articles and generating insights from vast text data. ChatGPT's unique feature is its ability to understand context, allowing it to provide coherent responses and simulate human-like conversations. Its applications continue to expand, demonstrating its immense potential to transform various sectors .
 </details>
 
 #### [Bard](https://bard.google.com/) 
 <details>
-  <summary>مشاهده توضیحات</summary>
- 
-بارد که توسط PalM 2 پشتیبانی می‌شود، یک ربات چت هوش مصنوعی است که برای تعامل با کاربران و ارائه پاسخ‌ها به شیوه‌ای شبیه انسان طراحی شده است. می تواند کارهایی مانند پیش نویس طرح کلی مقاله، خلاصه کردن متن، ترجمه اسناد و حتی توصیف آب و هوا را انجام دهد. Bard همچنین می‌تواند با مجموعه برنامه‌های Google تعامل داشته باشد، اطلاعات بلادرنگ را بازیابی کند و گردش کار را بهبود بخشد. به کاربران این امکان را می‌دهد که پاسخ‌ها را تغییر دهند تا معمولی یا حرفه‌ای‌تر باشند و پاسخ‌ها را می‌توان از طریق پیوندهای عمومی به اشتراک گذاشت. علاوه بر این، کاربران می‌توانند پاسخ‌های بارد را بررسی کنند و از صحت اطلاعات ارائه‌شده اطمینان حاصل کنند. بارد علیرغم اینکه در مرحله رشد خود قرار دارد، در ایجاد تحول در نحوه تعامل ما با هوش مصنوعی نویدبخش است  
+  <summary>Introduction</summary>
+Google Bard is an AI-powered chatbot developed by Google that uses natural language processing and machine learning to simulate human conversations. It can respond to user queries on any subject with an almost human-like understanding, generating responses in a natural language. Bard's unique feature is its ability to integrate with Google apps, allowing it to retrieve real-time information from apps like Gmail, Drive, Maps, Flights, Hotels, and even YouTube. It can also summarize articles and web pages, generate content ideas, and compare research and data in a chart. Despite its capabilities, Bard must learn and be trained to give the correct answer from inaccurate or misleading information, which is an ongoing, compute-intensive process. However, Google is committed to transparency and accountability in developing AI, encouraging users to provide feedback if they see inaccuracies.
 </details>
 
 #### [Copilot](https://copilot.microsoft.com/) 
 <details>
-  <summary>مشاهده توضیحات</summary>
- 
-بینگ چت که اکنون به عنوان Copilot شناخته می شود، یک سرویس مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است که طیف گسترده ای از برنامه ها را ارائه می دهد. این می تواند به کارمندان و مربیان در تولید محتوا، تجزیه و تحلیل داده ها، خلاصه کردن اسناد و حتی نوشتن کد کمک کند. این سرویس برای پاسخ به سوالات پیچیده با تقطیر اطلاعات از چندین منبع وب در یک پاسخ طراحی شده است. یکی از ویژگی های منحصر به فرد آن، ادغام آن با حفاظت از داده های تجاری است که امنیت مکالمات حساس را تضمین می کند. علاوه بر این، بینگ چت می تواند برای برنامه ریزی سفرهای کاری، تولید محتوای رسانه های اجتماعی و کمک به یادگیری مهارت های جدید استفاده شود.
+  <summary>Introduction</summary>
+Microsoft Copilot, formerly known as Bing Chat, is an AI-powered chatbot that uses large language models (LLMs) to assist users in various tasks. It can respond to user queries, generate text and images, and even perform tasks across multiple apps. One of its unique features is its ability to integrate with Microsoft 365 apps, including Word, Excel, PowerPoint, Outlook, and Teams. It can assist in tasks such as writing, data analysis, and forecasting. It also has the capability to generate images using OpenAI's DALL·E 3 model. Copilot is designed to be a seamless experience, available in Windows 11, Microsoft 365, and in the web browser with Edge and Bing. It aims to provide better assistance by incorporating the context and intelligence of the web, work data, and the user's current activity on their PC .
 </details>
 
 #### [Claude 2](https://www.anthropic.com/index/claude-2) 
 <details>
-  <summary>مشاهده توضیحات</summary>
+  <summary>Introduction</summary>
  
 کلود Claude  یک چت بات مدل زبانی بزرگ است که توسط Anthropic توسعه یافته است. برای تولید متنی شبیه انسان و کمک به کارهای مختلف مانند خلاصه‌سازی، جستجو، نوشتن خلاقانه و مشارکتی، پرسش و پاسخ و کدنویسی طراحی شده است. ویژگی منحصر به فرد Claude 2 توانایی آن در پردازش تا 100000 توکن در یک درخواست واحد است که معادل حدود 75000 کلمه است که به آن امکان می دهد ورودی های بزرگ را مدیریت کند و خروجی های طولانی تولید کند. این قابلیت به آن اجازه می دهد تا ورودی بزرگی به ربات (به عنوان مثال، یک کتاب) ارائه دهد و سپس یک مکالمه طولانی در مورد آن داشته باشد. همچنین می‌تواند فایل‌های کد را در مکالمه با ربات تولید، تنظیم یا تصحیح کند. با وجود قابلیت‌هایش، Claude 2 به گونه‌ای طراحی شده است که ایمن و دوستانه باشد، با تمرکز بر اجتناب از خروجی‌های مضر و ارائه بینش‌های ارزشمند.
 </details>
