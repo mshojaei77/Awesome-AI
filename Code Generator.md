@@ -14,8 +14,22 @@
 آدرنالین یک ابزار اشکال زدایی مبتنی بر هوش مصنوعی است که به توسعه دهندگان کمک می کند تا به سرعت خطاهای کد خود را شناسایی و برطرف کنند. با شناسایی علت اصلی خطا، مانند یک نقطه ویرگول یا نحو نادرست، کار می کند و سپس راه حلی ارائه می دهد که می تواند برای رفع کد پیاده سازی شود
 ###  [Codepal](https://codepal.ai/)
 مجموعه ای از ابزارهای مبتنی بر هوش مصنوعی برای توسعه دهندگان است که می تواند کد تولید، بررسی، ساده سازی، اشکال زدایی و سند را ایجاد کند.
-### [CodeGPT](https://codegpt.co/)
-یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
 ###  [CodeLlama]() 
 ### [Freedium]()
 ### [Onboard AI]() 
+### Tabnine
+Tabnine is an AI coding assistant that offers code completion suggestions tailored to the context of your code. It supports multiple programming languages and integrates with popular code editors like Visual Studio Code and IntelliJ IDEA 
+### Divi AI
+Divi AI is an AI-powered code assistant that provides intelligent suggestions and autocompletion. It supports multiple programming languages and is compatible with various code editors 
+### Kite
+Kite offers real-time code completions and intelligent suggestions. It seamlessly integrates with your code editor, offering support for multiple programming languages
+### Favtutor's AI Code Generator
+Favtutor's AI Code Generator provides well-structured, error-free code with a simple click, eliminating the hassle of manual programming. It can generate complete programs in any programming language 
+### DeepCode
+DeepCode is an AI-powered code review tool that analyzes code for bugs, vulnerabilities, and performance issues. It provides actionable suggestions for improving code quality and security
+### Cody by Sourcegraph
+Cody offers automated code reviews and even identifies and fixes potential bugs in the code. It understands the context in which the code is written, allowing it to provide meaningful and relevant suggestions and reviews 
+### AskCodi
+AskCodi offers features like Time Complexity insights, code generators, and auto-test creators. It also provides a unique autocomplete function for quick coding within various editors 
+### AI2sql
+AI2sql simplifies the process of converting natural language queries into SQL. It stands out in database management where writing complex SQL queries can be a daunting task
