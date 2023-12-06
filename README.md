@@ -4,6 +4,9 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 
 - 🤖 [Chatbots](https://github.com/mshojaei77/Awesome-AI/blob/main/Chatbots.md): Engage in captivating conversations with conversational AI.
+  - Top Picks: Chatgpt, Claude, Copilot, Bard
+- 🔍 [Search Tools](https://github.com/mshojaei77/Awesome-AI/blob/main/Search%20Tools.md): Harness the power of AI for efficient search capabilities.
+  - Top Picks: Phind, Perplexity, Copilot
 - 💻 [Coding](https://github.com/mshojaei77/Awesome-AI/blob/main/Code%20Generator.md): Boost your coding experience with AI-assisted code generation.
 - 🌐 [Translation](https://github.com/mshojaei77/Awesome-AI/blob/main/Translation.md): Experience precise language translation with the power of AI.
 - ✍️ [Content Writing](https://github.com/mshojaei77/Awesome-AI/blob/main/Content%20Writing.md): Unleash your creativity with AI-driven text creation.
@@ -33,7 +36,6 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 
 - 📦 [3D Models](https://github.com/mshojaei77/Awesome-AI/blob/main/3D%20Models.md): Explore a collection of AI-generated 3D models.
 - 📊 [Predictive Analytics](https://github.com/mshojaei77/Awesome-AI/blob/main/Predictive%20Analytics.md): Leverage AI for insightful predictive data analysis.
-- 🔍 [Search Tools](https://github.com/mshojaei77/Awesome-AI/blob/main/Search%20Tools.md): Harness the power of AI for efficient search capabilities.
 - 🧪 [Research and Science](https://github.com/mshojaei77/Awesome-AI/blob/main/Research.md): Dive into AI applications in research and scientific domains.
 - 💼 [Sales & Marketing](https://github.com/mshojaei77/Awesome-AI/blob/main/Sales%20%26%20Marketing.md): Implement AI tools for effective sales and marketing strategies.
 - 🤖 [Customer Service](https://github.com/mshojaei77/Awesome-AI/blob/main/Customer%20Service.md): Elevate your customer support with AI-driven solutions.
