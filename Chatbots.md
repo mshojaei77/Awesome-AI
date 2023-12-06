@@ -1,8 +1,10 @@
 # Chatbots 
 
-###  [ChatGPT](https://openai.com/chatgpt)
-<details>
-  <summary>Introduction</summary>
+### [ChatGPT](https://openai.com/chatgpt)
+
+<img width="100" style="margin-right:6px;" src="[image](https://github.com/mshojaei77/Awesome-AI/assets/76538971/11c7bfc7-36be-4035-8a04-8c225f7407a9)" /> 
+
+<details><summary> Introduction</summary>
 ChatGPT, developed by OpenAI, is a versatile language model with a wide range of applications. It can generate human-like text, aiding in various tasks such as content creation, customer support, and data analysis. For developers, it can serve as a coding assistant, helping with code refactoring, bug checks, and answering contextual coding questions. For businesses, it can assist in creating marketing content, customer support responses, and even legal document analysis. It can also aid in research by summarizing articles and generating insights from vast text data. ChatGPT's unique feature is its ability to understand context, allowing it to provide coherent responses and simulate human-like conversations. Its applications continue to expand, demonstrating its immense potential to transform various sectors .
 </details>
 
