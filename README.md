@@ -6,13 +6,17 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 - 🤖 [Chatbots](https://github.com/mshojaei77/Awesome-AI/blob/main/Chatbots.md): Engage in captivating conversations with conversational AI.
   - **Top Picks** ▶ _Chatgpt, Claude, Copilot, Bard_
 - 🔍 [Search Tools](https://github.com/mshojaei77/Awesome-AI/blob/main/Search%20Tools.md): Harness the power of AI for efficient search capabilities.
-  - **Top Picks** ▶ _Phind, Perplexity, Copilot_
+  - **Top Picks** ▶ _Phind, Perplexity, Bing_
 - 💻 [Coding](https://github.com/mshojaei77/Awesome-AI/blob/main/Code%20Generator.md): Boost your coding experience with AI-assisted code generation.
-  - **Top Picks** ▶ _Github Copilot, Deep Seek, Chatgpt, Phind, Continue_
+  - **Top Picks** ▶ _Github Copilot, Deep Seek, Chatgpt, Phind, Bito, Continue_
 - 🌐 [Translation](https://github.com/mshojaei77/Awesome-AI/blob/main/Translation.md): Experience precise language translation with the power of AI.
+  - **Top Picks** ▶ _DeepL_
 - ✍️ [Content Writing](https://github.com/mshojaei77/Awesome-AI/blob/main/Content%20Writing.md): Unleash your creativity with AI-driven text creation.
+  - **Top Picks** ▶ _Rytr_
 - 📝 [Writing Assistant](https://github.com/mshojaei77/Awesome-AI/blob/main/Writing%20Assistant.md): Access tools that enhance your writing prowess.
+  - **Top Picks** ▶ _QuillBot_
 - 🖼️ [Presentation Slides](https://github.com/mshojaei77/Awesome-AI/blob/main/Presentation.md): Elevate your presentations with AI-generated content.
+  - **Top Picks** ▶ _Gamma app_
 
 ## 🌄 Image
 
