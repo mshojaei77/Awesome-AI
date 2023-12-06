@@ -1,7 +1,6 @@
 # Awesome AI <img width="100" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.pngmart.com/files/21/AI-PNG-HD.png" /> 
 Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipping your toes into the vast world of artificial intelligence, you've landed at the ultimate hub for all things AI. I've carefully curated this resource repository to cater to your curiosity and passion for generative AI technology. Let's embark on an exciting journey together!
 
-
 ## 📝 Text
 
 - 🤖 [Chatbots](https://github.com/mshojaei77/Awesome-AI/blob/main/Chatbots.md): Engage in captivating conversations with conversational AI.
@@ -42,11 +41,4 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 - 🛠️ [Extensions & Plugins](https://github.com/mshojaei77/Awesome-AI/blob/main/Extensions.md): Seamlessly integrate AI-powered extensions and plugins.
 - 🔄 [API](https://github.com/mshojaei77/Awesome-AI/blob/main/API.md): Unlock diverse AI functionalities through user-friendly APIs.
 
-# Best Tools
-| Content Type | AI Tools |
-| --- | --- |
-| Text | Jasper, Descript, Sudowrite, Anyword, Copy.ai |
-| Image | DALL-E 3, Midjourney,Spline, Stable Diffusion, Firefly, Generative AI by Getty Images |
-| Video | Descript, Wondershare Filmora, Runway, Synthesia, Visla |
-| Audio & Music | LANDR, AIVA, Mubert, LALAL.AI, Speechify |
-| 3D Model | Spline, Masterpiece Studio, Meshcapade, Luma AI, Luma 3D |
+
