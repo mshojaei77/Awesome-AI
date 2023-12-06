@@ -21,8 +21,11 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 🌄 Image
 
 - 🎨 [Art & Image Generator](https://github.com/mshojaei77/Awesome-AI/blob/main/Art%20%26%20Image%20Generator.md): Unleash your artistic side with AI-powered image generation.
+  - **Top Picks** ▶ _Dalle-3, Midjourney, Leonardo.Ai, Ideogram_
 - 🖼️ [Image Editing](https://github.com/mshojaei77/Awesome-AI/blob/main/Image%20Editing.md): Perfect your images with precise AI-powered manipulation.
+  - **Top Picks** ▶ _PicsArt_
 - 📸 [Photo Enhancement](https://github.com/mshojaei77/Awesome-AI/blob/main/Photo%20Enhancement.md): Transform and enhance your photos using advanced AI algorithms.
+  - **Top Picks** ▶ _Magnific_
 - 🌈 [Colorization](https://github.com/mshojaei77/Awesome-AI/blob/main/Colorization.md): Add life to black and white images effortlessly with AI.
 
 ## 🎬 Video
