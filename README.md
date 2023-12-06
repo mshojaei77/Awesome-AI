@@ -7,11 +7,11 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 ## Table of Contents 
 - 📝 [Text](#Text)
   - [Official Chatbots](#Official-Chatbots)
-- 🌄 [Image](#تصویر)
-- 🎬 [Video](#ویدیو)
-- 🔊 [Audio ](#صدا)
-- 💻 [Code](#کد)
-- 📦 [3D Models](#مدل-سه-بعدی)
+- 🌄 [Image](#Image)
+- 🎬 [Video](#Video)
+- 🔊 [Audio ](#Audio)
+- 💻 [Code](#Code)
+- 📦 [3D Models](#3D-Model)
 ------
 # Text
 ## Official Chatbots  🔰
@@ -72,224 +72,233 @@ more
 
 ## Other Chatbots  🔰
 
-[POE](https://poe.com/Sage) 
+### [POE](https://poe.com/Sage) 
 <details>
   <summary>Introduction</summary> 
 Supports a wide variety of AI models, including ChatGPT, GPT-4, and DALL-E 3 from OpenAI, Claude Instant and Claude 2 from Anthropic, StableDiffusionXL from Stability AI, PaLM from Google, Llama 2 from Meta, and many other bots created by the community, Cross-Platform Availability, Customization, Continuous Expansion 
 </details>
 
-[Perplexity](https://www.perplexity.ai/) 
+### [Perplexity](https://www.perplexity.ai/) 
 AI-powered search engine, Customizable Search (Users can search for specific domains like Wolfram Alpha, Reddit, Wikipedia, YouTube, News articles, Academic Papers), File Uploads for Data Analysis, Entity Linking, Copilot, Content Generation, Problem-Solving Abilities, Chrome Extension,
 
-[Vercel SDK](https://sdk.vercel.ai/) 
+### [Vercel SDK](https://sdk.vercel.ai/) 
 First-class support for multiple AI models, Chat & Prompt Playground 
 
-[character ai](https://character.ai/)  
+### [character ai](https://character.ai/)  
 Contextual Conversation Generation, Digital Avatar Generation, Multi-Media Interaction, Customizable Characters, Adaptive Learning Capability, Tailored Interactions, User-Friendly Interface | Freemium  | 
 
-[Phind](https://www.phind.com/) 
+### [Phind](https://www.phind.com/) 
 Customizable Search Options, Developer-Focused, AI-Powered Insights, Efficient Information Retrieval, Pair Programmer  
 
-[Forefront](https://chat.forefront.ai)
+### [Forefront](https://chat.forefront.ai)
 Access to different LLMs (including GPT-3.5, GPT-4, Claude Instant 1.2, Claude 2, and Forefront), Internet Content Access, Personas, 
 
-[The B AI](https://chatbot.theb.ai/#/chat/1688388943679)
+### [The B AI](https://chatbot.theb.ai/#/chat/1688388943679)
 access to advanced language models, which can be used for tasks such as text generation, sentiment analysis, and more
 
 
-[Hugging Face Chat](https://huggingface.co/chat/)   
+### [Hugging Face Chat](https://huggingface.co/chat/)   
 Access to Open Source LLMs (openchat, Llama-2, CodeLlama, Mistral, Falcon),Web Interface and API Integration 
 
-[Gpt4Free]() 
+### [Gpt4Free]() 
 
-[Agent GPT](https://agentgpt.reworkd.ai/)
+### [Agent GPT](https://agentgpt.reworkd.ai/)
 Autonomous Behavior, Multi-Tasking Capability, Customizability, Scalability, can be utilized as a virtual assistant in various domains, such as personal assistants, scheduling assistants, travel assistants, and more 
 
-[Godmode](https://godmode.space/) 
+### [Godmode](https://godmode.space/) 
 Generative AI Agents, Web-Based Access, AutoGPT/BabyAGI Integration, Task Automation, can be used for content creation, marketing campaigns, determining the best market to launch a product, writing a resignation letter, or exploring hypothetical scenarios 
 
- [Zapier Chatbot](https://zapier.com/apps/chatbot)
+ ### [Zapier Chatbot](https://zapier.com/apps/chatbot)
  Allows you to create custom AI-powered chatbots, Easy to Build, Data Control, Automated Workflows 
  
 [Lepton Playground](https://dashboard.lepton.ai/playground/) 
 Run AI applications efficiently, at scale, and in minutes with a cloud native platform 
 
-[Chatbot Arena](https://chat.lmsys.org/?arena)
+### [Chatbot Arena](https://chat.lmsys.org/?arena)
 benchmark platform for Large Language Models (LLMs), user can chat with two anonymous models side-by-side and vote for which one is better
 
-[Replika](https://replika.com/) 
+### [Replika](https://replika.com/) 
 Replika is an app that lets you chat with an AI companion, Personalization, Emotional Connection, Learning and Adaptation, Human-Like Conversation 
 
-[PandoraAI](https://ai-chat.scholarcn.com/) 
+### [PandoraAI](https://ai-chat.scholarcn.com/) 
 web chat client powered to interact with ChatGPT and Bing 
 
-My AskAI
-Chatbase
-Chatsimple
-SiteSpeakAI
+### My AskAI
+### Chatbase
+### Chatsimple
+### SiteSpeakAI
 
 
 ------------------------
 # Image
 ## Art & Image Generator 🌄
-## [bing image creator](https://www.bing.com/create)  
+###  [bing image creator](https://www.bing.com/create) 
  یک ابزار هوش مصنوعی رایگان است که به کاربران امکان می دهد با استفاده از پیام های متنی تصاویر ایجاد کنند
- [Stable Diffusion](https://clipdrop.co/stable-diffusion?output=true)  
+ 
+###  [Stable Diffusion](https://clipdrop.co/stable-diffusion?output=true)  
  یک مدل هوش مصنوعی منبع باز است که تصاویر را از زبان طبیعی تولید می کند
-[FireFly](https://firefly.adobe.com/) 
+###  [FireFly](https://firefly.adobe.com/) 
 یک سیستم هوش مصنوعی مولد است که می تواند تصاویر، جلوه های متنی و موارد دیگر را با استفاده از اعلان های متنی ایجاد کند
-[Midjourney](https://www.midjourney.com/)
+### [Midjourney](https://www.midjourney.com/)
 یکی از محبوب ترین و قوی ترین ابزارها برای ایجاد هنر توسط هوش مصنوعی است 
- [PhotoRoom](https://www.photoroom.com/)
+### [PhotoRoom](https://www.photoroom.com/)
  یک اپلیکیشن موبایل و پلتفرم مبتنی بر وب است که به کاربران امکان ایجاد و ویرایش تصاویر را می دهد. از هوش مصنوعی برای حذف خودکار پس زمینه و اشیاء ناخواسته از تصاویر استفاده می کند. سپس کاربران می توانند سوژه را در یک صحنه جدید قرار دهند.
- [Civitai](https://civitai.com/) 
+### [Civitai](https://civitai.com/) 
  انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو 
-[microsoft designer](https://designer.microsoft.com/) 
+### [microsoft designer](https://designer.microsoft.com/) 
 یک برنامه طراحی گرافیکی رایگان مبتنی بر هوش مصنوعی است که به شما کمک می کند تا در چند دقیقه طرح هایی با کیفیت حرفه ای ایجاد کنید.
- [leonardo ai](https://leonardo.ai) 
+###  [leonardo ai](https://leonardo.ai) 
  یک ابزار هوش مصنوعی مولد است که تصاویر و آثار هنری ایجاد می کند. این برای ایجاد تصویر برای بازی های رایانه ای شناخته شده است 
-[dall-e](https://openai.com/dall-e-2)
+### [dall-e](https://openai.com/dall-e-2)
 یک سیستم هوش مصنوعی است که می تواند تصاویر را از پیام های متنی تولید کند که می تواند تصاویر را به هر سبکی تولید کند
-[Picsart](https://picsart.com/ai-image-generator/)
+### [Picsart](https://picsart.com/ai-image-generator/)
 یک پلت فرم ایجاد تصاویر دیجیتال است که ابزارهای مبتنی بر هوش مصنوعی را برای ویرایش و طراحی محتوا ارائه می دهد
- [Imagen](https://imagen.research.google/) 
+### [Imagen](https://imagen.research.google/) 
 یک ابزار هوش مصنوعی است که از الگوریتم های یادگیری عمیق برای ایجاد تصاویر از ورودی های متن استفاده می کند. این پلتفرم می‌تواند تصاویر مختلفی از جمله عکس‌های واقعی، تصاویر و انیمه تولید کند
- [Craiyon](https://www.craiyon.com/) 
+### [Craiyon](https://www.craiyon.com/) 
 هوش مصنوعی و یادگیری ماشینی برای تبدیل متن به زبان ساده به تصویر استفاده می کند. مدل هوش مصنوعی دانش موجود و درخواست های کاربر را برای تولید تصاویر منحصر به فرد ترکیب می کند
-[mann-e](https://manne.ir/
+### [mann-e](https://manne.ir/
 یک تولید کننده هنر هوش مصنوعی است که به افراد کمک می کند آثار هنری را از ایده های خود خلق کنند. این مدل ایرانی بر اساس داده های پینترست استو هدف آن ایجاد یک معادل رایگان و متن باز از میدجرنی بود
-[ideogram](https://ideogram.ai/)
+### [ideogram](https://ideogram.ai/)
 یک ابزار رایگان و مبتنی بر وب است که از هوش مصنوعی برای تولید تصاویر واقعی استفاده می کند.
-[Pixlr ](https://pixlr.com/) 
-یک سرویس ویرایش عکس مبتنی بر ابر است که ابزارها و ابزارهای مختلف را برای ویرایش تصاویر ارائه می دهد. Pixlr هم برای مصرف کنندگان و هم برای مشاغل در دسترس است | 
+### [Pixlr ](https://pixlr.com/) 
+یک سرویس ویرایش عکس مبتنی بر ابر است که ابزارها و ابزارهای مختلف را برای ویرایش تصاویر ارائه می دهد. Pixlr هم برای مصرف کنندگان و هم برای مشاغل در دسترس است 
 
-| [Plask](https://dashboard.plask.ai/login) 
+### [Plask](https://dashboard.plask.ai/login) 
 تولید انیموشن توسط هوش مصنوعی
-| [Civitai](https://civitai.com/) 
+### [Civitai](https://civitai.com/) 
 انواع وظایف مانند تولید تصویر، تولید متن و ترکیب ویدئو | Stable Diffusion  
-| [Gravitai](https://webui.graviti.com/) 
+###  [Gravitai](https://webui.graviti.com/) 
 پلتفرم میزبانی که به کاربران امکان می دهد هنرهای تولید شده توسط هوش مصنوعی را کشف کنند 
-| [Sea Art AI](https://www.seaart.ai/home) 
+### [Sea Art AI](https://www.seaart.ai/home) 
 مدل های تولید عکس توسط هوش مصنوعی 
-| [Happy Accidents](https://www.happyaccidents.ai/create) 
+### [Happy Accidents](https://www.happyaccidents.ai/create) 
 تولید تصاویر هنری و طراحی با استفاده از مدل‌های هوش مصنوعی
-| [Photosonic](https://writesonic.com/photosonic-ai-art-generator) 
+### [Photosonic](https://writesonic.com/photosonic-ai-art-generator) 
 یک تولید کننده تصویر با هوش مصنوعی است که از یادگیری ماشین و بینایی کامپیوتری برای ایجاد تصاویر با کیفیت بالا استفاده می کند. کاربران می‌توانند در چند کلمه چیزی را که می‌خواهند ببینند تایپ کنند و فتوسونیک تصویر را در چند ثانیه تولید می‌کند
-| [StarryAI](https://starryai.com/)
+### [StarryAI](https://starryai.com/)
 یک برنامه رایگان است که از هوش مصنوعی برای تبدیل کلمات به هنر استفاده می کند. کاربران می توانند یک پیام متنی را وارد کنند و یک اثر هنری تولید شده توسط هوش مصنوعی را در عرض چند دقیقه دریافت کنند.
-| [Everypixel](https://www.everypixel.com/) 
+### [Everypixel](https://www.everypixel.com/) 
 ک ابزار جستجو و تجزیه و تحلیل تصویر مبتنی بر هوش مصنوعی است. از الگوریتم های پیشرفته بینایی کامپیوتری برای درک و تجزیه و تحلیل تصاویر استفاده می کند و نتایج جستجوی دقیق و مرتبط را در اختیار کاربران قرار می دهد. Everypixel همچنین ویژگی هایی مانند دسته بندی تصاویر، تجزیه و تحلیل احساسات و تجزیه و تحلیل رنگ را ارائه می دهد که آن را به ابزاری ارزشمند برای تحقیقات مبتنی بر تصویر، ایجاد محتوا و تجزیه و تحلیل بصری تبدیل می کند.
- [Magnific ai]() 
-[DeepDream]() 
-Fotor
-NightCafe
-DeepAI
-Craiyon
-Artbreeder
-Undress.Vip
-Krea AI
-caspa AI
-Getimg.ai
-CustomQR AI
+### [Magnific ai]() 
+### [DeepDream]() 
+### Fotor
+### NightCafe
+### DeepAI
+### Craiyon
+### Artbreeder
+### Undress.Vip
+### Krea AI
+### caspa AI
+### Getimg.ai
+### CustomQR AI
 
 
 -------------------------------------------
 
 # Video
 
-| [Runway](https://runwayml.com/) 
+### [Runway](https://runwayml.com/) 
 یک پلتفرم ویرایش ویدیو است که از هوش مصنوعی برای تولید فیلم ها و تصاویر، پاک کردن پس زمینه و موارد دیگر استفاده می کند.
-| stable video diffusion
-| Pika Labs
-| [synthesia](https://www.synthesia.io/)
+### stable video diffusion
+### Pika Labs
+### [synthesia](https://www.synthesia.io/)
 یک پلتفرم ایجاد ویدیو با هوش مصنوعی است که به شما امکان می دهد از متن بدون دوربین، بازیگر یا استودیو فیلم بسازید. می توانید زبان ها، صداها و پس زمینه های مختلف را انتخاب کنید
-| [VEED IO](https://www.veed.io/) 
+### [VEED IO](https://www.veed.io/) 
 یک پلت فرم ویرایش آنلاین ویدیو است که ساختن ویدیو برای رسانه های اجتماعی و یوتیوب را آسان می کند. این ویژگی های مختلفی را ارائه می دهد | 
-| [Kapwing](https://www.kapwing.com/ai) 
+### [Kapwing](https://www.kapwing.com/ai) 
 یک ویرایشگر ویدیوی رایگان و مجهز به هوش مصنوعی است که به شما امکان می دهد تنها با چند کلیک ویدیو ایجاد کنید. ابزارها و قالب‌های هوش مصنوعی می‌توانند کارهای خسته‌کننده مانند اضافه کردن زیرنویس و افکت‌ها را خودکار کنند | 🕑
-| [HeyGen](https://app.heygen.com/) 
+### [HeyGen](https://app.heygen.com/) 
 یک مولد برای ایجاد ویدئو از متن استفاده می کند. می‌توانید از میان بیش از 100 آواتار هوش مصنوعی انتخاب کنید و ویدیوی خود را با الگوها و عناصر سفارشی کنید (پشتیبانی از زبان فارسی) 
 
-| [Descript](https://www.descript.com/) 
+### [Descript](https://www.descript.com/) 
 یک ابزار ویرایش ویدیو و صدا است که به کاربران امکان می دهد رونوشت های صوتی و متنی ویدیوهای خود را ویرایش کنند. این شامل ویژگی هایی مانند رونویسی خودکار، ویرایش رونوشت ها به طور مستقیم، و حذف خودکار کلمات ناخواسته از ویدیو شما است
-| [Lumen5](https://lumen5.com/) 
+### [Lumen5](https://lumen5.com/) 
 یک پلتفرم ایجاد ویدیو است که از هوش مصنوعی برای ایجاد ویدیو از محتوای نوشته شده استفاده می کند. این برای مشاغل و برندها طراحی شده است تا برای رسانه های اجتماعی ویدیو ایجاد کنند، از جمله پست ها، داستان ها و تبلیغات. 
-| [InVideo](https://invideo.io/) 
+###  [InVideo](https://invideo.io/) 
 یک پلتفرم ایجاد ویدیو است که به کاربران امکان می دهد ویدیوها را در زمان واقعی ایجاد کنند. بیش از 4000 الگو، 1 میلیون تصویر و ویدیوی بدون حق امتیاز و یک کتابخانه صوتی بزرگ ارائه می دهد.
-| [Clipchamp](https://clipchamp.com/en/) 
+### [Clipchamp](https://clipchamp.com/en/) 
 یک ویرایشگر ویدیوی رایگان است که به کاربران امکان می دهد ویدیوهایی با کیفیت بالا ایجاد کنند. به گونه ای طراحی شده است که استفاده از آن آسان باشد، حتی برای کسانی که تجربه قبلی در ویرایش ندارند.
-| [Otter AI](https://otter.ai/) 
+### [Otter AI](https://otter.ai/) 
 ک برنامه گفتار به متن رایگان است که می‌تواند صحبت‌های زنده را به یادداشت‌های نوشتاری تبدیل کند. می توان از آن برای سخنرانی ها، جلسات، طوفان فکری و رونویسی چند رسانه ای ضبط شده قبلی استفاده کرد. همچنین می تواند سخنرانی های صوتی را ضبط کند و فایل های صوتی و تصویری را برای رونویسی وارد کند.
-| [Peech](https://www.peech-ai.com/) 
+###  [Peech](https://www.peech-ai.com/) 
 یک ابزار مبتنی بر هوش مصنوعی است که می تواند محتوای صوتی و تصویری را رونویسی و ترجمه کند. از الگوریتم های یادگیری عمیق برای بهبود عملکرد خود با هر بار استفاده استفاده می کند
-| [Pictory AI](https://pictory.ai/) 
+### [Pictory AI](https://pictory.ai/) 
 با استفاده از هوش مصنوعی ویدیوهای کوتاهی را از محتوای طولانی بسازید. می توانید از آن برای تبدیل هر محتوایی به ویدیوهای با قابلیت اشتراک گذاری بالا برای اهداف بازاریابی استفاده کنید. همچنین می‌توانید ویدیوهای خود را با ویژگی‌های مختلفی مانند افزودن گفتار، موسیقی، تصاویر و کلیپ‌ها ویرایش کنید.
-Vidnoz AI
-HitPaw Online Video Enhancer
+### Vidnoz AI
+### HitPaw Online Video Enhancer
 
 ##  Deep Fake  🔰
-| [Reface ai]() | | |
-| [AKool DeepFake]() | | |
-| [Deep Brain AI]() | | |
- Elai.io
- Lumen5
-FlexClip
-InVideo
-Wisecut
-GliaCloud
+###  [Reface ai]()
+###  [AKool DeepFake]()
+###  [Deep Brain AI]() 
+ ### Elai.io
+ ### Lumen5
+### FlexClip
+### InVideo
+### Wisecut
+### GliaCloud
 
 -------------------
 # Audio 
-| [Eleven Labs]() | | |
- Soundful
- MuseNet
- Jukebox
- Murf
- Mubert
-Amper Music
-Ecrett Music
-Melodrive
-AIVA
-SoundRaw
-Humtap
-Boomy
-Musico
-Chrome Music Lab
-WarpSound
-Beatoven.ai
-Emergent Drums
-Lalal.ai
-Magenta Studio
-Strofe
+### [Eleven Labs]() | | |
+### Soundful
+### MuseNet
+### Jukebox
+### Murf
+### Mubert
+### Amper Music
+### Ecrett Music
+### Melodrive
+### AIVA
+### SoundRaw
+### Humtap
+### Boomy
+### Musico
+### Chrome Music Lab
+### WarpSound
+### Beatoven.ai
+### Emergent Drums
+### Lalal.ai
+### Magenta Studio
+### Strofe
+
 ## Speech 📢
+### Adobe Speech Enhancer
+### Lingostar
+### Poly AI
+### [AudioPen](https://audiopen.ai/) |<p align="center">
+### [narakeet]() | | |
+### Lovo
 
-Adobe Speech Enhancer
-Lingostar
-Poly AI
-| [AudioPen](https://audiopen.ai/) |<p align="center">
-| [narakeet]() | | |
-Lovo
-
-
------------------------------------
 # Code
 
-| [GitHub Copilot](https://github.com/github-copilot) |<p align="center">  یک ابزار تکمیل کد مبتنی بر هوش مصنوعی است که به توسعه دهندگان کمک می کند کد را سریعتر و با کار کمتر بنویسند. هنگام کدنویسی، پیشنهادهایی به سبک تکمیل خودکار ارائه می دهد
-| [Replit-Ghostwriter](https://replit.com/site/ghostwriter) |<p align="center"> ابزار برنامه نویسی جفت هوش مصنوعی است که به توسعه دهندگان کمک می کند کد را سریعتر و خلاقانه تر بنویسند
-| [CodePen](https://codepen.io/) |<p align="center"> یک ویرایشگر کد رایگان، منبع باز و مبتنی بر وب برای اچ تی ام ال، سی اس اس و جاوا اسکریپت است. این به کاربران اجازه می دهد تا با کد در مرورگر خود آزمایش کنند و نتایج را در زمان واقعی مشاهده کنند. 
-| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/resources/#Getting_started/) |<p align="center">یک سرویس مبتنی بر یادگیری ماشینی است که به توسعه دهندگان کمک می کند کد را سریعتر و با خطاهای کمتری بنویسند. این یک تولید کننده کد هوش مصنوعی است که می تواند پیشنهادات کد را در زمان واقعی بر اساس نظرات و کدهای موجود ایجاد کند
-| [Black Box](https://www.useblackbox.io/search) |<p align="center"> هوش مصنوعی برای کمک به برنامه‌نویسان برای کدنویسی سریع‌تر 
-| [Adrenaline](https://useadrenaline.com/app) |<p align="center">آدرنالین یک ابزار اشکال زدایی مبتنی بر هوش مصنوعی است که به توسعه دهندگان کمک می کند تا به سرعت خطاهای کد خود را شناسایی و برطرف کنند. با شناسایی علت اصلی خطا، مانند یک نقطه ویرگول یا نحو نادرست، کار می کند و سپس راه حلی ارائه می دهد که می تواند برای رفع کد پیاده سازی شود
-| [Codepal](https://codepal.ai/) |<p align="center">   مجموعه ای از ابزارهای مبتنی بر هوش مصنوعی برای توسعه دهندگان است که می تواند کد تولید، بررسی، ساده سازی، اشکال زدایی و سند را ایجاد کند.
-| [CodeGPT](https://codegpt.co/) |<p align="center"> یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
-| [CodeLlama]() | | |
-| [Freedium]() | | |
-| [Onboard AI]() | | |
+###  [GitHub Copilot](https://github.com/github-copilot)
+یک ابزار تکمیل کد مبتنی بر هوش مصنوعی است که به توسعه دهندگان کمک می کند کد را سریعتر و با کار کمتر بنویسند. هنگام کدنویسی، پیشنهادهایی به سبک تکمیل خودکار ارائه می دهد
+###  [Replit-Ghostwriter](https://replit.com/site/ghostwriter)
+ابزار برنامه نویسی جفت هوش مصنوعی است که به توسعه دهندگان کمک می کند کد را سریعتر و خلاقانه تر بنویسند
+###  [CodePen](https://codepen.io/)
+یک ویرایشگر کد رایگان، منبع باز و مبتنی بر وب برای اچ تی ام ال، سی اس اس و جاوا اسکریپت است. این به کاربران اجازه می دهد تا با کد در مرورگر خود آزمایش کنند و نتایج را در زمان واقعی مشاهده کنند. 
+### [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/resources/#Getting_started/) 
+یک سرویس مبتنی بر یادگیری ماشینی است که به توسعه دهندگان کمک می کند کد را سریعتر و با خطاهای کمتری بنویسند. این یک تولید کننده کد هوش مصنوعی است که می تواند پیشنهادات کد را در زمان واقعی بر اساس نظرات و کدهای موجود ایجاد کند
+### [Black Box](https://www.useblackbox.io/search)
+هوش مصنوعی برای کمک به برنامه‌نویسان برای کدنویسی سریع‌تر 
+###  [Adrenaline](https://useadrenaline.com/app) 
+آدرنالین یک ابزار اشکال زدایی مبتنی بر هوش مصنوعی است که به توسعه دهندگان کمک می کند تا به سرعت خطاهای کد خود را شناسایی و برطرف کنند. با شناسایی علت اصلی خطا، مانند یک نقطه ویرگول یا نحو نادرست، کار می کند و سپس راه حلی ارائه می دهد که می تواند برای رفع کد پیاده سازی شود
+###  [Codepal](https://codepal.ai/)
+مجموعه ای از ابزارهای مبتنی بر هوش مصنوعی برای توسعه دهندگان است که می تواند کد تولید، بررسی، ساده سازی، اشکال زدایی و سند را ایجاد کند.
+### [CodeGPT](https://codegpt.co/)
+یک افزونه کد ویژوال استودیو است که از هوش مصنوعی برای تولید، توضیح، اصلاح، و قطعه کدهای سند به زبان های مختلف استفاده می کند. می توان از آن برای کارهایی مانند تکمیل و تولید کد استفاده کرد.
+###  [CodeLlama]() 
+### [Freedium]()
+### [Onboard AI]() 
+
 # 3D Models
-[Lumalabs](https://lumalabs.ai/dashboard/imagine)
+###  [Lumalabs](https://lumalabs.ai/dashboard/imagine)
 تولید مدل های سه بعدی 
-| Live3D |creating and animating 2D and 3D virtual characters and objects | |
-| [Autodesk Alias](https://www.autodesk.eu/products/alias-products/overview) | design software that offers a variety of unique features for creating products and improving processes, Class A Portfolio, SubD Modeling, Alias Create VR, Dynamo Player, Improved Design Efficiency, Visual Clip, Replace Shader by Name, | |
+### Live3D |creating and animating 2D and 3D virtual characters and objects 
+### [Autodesk Alias](https://www.autodesk.eu/products/alias-products/overview) 
+design software that offers a variety of unique features for creating products and improving processes, Class A Portfolio, SubD Modeling, Alias Create VR, Dynamo Player, Improved Design Efficiency, Visual Clip, Replace Shader by Name
 
 # Others
 ## Content Creation  🔰
