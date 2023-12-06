@@ -5,9 +5,9 @@
 ## Chatbots
 
 چت بات ها برنامه های نرم افزاری هستند که می توانند از طریق متن یا گفتار با استفاده از پردازش زبان طبیعی و یادگیری ماشین با کاربران ارتباط برقرار کنند. چت بات ها می توانند اطلاعات ارائه دهند، به سوالات پاسخ دهند، وظایف را انجام دهند یا کاربران را سرگرم کنند.
-| Name | Subcategory | Model | Web Access | Benchmark Score | Price | User Rate |
+| Name | Subcategory | Model | Web Access | Benchmark Score | Price | Description |
 | --- | --- | --- | --- | --- | --- | --- |
-| ChatGPT | Conversational AI | GPT-4 | Yes | 95.6% on CoQA | Free | ⭐⭐⭐⭐⭐ |
+| ChatGPT | Conversational AI | GPT-4 | Yes | 95.6% on CoQA | Free | <details> <summary>Introduction</summary> ChatGPT, developed by OpenAI, is a versatile language model with a wide range of applications. It can generate human-like text, aiding in various tasks such as content creation, customer support, and data analysis. For developers, it can serve as a coding assistant, helping with code refactoring, bug checks, and answering contextual coding questions. For businesses, it can assist in creating marketing content, customer support responses, and even legal document analysis. It can also aid in research by summarizing articles and generating insights from vast text data. ChatGPT's unique feature is its ability to understand context, allowing it to provide coherent responses and simulate human-like conversations. Its applications continue to expand, demonstrating its immense potential to transform various sectors . </details> |
 | Bard | Conversational AI | PaLM 2 | Yes | 88.3% on ROCStories | Free | ⭐⭐⭐⭐ |
 | Bing | Search Engine AI | GPT-4 | Yes | 92.7% on WebQuestions | Free | ⭐⭐⭐ |
 | Claude 2 | Task Assistant AI | Claude | Yes | 89.5% on GLUE | Premium | ⭐⭐⭐⭐⭐ |
