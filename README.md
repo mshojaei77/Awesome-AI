@@ -1,5 +1,5 @@
 # Awesome-AI <img width="100" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.pngmart.com/files/21/AI-PNG-HD.png" /> 
-Welcome to the AI Resource Repository! The purpose of this repository is to provide a one-stop place for a growing collection of interesting things about generative synthetics. Whether you're looking for resources, tools, samples, demos, hacks, or apps related to AI and specifically generative AI technology, this repository has you covered.
+Welcome to the AI Resource Repository! The purpose of this repository is to provide a one-stop place for a growing collection of interesting things about generative synthetics. Whether you're looking for resources, tools, samples, demos, hacks, or apps related to AI Or specifically generative AI technology, this repository has you covered.
 
 As an AI enthusiast and interested in exploring the world of AI and its applications, I have hand-curated this list. The goal is to create a hub where people interested in artificial intelligence can find tools that cover different aspects of the field.
 
@@ -34,17 +34,15 @@ Google Bard is an AI-powered chatbot developed by Google that uses natural langu
 Microsoft Copilot, formerly known as Bing Chat, is an AI-powered chatbot that uses large language models (LLMs) to assist users in various tasks. It can respond to user queries, generate text and images, and even perform tasks across multiple apps. One of its unique features is its ability to integrate with Microsoft 365 apps, including Word, Excel, PowerPoint, Outlook, and Teams. It can assist in tasks such as writing, data analysis, and forecasting. It also has the capability to generate images using OpenAI's DALL·E 3 model. Copilot is designed to be a seamless experience, available in Windows 11, Microsoft 365, and in the web browser with Edge and Bing. It aims to provide better assistance by incorporating the context and intelligence of the web, work data, and the user's current activity on their PC .
 </details>
 
-#### [Claude 2](https://www.anthropic.com/index/claude-2) 
+#### [Claude](https://Claude.ai) 
 <details>
   <summary>Introduction</summary>
- 
-کلود Claude  یک چت بات مدل زبانی بزرگ است که توسط Anthropic توسعه یافته است. برای تولید متنی شبیه انسان و کمک به کارهای مختلف مانند خلاصه‌سازی، جستجو، نوشتن خلاقانه و مشارکتی، پرسش و پاسخ و کدنویسی طراحی شده است. ویژگی منحصر به فرد Claude 2 توانایی آن در پردازش تا 100000 توکن در یک درخواست واحد است که معادل حدود 75000 کلمه است که به آن امکان می دهد ورودی های بزرگ را مدیریت کند و خروجی های طولانی تولید کند. این قابلیت به آن اجازه می دهد تا ورودی بزرگی به ربات (به عنوان مثال، یک کتاب) ارائه دهد و سپس یک مکالمه طولانی در مورد آن داشته باشد. همچنین می‌تواند فایل‌های کد را در مکالمه با ربات تولید، تنظیم یا تصحیح کند. با وجود قابلیت‌هایش، Claude 2 به گونه‌ای طراحی شده است که ایمن و دوستانه باشد، با تمرکز بر اجتناب از خروجی‌های مضر و ارائه بینش‌های ارزشمند.
+Claude AI, developed by Anthropic, is a next-generation AI assistant known for its ability to handle complex human language and maintain context, even with extensive text content. It can connect several documents and answer questions about the relationships between concepts found in them. Claude AI is designed to be helpful, honest, and harmless, with a focus on safety and avoiding harmful responses. It can assist with tasks like scheduling, research, translations, and more. Claude AI's unique feature is its ability to discern unique preferences and linguistic styles, providing a truly personalized interaction. It can be used for a variety of applications such as comprehensive customer support, dynamic Q&A sessions, and thought-provoking discussions. It's also capable of handling tasks like book editing and summarization, making it a versatile tool for various professional and personal endeavors.
 </details>
 
 ####  [Llama 2](https://ai.meta.com/llama)
 <details>
   <summary>Introduction</summary>
- 
 Llama 2 is Meta's open-source large language model (LLM) that is freely available for research and commercial purposes. It's a collection of pretrained and fine-tuned LLMs ranging from 7 billion to 70 billion parameters. The unique feature of Llama 2 is its open-source nature, allowing users to understand the model's creation and training process. It can be downloaded and run on personal computers or cloud infrastructures like Microsoft Azure and Amazon Web Services. Users can also train it on their own data to generate the kind of text they need. Llama 2-Chat, a fine-tuned version of Llama 2, is optimized for dialogue use cases. Despite being open-source, Llama 2 outperforms many other models on most benchmarks, making it a suitable substitute for closed-source models in many cases 
 </details>
 
