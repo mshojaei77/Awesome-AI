@@ -12,7 +12,8 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 - 📦 [3D Models](#3D-Model)
 
 # Text
-## Official Chatbots <img width="100" style="margin-right:6px;" src="https://github.com/mshojaei77/Awesome-AI/assets/76538971/1a6c90f0-7232-43e5-aa43-37e204343dee" />
+## Official Chatbots
+<img width="100" style="margin-right:6px;" src="https://github.com/mshojaei77/Awesome-AI/assets/76538971/1a6c90f0-7232-43e5-aa43-37e204343dee" />
 
 
 ###  [ChatGPT](https://openai.com/chatgpt)
