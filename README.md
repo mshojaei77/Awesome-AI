@@ -1,8 +1,6 @@
 # Awesome-AI <img width="100" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.pngmart.com/files/21/AI-PNG-HD.png" /> 
 Welcome to the AI Resource Repository! The purpose of this repository is to provide a one-stop place for a growing collection of interesting things about generative synthetics. Whether you're looking for resources, tools, samples, demos, hacks, or apps related to AI Or specifically generative AI technology, this repository has you covered.
-
 As an AI enthusiast and interested in exploring the world of AI and its applications, I have hand-curated this list. The goal is to create a hub where people interested in artificial intelligence can find tools that cover different aspects of the field.
-
 
 ## Table of Contents 
 - 📝 [Text](#Text)
@@ -12,10 +10,9 @@ As an AI enthusiast and interested in exploring the world of AI and its applicat
 - 🔊 [Audio ](#Audio)
 - 💻 [Code](#Code)
 - 📦 [3D Models](#3D-Model)
-------
-# Text
-## Official Chatbots  🔰
 
+# Text
+## Official Chatbots 
 ###  [ChatGPT](https://openai.com/chatgpt)
 <details>
   <summary>Introduction</summary>
@@ -157,7 +154,7 @@ web chat client powered to interact with ChatGPT and Bing
 یک ابزار هوش مصنوعی است که از الگوریتم های یادگیری عمیق برای ایجاد تصاویر از ورودی های متن استفاده می کند. این پلتفرم می‌تواند تصاویر مختلفی از جمله عکس‌های واقعی، تصاویر و انیمه تولید کند
 ### [Craiyon](https://www.craiyon.com/) 
 هوش مصنوعی و یادگیری ماشینی برای تبدیل متن به زبان ساده به تصویر استفاده می کند. مدل هوش مصنوعی دانش موجود و درخواست های کاربر را برای تولید تصاویر منحصر به فرد ترکیب می کند
-### [mann-e](https://manne.ir/
+### [mann-e](https://manne.ir/)
 یک تولید کننده هنر هوش مصنوعی است که به افراد کمک می کند آثار هنری را از ایده های خود خلق کنند. این مدل ایرانی بر اساس داده های پینترست استو هدف آن ایجاد یک معادل رایگان و متن باز از میدجرنی بود
 ### [ideogram](https://ideogram.ai/)
 یک ابزار رایگان و مبتنی بر وب است که از هوش مصنوعی برای تولید تصاویر واقعی استفاده می کند.
@@ -298,137 +295,136 @@ web chat client powered to interact with ChatGPT and Bing
 تولید مدل های سه بعدی 
 ### Live3D |creating and animating 2D and 3D virtual characters and objects 
 ### [Autodesk Alias](https://www.autodesk.eu/products/alias-products/overview) 
-design software that offers a variety of unique features for creating products and improving processes, Class A Portfolio, SubD Modeling, Alias Create VR, Dynamo Player, Improved Design Efficiency, Visual Clip, Replace Shader by Name
 
 # Others
 ## Content Creation  🔰
-
-| [copy ai](https://www.copy.ai/) 
-generating various types of content, Versatile Content Generation, Tailored Outputs, Prompt Suggestions, Feedback Loop, Infobase, Product Description Generator | Freemium  | 
-| [Rytr Me](https://app.rytr.me/) |
-create high-quality content in just a few seconds at a fraction of the cost, Writing Templates, Language Support, Content Expansion, Tone and Style Customization, Easy Editing and Revision, Time-saving Efficiency | Freemium   | 
-| [Writesonic](https://writesonic.com/) ⭐ |
-AI-Powered Content Generation, real-time results based on real-time information provided by Google, Brand Voice Customization, Plagiarism-Free Content, Chatbot Creation, Paraphrasing and Summarization Tools, Automated AI Content Production  | Premium   | 
-| [Tweet Generator](https://mention.com/en/tweet-generator/) |
-help you come up with clever and witty tweets in no time. All you need to do is enter your keywords and the generator will provide you with a unique and creative tweet that you can use | Freemium   |
-| [tome app](https://tome.app/) ⭐|
-offers a range of unique features to simplify the process of creating professional-looking presentations, AI-Powered Slide Creation and Formatting, Intelligent Titles and Pagination, Customization Features, Drag-and-Drop Creation and Responsive Pages, One-Click Themes and Embeds from the Web, Native Video Recording and Easy Sharing  |  Freemium   |
-| [SlidesAI](https://www.slidesai.io/) |
-evolutionize the process of creating presentation slides, Text to Presentation, Topic to Presentation, Customization Options, Integration with Google Workspace, Comparison Slides  | Freemium   |
-| [Gamma app]() | | |
+### [copy ai](https://www.copy.ai/) 
+### [Rytr Me](https://app.rytr.me/) 
+### [Writesonic](https://writesonic.com/) 
+### [Tweet Generator](https://mention.com/en/tweet-generator/) 
+### [tome app](https://tome.app/) 
+### [SlidesAI](https://www.slidesai.io/) |
+### [Gamma app]()
 
 ## Writing Assistant ✍️
-
-HIX.AI
-| [QuillBot](https://quillbot.com/) | Paraphrasing, Grammar and Plagiarism Checking, Translation, Co-writer Feature, Synonym Suggestions, Extensions | Freemium  |
-Elephas
-| [Grammarly](https://www.grammarly.com/) | Tone Detector(analyzes word choice, phrasing, punctuation, and even capitalization to determine the tone of your writing), Clarity and Readability, Plagiarism Detection, Idea Generation   | Freemium   | 
-| [NovelAI](https://novelai.net/) ⭐| Content Creation(fresh story ideas, compelling character profiles, and captivating dialogue) , Character Generation, Storyteller Mode, Text Adventure Mode, Image Generation Mode, Collaborative Writing  | Freemium   |
-| [Anyword](https://anyword.com/) | AI-powered copywriting tool, Increased Productivity and Efficient Workflows, Improved Content Quality, Built-In Analytics, Custom AI Models, Brand Voice, Copy Variations, Copy Insights, Copy Templates, Copy Formats, Copy Languages, Data-Driven Marketing Copy  | Freemium   |
-| [DeepL Write](https://www.deepl.com/write) | AI writing tool, Writing Suggestions, Improved Grammar and Punctuation, Rephrasing   | Freemium   | 
-| [Sudowrite](https://www.sudowrite.com/) | writing assistant (uses GPT-3, GPT-3.5, GPT-4, and Claude 2) , can generate up to 1000 words in seconds, Revision tools, Brainstorming tools, Canvas, Poem Tool, Twist Feature | Freemium   | 4/5 
-| [WordHero ](https://wordhero.co/) | powerful AI writing tool, Generator Mode(over 70 tools that can help you come up with a compelling headline, captivating slogan, persuasive call to action, and more),  SEO keywords Assistant, WordHero Chat with Wizard Mode(uses a series of targeted questions to learn your unique needs and creates impactful, tailored copy for your brand) | Freemium   | 
-| [StealthWriter]() | | |
-| [Writer](Writer.com) | | |
+### HIX.AI
+### [QuillBot](https://quillbot.com/) 
+### [Grammarly](https://www.grammarly.com/)
+### [NovelAI](https://novelai.net/) 
+### [Anyword](https://anyword.com/) 
+### [DeepL Write](https://www.deepl.com/write)
+### [Sudowrite](https://www.sudowrite.com/) 
+### [WordHero ](https://wordhero.co/)
+###  [StealthWriter]() 
+### [Writer](Writer.com) 
 
 ## Sales & Marketing 💰
-| AI | Features | Cost | 
-|-|-|-|
-Clickable
-Cuetap.com
-Userevaluation
-| [Scalenut](https://www.sc3++alenut.com/) |<p align="center"> پلتفرم سئو و بازاریابی محتوا مبتنی بر هوش مصنوعی است که فرآیند تولید محتوا را خودکار می کند. این به شما کمک می کند کلمات کلیدی، موضوعات و سوالات را شناسایی کنید، محتوا را بنویسید و بهینه کنید و آن را در وب سایت خود منتشر کنید.  | Freemium   | 4/5 
-| [Lately](https://www.lately.ai/) |<p align="center"> یک ابزار بازاریابی رسانه های اجتماعی است که از هوش مصنوعی برای ایجاد و بهینه سازی پست های رسانه های اجتماعی از محتوای شما استفاده می کند  | Freemium   |
-| [KoalaChat](https://koalachat.com/) | Chat app that help small business owners solve their sales and customer service challenges, making it an invaluable tool for their success | Free | 
-| [Drift](https://www.drift.com/) | combination of live chat, conversational marketing, and conversational sales, Knowledge Base, Email Automation, Virtual Selling Assistants, Bots, Account-Based Marketing, Meetings, Conversational AI, Integrations, Reporting & Analytics |
-| [HubSpot](https://www.hubspot.com/) |comprehensive CRM platform(providing marketing, sales, customer service, operations, and content management features), Contact Management, Website Activity Tracking, Email Integration and Tracking, Extensive Marketplace, Custom Objects and Properties  | Freemium   | 
-| [LivePerson](https://www.liveperson.com/) | enables brands to engage with millions of consumers in a personal and authentic way, Trustworthy AI Capabilities, Conversational Flywheel, Commerce Capabilities, Dynamic Routing and Actions, Self-Learning Loop  | Freemium   | 
-| [Salesforce Einstein](https://www.salesforce.com/products/einstein-ai-solutions/) | (take complex Salesforce organizations, databases, and customer expectations, and surface key insights, streamline operations, and delight customers), Einstein Email Insights, Einstein GPT, Einstein Search, Einstein Copilot, Einstein Prediction Builder  | Freemium   | 
-| [Persado](https://www.persado.com/) | Motivation AI Platform(generate content that engages customers),Insights into Performance, Integration with Web Platforms and ESPs, Enterprise Security and Privacy Certifications, Unlimited Content and Users, Highest Performing Digital Messaging  | Freemium   | 
-| [Memorable Ad Maker](https://admaker.memorable.io/) | AI-powered ad maker that creates new images optimized for branding, High Accuracy, Quick Testing, AI-optimized Images, Advertising Prompt Guide, High Recall Attention & Engagement Potential, Creative Strategy, Pretest & Optimization, Creative Analytics, Large Database of Human Reactions | Freemium   | 
-| [Churn360](https://churn360.com/) | 360° View of Customers: Churn360 brings together customer data from various sources into a single view, providing a comprehensive picture of each customer. This feature allows Customer Success Managers to easily monitor and manage customer interactions across different platforms   | Freemium   | 
+###  Clickable
+###  Cuetap.com
+###  Userevaluation
+###  [Scalenut](https://www.sc3++alenut.com/) 
+###  [Lately](https://www.lately.ai/) 
+###  [KoalaChat](https://koalachat.com/) 
+###  [Drift](https://www.drift.com/)
+### [HubSpot](https://www.hubspot.com/)
+### [LivePerson](https://www.liveperson.com/) 
+### [Salesforce Einstein](https://www.salesforce.com/products/einstein-ai-solutions/)
+### [Persado](https://www.persado.com/)
+### [Memorable Ad Maker](https://admaker.memorable.io/)
+### [Churn360](https://churn360.com/) 
 
 ## Management  🔰
+### IBM Maximo
 
-| IBM Maximo | BM Maximo is an enterprise asset management (EAM) software suite that helps organizations manage and optimize their physical assets. It is a cloud-based platform that uses AI, IoT, and analytics to provide insights into asset health, performance, and risk | Permium | 
+## Search Tools
+### [Theres an AI for that](https://theresanaiforthat.com/) 
+این وب سایت فهرستی از ابزارهای هوش مصنوعی است که بر اساس دسته بندی سازماندهی شده است. این شامل ابزارهایی برای کارهای مختلف از جمله نوشتن، طراحی، ترجمه و غیره است.
+### [aimodels](https://www.aimodels.fyi/models) 
+این وب سایت یک موتور جستجو برای مدل های هوش مصنوعی است. این به شما امکان می دهد مدل ها را بر اساس وظیفه، زبان یا چارچوب جستجو کنید.
+###  [Ora AI Explore](https://ora.ai/explore?type=trending)
+یک پلتفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا چت بات های سفارشی ایجاد کنند و از چت بات های موجود استفاده کنند.  
+### [Komo AI](https://komo.ai/)
+یک موتور جستجوی قدرت گرفته از هوش مصنوعی است که به کاربران کمک می کند تا اطلاعات را به صورت هدفمندتری پیدا کنند
+### [CrowdView](https://crowdview.ai/)
+یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها است که به کاربران کمک می کند تا اطلاعات مورد نیاز خود را در فروم ها پیدا کنند
+###  [YouChat Search](https://you.com)
+این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | ⭐
+### [OpenRouter AI](https://openrouter.ai/) 
+یک پلتفرم ایجاد مدل های شخصی سازی شده هوش مصنوعی است که به کاربران کمک می کند تا مدل های هوش مصنوعی را برای نیازهای خاص خود ایجاد کنند
+### [Perplexity](https://www.perplexity.ai/)
+یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد |
+### [Rewind](https://www.rewind.ai/)
+یک ابزار مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا تاریخچه مرور خود را بررسی و تجزیه و تحلیل کنند. ویژگی هایی مانند جستجو، فیلتر کردن، و سازماندهی تاریخچه مرور را ارائه می دهد که به کاربران امکان می دهد به راحتی صفحات وب را که قبلاً بازدید کرده اند پیدا کرده و دوباره از آن بازدید کنند
+### [SearchIQ](https://www.searchiq.co/) 
+یک ابزار جستجوی مبتنی بر هوش مصنوعی است که برای افزایش قابلیت های جستجوی وب سایت ها طراحی شده است. این قابلیت جستجوی پیشرفته از جمله تکمیل خودکار هوشمند، فیلتر کردن و الگوریتم‌های رتبه‌بندی ارتباط را ارائه می‌کند
+### [Searchable](https://www.searchable.ai/) 
+یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به کاربران امکان می دهد اطلاعات مرتبط را در اسناد و فایل ها جستجو و پیدا کنند. از تکنیک‌های پردازش زبان طبیعی و یادگیری ماشین برای درک محتوای اسناد استفاده می‌کند و آنها را بر اساس کلمات کلیدی، عبارات و مفاهیم قابل جستجو می‌کند. 
+### [Omnisearch](https://omnisearch.ai/) 
+یک ابزار جستجوی مبتنی بر هوش مصنوعی است که یک تجربه جستجوی یکپارچه را در چندین پلت فرم و منبع ارائه می دهد. این به کاربران اجازه می دهد تا اطلاعات، فایل ها، ایمیل ها، مخاطبین و موارد دیگر را از یک رابط جستجو کنند
+### [Numbers Search Engine](https://nftsearch.site/) 
+موتور جستجوی اعداد یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به طور خاص بر روی داده‌ها و اطلاعات عددی متمرکز است. این به کاربران اجازه می دهد تا داده های آماری، فرمول های ریاضی، الگوهای عددی و موارد دیگر را جستجو کنند. با استفاده از موتور جستجوی اعداد، کاربران می‌توانند به مجموعه وسیعی از اطلاعات عددی دسترسی داشته باشند که آن را به منبعی ارزشمند برای محققان، دانشجویان و متخصصانی که با اعداد کار می‌کنند تبدیل می‌کند.
+### [Bing AI](https://www.bing.com/?/ai) 
+یک ابزار جستجوی مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است. از تکنیک های یادگیری ماشین و پردازش زبان طبیعی برای بهبود نتایج جستجو و ارائه تجربه جستجوی شخصی تر استفاده می کند. 
+### [Consensus](https://consensus.app/)
+یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. 
+### Lexii.ai
+### Smarty Names
 
-## Search Assistant  🔰
 
-| [Theres an AI for that](https://theresanaiforthat.com/) |<p align="center"> این وب سایت فهرستی از ابزارهای هوش مصنوعی است که بر اساس دسته بندی سازماندهی شده است. این شامل ابزارهایی برای کارهای مختلف از جمله نوشتن، طراحی، ترجمه و غیره است.
-| [aimodels](https://www.aimodels.fyi/models) |<p align="center">  این وب سایت یک موتور جستجو برای مدل های هوش مصنوعی است. این به شما امکان می دهد مدل ها را بر اساس وظیفه، زبان یا چارچوب جستجو کنید.
-| [Ora AI Explore](https://ora.ai/explore?type=trending) |<p align="center"> یک پلتفرم ساخت و جستجوی چت بات های مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا چت بات های سفارشی ایجاد کنند و از چت بات های موجود استفاده کنند.  
-| [Komo AI](https://komo.ai/) |<p align="center">  یک موتور جستجوی قدرت گرفته از هوش مصنوعی است که به کاربران کمک می کند تا اطلاعات را به صورت هدفمندتری پیدا کنند
-| [CrowdView](https://crowdview.ai/) |<p align="center">  یک موتور جستجوی مبتنی بر هوش مصنوعی برای جستجو در فروم ها است که به کاربران کمک می کند تا اطلاعات مورد نیاز خود را در فروم ها پیدا کنند
-| [YouChat Search](https://you.com) |<p align="center">  این موتور جستجو از هوش مصنوعی برای ارائه نتایج جامع تر و آموزنده تر از موتورهای جستجوی سنتی استفاده می کند | ⭐
-| [OpenRouter AI](https://openrouter.ai/) |<p align="center"> یک پلتفرم ایجاد مدل های شخصی سازی شده هوش مصنوعی است که به کاربران کمک می کند تا مدل های هوش مصنوعی را برای نیازهای خاص خود ایجاد کنند
-| [](https://neeva.com/) |<p align="center"> یک موتور جستجو است که از هوش مصنوعی پشتیبانی می کند. این یک تجربه جستجوی منحصر به فرد و شخصی را ارائه می دهد و نتایج جستجوی مرتبط و باکیفیت را در اختیار کاربران قرار می دهد.
-| [Perplexity](https://www.perplexity.ai/) |<p align="center"> یک موتور جستجوی محاوره ای مبتنی بر چت هوش مصنوعی است که با استفاده از مدل های زبانی به سوالات پاسخ می دهد |
-| [Rewind](https://www.rewind.ai/) |<p align="center"> یک ابزار مبتنی بر هوش مصنوعی است که به کاربران کمک می کند تا تاریخچه مرور خود را بررسی و تجزیه و تحلیل کنند. ویژگی هایی مانند جستجو، فیلتر کردن، و سازماندهی تاریخچه مرور را ارائه می دهد که به کاربران امکان می دهد به راحتی صفحات وب را که قبلاً بازدید کرده اند پیدا کرده و دوباره از آن بازدید کنند
-| [SearchIQ](https://www.searchiq.co/) |<p align="center">یک ابزار جستجوی مبتنی بر هوش مصنوعی است که برای افزایش قابلیت های جستجوی وب سایت ها طراحی شده است. این قابلیت جستجوی پیشرفته از جمله تکمیل خودکار هوشمند، فیلتر کردن و الگوریتم‌های رتبه‌بندی ارتباط را ارائه می‌کند
-| [Searchable](https://www.searchable.ai/) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به کاربران امکان می دهد اطلاعات مرتبط را در اسناد و فایل ها جستجو و پیدا کنند. از تکنیک‌های پردازش زبان طبیعی و یادگیری ماشین برای درک محتوای اسناد استفاده می‌کند و آنها را بر اساس کلمات کلیدی، عبارات و مفاهیم قابل جستجو می‌کند. 
-| [Omnisearch](https://omnisearch.ai/) |<p align="center">  یک ابزار جستجوی مبتنی بر هوش مصنوعی است که یک تجربه جستجوی یکپارچه را در چندین پلت فرم و منبع ارائه می دهد. این به کاربران اجازه می دهد تا اطلاعات، فایل ها، ایمیل ها، مخاطبین و موارد دیگر را از یک رابط جستجو کنند
-| [Numbers Search Engine](https://nftsearch.site/) |<p align="center"> موتور جستجوی اعداد یک ابزار جستجوی مبتنی بر هوش مصنوعی است که به طور خاص بر روی داده‌ها و اطلاعات عددی متمرکز است. این به کاربران اجازه می دهد تا داده های آماری، فرمول های ریاضی، الگوهای عددی و موارد دیگر را جستجو کنند. با استفاده از موتور جستجوی اعداد، کاربران می‌توانند به مجموعه وسیعی از اطلاعات عددی دسترسی داشته باشند که آن را به منبعی ارزشمند برای محققان، دانشجویان و متخصصانی که با اعداد کار می‌کنند تبدیل می‌کند.
-| [Bing AI](https://www.bing.com/?/ai) |<p align="center"> یک ابزار جستجوی مبتنی بر هوش مصنوعی است که توسط مایکروسافت توسعه یافته است. از تکنیک های یادگیری ماشین و پردازش زبان طبیعی برای بهبود نتایج جستجو و ارائه تجربه جستجوی شخصی تر استفاده می کند. 
-| [Consensus](https://consensus.app/) |<p align="center">  یک موتور جستجو است که از هوش مصنوعی برای یافتن پاسخ در مقالات تحقیقاتی استفاده می کند. | Freemium   | 
-Lexii.ai
-Smarty Names
+## Idea Generation 💡
+### Validator AI
+### Paperade
+### Business Idea Generator
+### Ideasai
 
-
-### Idea Generation 💡
-
-Validator AI
-Paperade
-Business Idea Generator
-Ideasai
-
-
-| [CarePode]() | | |
-| [Duet AI]() | | |
-| [Data DM](https://9c73h4jzku.datadm.approx.dev/) | | |
-MonkeyLearn
-BeeBee AI
+## Data
+###  [CarePode]() | | |
+### [Duet AI]() | | |
+### [Data DM](https://9c73h4jzku.datadm.approx.dev/) | | |
+### MonkeyLearn
+### BeeBee AI
 
 ## Fashion 👩‍🎤
-FashionAdvisorAI
-Visualhound
+### FashionAdvisorAI
+### Visualhound
 
 ## Gaming 🎮
-charisma
-hidden door
-latitude
-Chess AI
+### charisma
+### hidden door
+### latitude
+### Chess AI
 
 ## Education & Learning 🧠
-Coursebox
-QUIZGECKO
-StoryBee
-Speakingclubai
+### Coursebox
+### QUIZGECKO
+### StoryBee
+### Speakingclubai
 
 ## Accounting & Finance 📈
-BeeBee AI
-FlowCog
-StockGPT
-Jinnee
+### BeeBee AI
+### FlowCog
+### StockGPT
+### Jinnee
 
 ## Ecommerce 🛒
-Octie.ai
-Embolden
-Wizishop
-DoMyShoot
+### Octie.ai
+### Embolden
+### Wizishop
+### DoMyShoot
 
 ## Human Resources & Resume 👩‍💼
-AI Resume Editor
-Prodigy AI
-rankode
-LazyApply
+### AI Resume Editor
+### Prodigy AI
+### rankode
+### LazyApply
 
 ## Fun 🤪
-Philosophy
-Ask RBG
-Undress.Vip
+### Philosophy
+### Ask RBG
+### Undress.Vip
 
 ## Plugins & Extensions 🔌
-AIduh
-Texti
-Autoname
-SplashAI
+### AIduh
+### Texti
+### Autoname
+### SplashAI
