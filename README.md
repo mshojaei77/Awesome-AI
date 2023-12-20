@@ -5,28 +5,29 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 | Category | Top Picks |
 |----------|-----------|
-| 🤖 Chatbots | `ChatGPT`  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` |
+| 🤖 Chatbots | `ChatGPT`  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` `Ask Your PDF`  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
 | 🔍 Search Engine | `Microsoft Copilot` `Phind`  `GPTGO`  `Perplexity AI`  `Songtell`  `Searcholic`  `Komo Search`  `You.com`  `All Search AI`  `Pixelvibe`  |
-| 🌐 Translation | DeepL |
 | ✍️ Writing & Web SEO | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
-| 📝 Writing Assistant | QuillBot |
-| 🖼️ Presentation Slides | Gamma app |
+| 📝 Writing Assistant |  `QuillBot ` |
+| Translation |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
+| 🖼️ Presentation Slides | `Gamma App` `Tome AI`  `PowerMode AI`  `STORYD`  `SlidesAI`  `Motionit AI`  `MagicSlides`  `MyReport`  `Beautiful AI`  `GPTforSlides` |
+| 🧪 Research & Science | `AlphaResearch`  `WolframAlpha`  `Perplexity AI`  `All Search AI`  `Socratic by Google`  `Scholarcy`  `Adept AI`  `OpenRead`  `Iris AI`  `CoolMindMaps` |
 
 ## 🌄 Image
 | Category | Top Picks |
 | --- | --- |
-| 🎨 Art & Image Generator |  `MidJourney`  `Stable Diffusion`  `Adobe Firefly`  `DALL·E 3`  `Lexica.art`  `Civitai`  `Bing Image Creator`  `BlueWillow`  `Ideogram AI`  `SDXL by Stable Diffusion` |
+| 🎨 Art & Image Generator |  `MidJourney`  `Stable Diffusion`  `Adobe Firefly`  `DALL·E 3`  `Lexica.art`  `Civitai`  `Bing Image Creator`  `BlueWillow`  `Ideogram AI`  `SDXL by Stable Diffusion` `Vana Portrait`  `Night Café`  `Openart`  `Deep Anime`  `Playground AI`  `Synthesizer V` |
 | 🖼️ Image Editing | `Adobe Firefly`  `Remove BG`  `Upscale.media`  `Pixelhunter`  `Remover ZMO`  `ImgLarger`  `Clipdrop`  `DragGAN`  `Adobe Express`  `Vectorizer AI` |
 | 🎴 Logo creation | `Ideogram AI`  `Looka`  `Namecheap`  `Logo Diffusion`  `LogoCreatorAI`  `Stockimg AI`  `Logoai`  `Brandmark`  `Unbound AI`  `Designs AI` |
-| 📸 Photo Enhancement | Magnific |
-| 🌈 Colorization | Colorize, DeOldify, Colourise.sg |
+| 📸 Photo Enhancement |  `Magnific ` |
+| 🌈 Colorization | `Colorize`  `DeOldify`  `Colourise.sg` |
 
 ## 🎬 Video
 | Category | Top Picks |
 | --- | --- |
-| 🎞 Video Generator | `Studio D-ID`  `Runway ML`  `Pika Labs`  `Kaiber AI`  `HeyGen AI`  `Gen-2 by Runway`  `Synthesia IO`  `Fliki AI`  `Genmo AI`  `Waymark` |
+| 🎞 Video Generator | `Studio D-ID`  `Runway ML`  `Pika Labs`  `Kaiber AI`  `HeyGen AI`  `Gen-2 by Runway`  `Synthesia IO`  `Fliki AI`  `Genmo AI`  `Waymark` `Gen-2 by Runway`  `Genmo AI`  `Stable Video Diffusion`  `Emu Video by Meta`  `Vatic AI`  `Opus`  `Steve AI`  `PixVerse`  `Aug X Labs` |
 | 🎥 Video Editing |`Runway ML`  `HeyGen AI`  `Fliki AI`  `Unscreen`  `Opus Clip`  `Papercut`  `InVideo`  `Munch`  `FaceFusion`  `Translate.Video` |
-| 🎭 Deep Fake | Explore AI-driven video manipulation techniques. |
+| 🎭 Deep Fake | ` DeepFaceLab`  ` DeepSwap`  ` ZAO Deepfake`  `FaceApp` `Zao` `Reface` `SpeakPic` `DeepFaceLab` `FakeApp` `Wombo` `Deepfakes Web` |
 
 ## 🔊 Audio
 | Category | Top Picks |
@@ -34,24 +35,28 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | 🎵 Music | `AIVAA`  `Beatoven`  `Covers AI`  `Songtell`  `Voicify AI`  `Vocal Remover`  `Riffusion`  `Synthesizer V`  `Boomy`  `Chirp by Suno.ai` |
 | 🗣️ Voice Reading | `Eleven Labs`  `FreeTTS`  `NaturalReaders`  `Free Text To Speech Online`  `VoiceOverMaker`  `Speechki`  `Murf AI`  `TTS Reader`  `Play HT`  `TTSMaker` |
 | 🎚 Audio Editing | `Covers AI`  `Voicify AI`  `Vocal Remover`  `Adobe Podcast`  `TTSLabs`  `Noise Eraser`  `Voicemy.ai`  `FineShare Singify`  `Voicemod`  `Voice AI` |
-| 📢 Sound Effects Generation | Generate a variety of sound effects effortlessly with AI algorithms. |
 
 ## 💻 Development 
 | Category | Top Picks |
 | --- | --- |
 | 📟 Coding Assistant | `Copilot AI`  `Codeium`  `Code Llama`  `Mars Ai`  `Codium LTD`  `Replit AI`  `Safurai`  `Replicate AI`  `CodeMate AI`  `Tabninie AI` |
 | Developer Tools | `Hugging Face`  `CodeMate AI`  `Censius`  `Teachable Machine`  `Mintlify`  `Bria`  `Move AI`  `Assisterr`  `Gradio`  `Pipeline AI` |
+| Website creation | `Mars Ai`  `Framer AI`  `10Web`  `Replicate AI`  `Durable`  `v0.dev`  `Stunning AI`  `ThinkDiffusion`  `UiMagic`  `MagicForm` |
+| Autonomous AI | `AutoGPT`  `BabyAgi`  `Jarvis (Microsoft)`  `CamelAGI`  `AgentRunner AI`  `Godmode`  `MetaGPT`  `SuperAGI`  `Camel AI`  `Multi-GPT` |
+| 🔄 API | `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
+| Github projects | `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP` |
 
 ## Others
 | Category | Top Picks |
 | --- | --- |
 | 📦 3D Models | `Kinetix`  `Leonardo AI`  `Get3D Nvidia`  `Latent Labs`  `DeepMotion`  `DreamFusion 3D`  `3DFY.ai`  `Krikey AI`  `Luma AI`  `Mirageml` |
-| 📊 Predictive Analytics | Leverage AI for insightful predictive data analysis. |
-| 🧪 Research and Science | Dive into AI applications in research and scientific domains. |
+| Files & Spreadsheets | `Ask Your PDF`  `Humata AI`  `ChatPDF`  `ChatDOC`  `Merlin`  `Mindgrasp`  `GPTDuck`  `Corpora`  `Excel Formula Bot`  `Arcwise AI` |
 | 💼Business | `Tome AI`  `Canva AI`  `Ask Your PDF`  `Adcreative AI`  `Humata AI`  `ChatPDF`  `Cody`  `Chatbot AI`  `Merlin`  `Pixels AI` |
-| 🤖 Customer Service | Elevate your customer support with AI-driven solutions. |
-| 🎮 Video Games | Experience the impact of AI in the gaming industry. |
-| 🛠️Extensions & Plugins | Seamlessly integrate AI-powered extensions and plugins. |
-| 🔄 API | Unlock diverse AI functionalities through user-friendly APIs. |
-| 🔖Others | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E`
-|
+| Marketing | `Canva AI`  `Adcreative AI`  `Synthesia IO`  `Booth AI`  `ECommerce Prompt Generator`  `HoppyCopy`  `Robin AI`  `Pebblely`  `Microsoft Designer`  `Beautiful AI` |
+| Prompting | `Lexica.art`  `MidJourney Prompt Helper`  `Ordinary People Prompts`  `Public Prompts`  `Openart`  `FlowGPT`  `PromptBase`  `ECommerce Prompt Generator`  `Krea.ai`  `Prompthero` |
+| Education | `Tome AI`  `Ask Your PDF`  `FireFlies`  `Notion AI`  `Mathway`  `Humata AI`  `Grammarly`  `Poe`  `ChatPDF`  `WolframAlpha` |
+| Finance | `AlphaResearch`  `Onesta`  `TradeUI`  `Finta`  `Stocknews AI`  `Freshly.ai`  `Finchat.io`  `StockGPT`  `PionexGPT`  `Web3 Summary` |
+| Social media | `PimEyes`  `Adcreative AI`  `Piggy To`  `Predict AI`  `Opus Clip`  `Thumbnail AI`  `Post AI`  `Morise AI`  `TwitterBio`  `Taplio` |
+| 🎮 Games | `Ai Dungeon`  `TTSLabs`  `CAPTURELAB`  `AI Puzzles`  `Booom.ai`  `Inworld`  `Hidden Door`  `GGPredict`  `Human or Not?`  `ChessGPT` |
+| 🛠️Extensions & Plugins | `GPTs list`  `Ordinary People Prompts`  `GPTGO`  `Merlin`  `FlowGPT`  `ECommerce Prompt Generator`  `ChatGPT Plugins`  `Stunning AI`  `ChatGPT Android`  `Harpa AI` |
+| 🔖Others | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E` |
