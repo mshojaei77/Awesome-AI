@@ -45,17 +45,26 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | **API** | `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
 | **Github projects** | `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP` |
 
-## Others
+## 📌Others
 | Category | Top Picks |
 | --- | --- |
 | **3D Models** | `Kinetix`  `Leonardo AI`  `Get3D Nvidia`  `Latent Labs`  `DeepMotion`  `DreamFusion 3D`  `3DFY.ai`  `Krikey AI`  `Luma AI`  `Mirageml` |
-| ** Files & Spreadsheets** | `Ask Your PDF`  `Humata AI`  `ChatPDF`  `ChatDOC`  `Merlin`  `Mindgrasp`  `GPTDuck`  `Corpora`  `Excel Formula Bot`  `Arcwise AI` |
+| **Files & Spreadsheets** | `Ask Your PDF`  `Humata AI`  `ChatPDF`  `ChatDOC`  `Merlin`  `Mindgrasp`  `GPTDuck`  `Corpora`  `Excel Formula Bot`  `Arcwise AI` |
 | **Business** | `Tome AI`  `Canva AI`  `Ask Your PDF`  `Adcreative AI`  `Humata AI`  `ChatPDF`  `Cody`  `Chatbot AI`  `Merlin`  `Pixels AI` |
 | **Marketing** | `Canva AI`  `Adcreative AI`  `Synthesia IO`  `Booth AI`  `ECommerce Prompt Generator`  `HoppyCopy`  `Robin AI`  `Pebblely`  `Microsoft Designer`  `Beautiful AI` |
 | **Prompting** | `Lexica.art`  `MidJourney Prompt Helper`  `Ordinary People Prompts`  `Public Prompts`  `Openart`  `FlowGPT`  `PromptBase`  `ECommerce Prompt Generator`  `Krea.ai`  `Prompthero` |
 | **Education** | `Tome AI`  `Ask Your PDF`  `FireFlies`  `Notion AI`  `Mathway`  `Humata AI`  `Grammarly`  `Poe`  `ChatPDF`  `WolframAlpha` |
-| ** Finance** | `AlphaResearch`  `Onesta`  `TradeUI`  `Finta`  `Stocknews AI`  `Freshly.ai`  `Finchat.io`  `StockGPT`  `PionexGPT`  `Web3 Summary` |
+| **Finance** | `AlphaResearch`  `Onesta`  `TradeUI`  `Finta`  `Stocknews AI`  `Freshly.ai`  `Finchat.io`  `StockGPT`  `PionexGPT`  `Web3 Summary` |
 | **Social media** | `PimEyes`  `Adcreative AI`  `Piggy To`  `Predict AI`  `Opus Clip`  `Thumbnail AI`  `Post AI`  `Morise AI`  `TwitterBio`  `Taplio` |
 | **Games** | `Ai Dungeon`  `TTSLabs`  `CAPTURELAB`  `AI Puzzles`  `Booom.ai`  `Inworld`  `Hidden Door`  `GGPredict`  `Human or Not?`  `ChessGPT` |
 | **Extensions** | `GPTs list`  `Ordinary People Prompts`  `GPTGO`  `Merlin`  `FlowGPT`  `ECommerce Prompt Generator`  `ChatGPT Plugins`  `Stunning AI`  `ChatGPT Android`  `Harpa AI` |
 | **Others** | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E` |
+
+# 💡 AI Models
+| Category | Top Picks |
+| --- | --- |
+| **Text Models** | GPT-4, Claude 2, LLaMA-2, Grok-1, Gemini-Pro, GPT-3.5, Inflection-2, Pangu-Coder2, Deepseek Coder, Code Llama |
+| **Image Models** | DALL-E 3, Stable Diffusion XL Base 1.0, Midjourney-v5, Adobe’s Generative AI for Designers |
+| **Video Models** | Gen-2, AI Studio by Meta, SAP’s Generative AI Assistant: Joule |
+| **Audio Models** | Jukebox, IBM Watson Text to Speech, Google's Text-to-Speech, Amazon Polly, Microsoft Azure Text to Speech |
+| **Multi Models** | Gemini, GPT-4, GPT-4 Vision |
