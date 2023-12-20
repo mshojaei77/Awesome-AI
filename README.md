@@ -16,7 +16,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | Category | Top Picks |
 | --- | --- |
 | **Art & Image Generator** |  `MidJourney`  `Stable Diffusion`  `Adobe Firefly`  `DALL·E 3`  `Lexica.art`  `Civitai`  `Bing Image Creator`  `BlueWillow`  `Ideogram AI`  `SDXL by Stable Diffusion` `Vana Portrait`  `Night Café`  `Openart`  `Deep Anime`  `Playground AI`  `Synthesizer V` |
-| **Image Editing** | `Adobe Firefly`  `Remove BG`  `Upscale.media`  `Pixelhunter`  `Remover ZMO`  `ImgLarger`  `Clipdrop`  `DragGAN`  `Adobe Express`  `Vectorizer AI` |
+| **Image Editing** | `Adobe Firefly`  `Remove BG`  `Upscale.media`  `Pixelhunter`  `Remover ZMO`  `ImgLarger`  `Clipdrop`  `DragGAN`  `Adobe Express`  `Vectorizer AI`  |
 | **Logo creation** | `Ideogram AI`  `Looka`  `Namecheap`  `Logo Diffusion`  `LogoCreatorAI`  `Stockimg AI`  `Logoai`  `Brandmark`  `Unbound AI`  `Designs AI` |
 | **Photo Enhancement** |  `Magnific ` |
 | **Colorization** | `Colorize`  `DeOldify`  `Colourise.sg` |
