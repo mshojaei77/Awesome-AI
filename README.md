@@ -63,8 +63,8 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 # 💡 AI Models
 | Category | Top Picks |
 | --- | --- |
-| **Text Models** | GPT-4, Claude 2, LLaMA-2, Grok-1, Gemini-Pro, GPT-3.5, Inflection-2, Pangu-Coder2, Deepseek Coder, Code Llama |
-| **Image Models** | DALL-E 3, Stable Diffusion XL Base 1.0, Midjourney-v5, Adobe’s Generative AI for Designers |
-| **Video Models** | Gen-2, AI Studio by Meta, SAP’s Generative AI Assistant: Joule |
-| **Audio Models** | Jukebox, IBM Watson Text to Speech, Google's Text-to-Speech, Amazon Polly, Microsoft Azure Text to Speech |
-| **Multi Models** | Gemini, GPT-4, GPT-4 Vision |
+| **Text Models** | `GPT-4` `Claude 2` `LLaMA-2` `Grok-1` `Gemini-Pro` `GPT-3.5` `Inflection-2` `Mixtral 8x7B` |
+| **Image Models** | `DALL-E 3` `Stable Diffusion XL Base 1.0` `Midjourney-v5` `Adobe Firefly` |
+| **Video Models** | `Gen-2` `AI Studio by Meta` `Pika` |
+| **Audio Models** | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
+| **Multi Models** | `Gemini` `GPT-4` `GPT-4 Vision` |
