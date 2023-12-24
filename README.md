@@ -5,8 +5,9 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 | Category | Top Picks |
 |----------|-----------|
-| **Chatbots** | [`ChatGPT`](https://chat.openai.com/) [`Bard AI`](https://bard.google.com/) [ `Microsoft Copilot `](https://copilot.microsoft.com/) [`Playground OpenAI`](https://platform.openai.com/playground) [ `Claude AI`](https://claude.ai/)   [`Poe`](https://poe.com/) [Character AI](https://beta.character.ai/) [`perplexity labs`](https://labs.perplexity.ai/)  [`vercel sdk`](https://sdk.vercel.ai/) [`Chatgot`](https://start.chatgot.io/) [`OpenRouter`](https://openrouter.ai/playground?models=openai/gpt-4-1106-preview) [`MyShell`](https://app.myshell.ai/chat?botId=4738) [`Cohere`](https://dashboard.cohere.com/)  [`Deep Seek`](https://chat.deepseek.com/) [`anakin ai`](https://app.anakin.ai/workspaces/10507/apps/16175) [`B.AI`](https://beta.theb.ai/home) [`Together`](https://api.together.xyz/playground/chat/) [`ora AI`](https://ora.ai/) [`AI chatting`](https://www.aichatting.net/)  |
-| **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  [`Perplexity AI`](https://www.perplexity.ai/) [`Komo Search`](https://komo.ai/) [`Crowdview`](https://crowdview.ai/) [`You.com`](https://you.com/)   [`Searcholic`](https://searcholic.com/)  | 
+| **Chatbots** | [`ChatGPT`](https://chat.openai.com/) [`Bard AI`](https://bard.google.com/) [ `Microsoft Copilot `](https://copilot.microsoft.com/) [`Playground OpenAI`](https://platform.openai.com/playground) [ `Claude AI`](https://claude.ai/)   [`Poe`](https://poe.com/) [`Character AI`](https://beta.character.ai/) [`Llama 2`](https://www.llama2.ai/) [`perplexity labs`](https://labs.perplexity.ai/)  [`vercel sdk`](https://sdk.vercel.ai/) [`Chatgot`](https://start.chatgot.io/) [`OpenRouter`](https://openrouter.ai/playground?models=openai/gpt-4-1106-preview) [`MyShell`](https://app.myshell.ai/chat?botId=4738) [`Cohere`](https://dashboard.cohere.com/) [`DeepInfera`](https://deepinfra.com/chat)  [`Deep Seek`](https://chat.deepseek.com/) [`HuggingChat`](https://huggingface.co/chat/)  [`anakin ai`](https://app.anakin.ai/workspaces/10507/apps/16175) [`B.AI`](https://beta.theb.ai/home) [`Together`](https://api.together.xyz/playground/chat/) [`ora AI`](https://ora.ai/) [`AI chatting`](https://www.aichatting.net/) [`GeekGPT`](https://chat.geekgpt.org/) |
+| **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  [`Perplexity AI`](https://www.perplexity.ai/) [`Komo Search`](https://komo.ai/`HuggingChat
+) [`Crowdview`](https://crowdview.ai/) [`You.com`](https://you.com/)   [`Searcholic`](https://searcholic.com/)  | 
 | **Writing & Web SEO** | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
 |  **Translation** |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
 |  **Presentation Slides** | `Gamma App` `Tome AI`  `PowerMode AI`  `STORYD`  `SlidesAI`  `Motionit AI`  `MagicSlides`  `MyReport`  `Beautiful AI`  `GPTforSlides` |
@@ -43,7 +44,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | **Website creation** | `Mars Ai`  `Framer AI`  `10Web`  `Replicate AI`  `Durable`  `v0.dev`  `Stunning AI`  `ThinkDiffusion`  `UiMagic`  `MagicForm` |
 | **Autonomous AI** | `AutoGPT`  `BabyAgi`  `Jarvis (Microsoft)`  `CamelAGI`  `AgentRunner AI`  `Godmode`  `MetaGPT`  `SuperAGI`  `Camel AI`  `Multi-GPT` |
 | **API** | `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
-| **Github projects** | `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP` |
+| **Github projects** | (https://github.com/xtekky/gpt4free)(https://github.com/zukixa/cool-ai-stuff/)(https://github.com/xtekky/chatgpt-clone)(https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)(https://github.com/SamirXR/Nyx-Bot)(https://github.com/HexyeDEV/Telegram-Chatbot-Gpt4Free)(https://github.com/Lin-jun-xiang/docGPT-streamlit)()()()()() `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP` |
 
 ## 📌Others
 | Category | Top Picks |
@@ -63,7 +64,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 # 💡 AI Models
 | Category | Open Source | Close Source |
 | --- | --- |  --- | 
-| **Text Models (LLMs)** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `Vicuna` `ReMM SLERP` `Toppy M 7B` `Capybara 7B` `MythoMax 13B` `Cinematika 7B` `MythoMist` `MPT` `Bloom` `RoBERTa large` |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` |
+| **Text Models (LLMs)** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `openchat_3.5` `Vicuna` `lzlv 70b` `ReMM SLERP` `Toppy M 7B` `Capybara 7B` `MythoMax 13B` `Cinematika 7B` `MythoMist` `MPT` `Bloom` `RoBERTa large` |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` |
 | **Image Models** | `Stable Diffusion XL` | `DALL-E 3``Midjourney-v5` `Adobe Firefly`  |
 | **Video Models** | `Stable Video Diffusion` | `Gen-2` `AI Studio by Meta` `Pika` |
 | **Audio Models** | ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
