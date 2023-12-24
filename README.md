@@ -5,7 +5,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 | Category | Top Picks |
 |----------|-----------|
-| **Chatbots** | [`ChatGPT`](https://chat.openai.com/)  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` `Ask Your PDF`  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
+| **Chatbots** | [`ChatGPT`](https://chat.openai.com/) [ `Bard AI`](https://bard.google.com/) [ `Microsoft Copilot `](https://copilot.microsoft.com/) [ `Playground OpenAI`](https://platform.openai.com/playground) [ `Claude AI`](https://claude.ai/)   [`Poe`](https://poe.com/)  [`perplexity labs`](https://labs.perplexity.ai/)  [`vercel sdk`](https://sdk.vercel.ai/) [`Ask Your PDF`](https://askyourpdf.com/)  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
 | **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  `GPTGO`  `Perplexity AI`  `Songtell`  `Searcholic`  `Komo Search`  `You.com`  `All Search AI`  `Pixelvibe`  |
 | **Writing & Web SEO** | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
 |  **Translation** |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
@@ -63,7 +63,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 # 💡 AI Models
 | Category | Open Source | Close Source |
 | --- | --- |  --- | 
-| **Text Models** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `Vicuna` `MPT` `Bloom` `RoBERTa large` |  `GPT-4`  `GPT-3.5` `Claude 2` `Claude 1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro``Inflection-2` |
+| **Text Models** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `Vicuna` `MPT` `Bloom` `RoBERTa large` |  `GPT-4`  `GPT-3.5` `Claude 2`  `Claude 1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` |
 | **Image Models** | `Stable Diffusion XL` | `DALL-E 3``Midjourney-v5` `Adobe Firefly`  |
 | **Video Models** | `Stable Video Diffusion` | `Gen-2` `AI Studio by Meta` `Pika` |
 | **Audio Models** | ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
