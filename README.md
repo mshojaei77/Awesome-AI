@@ -6,7 +6,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | Category | Top Picks |
 |----------|-----------|
 | **Chatbots** | [`ChatGPT`](https://chat.openai.com/)  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` `Ask Your PDF`  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
-| **Search Engine** | `Microsoft Copilot` `Phind`  `GPTGO`  `Perplexity AI`  `Songtell`  `Searcholic`  `Komo Search`  `You.com`  `All Search AI`  `Pixelvibe`  |
+| **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  `GPTGO`  `Perplexity AI`  `Songtell`  `Searcholic`  `Komo Search`  `You.com`  `All Search AI`  `Pixelvibe`  |
 | **Writing & Web SEO** | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
 |  **Translation** |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
 |  **Presentation Slides** | `Gamma App` `Tome AI`  `PowerMode AI`  `STORYD`  `SlidesAI`  `Motionit AI`  `MagicSlides`  `MyReport`  `Beautiful AI`  `GPTforSlides` |
