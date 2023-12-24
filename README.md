@@ -63,8 +63,8 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 # 💡 AI Models
 | Category | Open Source | Close Source |
 | --- | --- |  --- | 
-| **Text Models** | `LLaMA-2` `Mixtral 8x7B` |  `GPT-4` `Claude 2`  `Grok-1` `Gemini-Pro` `GPT-3.5` `Inflection-2` |
+| **Text Models** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `Vicuna` `MPT` `Bloom` `RoBERTa large` |  `GPT-4`  `GPT-3.5` `Claude 2` `Claude 1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro``Inflection-2` |
 | **Image Models**  `Stable Diffusion XL` | `DALL-E 3``Midjourney-v5` `Adobe Firefly`  |
 | **Video Models** | `Stable Video Diffusion` | `Gen-2` `AI Studio by Meta` `Pika` |
-| **Audio Models** |  | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
+| **Audio Models** | ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
 | **Multi Models** |  | `Gemini` `GPT-4` `GPT-4 Vision` |
