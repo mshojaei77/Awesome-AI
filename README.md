@@ -64,7 +64,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | Category | Open Source | Closed Source | Overview |
 |----------|-----------|-----------|-----------|
 | **Text Models (LLMs)** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `openchat_3.5` `Vicuna` `lzlv 70b` `ReMM SLERP` `Toppy M 7B` `Capybara 7B` `MythoMax 13B` `Cinematika 7B` `MythoMist` `MPT` `Bloom` `RoBERTa large` `phi-2 ` `CatPPT` `Yi-34B-Llama` `deepseek-llm-67b` `SOLAR-10.7B` `smol-3b` `quantum-dpo-v0.1` `ShiningValiant`  |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` | For a more exhaustive list and detailed information, refer to the [LLMs Overview](https://github.com/mshojaei77/Awesome-AI/wiki/Text-Models-(LLMs)) |
-| **text to Image Models** | `Stable Diffusion XL` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3``Midjourney-v5` `Adobe Firefly`  |
+| **text to Image Models** | `Stable Diffusion XL` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3` `Midjourney-v5` `Adobe Firefly`  |
 | **text to Video Models** | `Stable Video Diffusion` `Imagen Video Creator`  `ModelScope Text-to-Video` `VideoGPT` `CogVideo` `ModelScope Text-to-Video` `Text2Video-Zero`  | `Gen-2` `AI Studio by Meta` `Pika` `CogVideo` `NUWA` `Make-A-Video` `Phenaki `  |
 | **text to Audio Models** | ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
 | **Multi Models** |  | `Gemini` `GPT-4` `GPT-4 Vision` |
