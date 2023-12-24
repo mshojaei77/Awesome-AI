@@ -43,7 +43,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | **Website creation** | `Mars Ai`  `Framer AI`  `10Web`  `Replicate AI`  `Durable`  `v0.dev`  `Stunning AI`  `ThinkDiffusion`  `UiMagic`  `MagicForm` |
 | **Autonomous AI** | `AutoGPT`  `BabyAgi`  `Jarvis (Microsoft)`  `CamelAGI`  `AgentRunner AI`  `Godmode`  `MetaGPT`  `SuperAGI`  `Camel AI`  `Multi-GPT` |
 | **API** | `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
-| **Github projects** | [`Gpt4Free`](https://github.com/xtekky/gpt4free) `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP` (https://github.com/zukixa/cool-ai-stuff/)(https://github.com/xtekky/chatgpt-clone)(https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free)(https://github.com/SamirXR/Nyx-Bot)(https://github.com/HexyeDEV/Telegram-Chatbot-Gpt4Free)(https://github.com/Lin-jun-xiang/docGPT-streamlit) |
+| **Github projects** | [`Gpt4Free`](https://github.com/xtekky/gpt4free) `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP`|
 
 ## 📌Others
 | Category | Top Picks |
