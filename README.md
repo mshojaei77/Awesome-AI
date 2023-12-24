@@ -6,7 +6,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | Category | Top Picks |
 |----------|-----------|
 | **Chatbots** | [`ChatGPT`](https://chat.openai.com/) [`Bard AI`](https://bard.google.com/) [ `Microsoft Copilot `](https://copilot.microsoft.com/) [`Playground OpenAI`](https://platform.openai.com/playground) [ `Claude AI`](https://claude.ai/)   [`Poe`](https://poe.com/)  [`perplexity labs`](https://labs.perplexity.ai/)  [`vercel sdk`](https://sdk.vercel.ai/) [`Ask Your PDF`](https://askyourpdf.com/) [`Chatgot`](https://start.chatgot.io/)  |
-| **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  [`Perplexity AI`](https://www.perplexity.ai/)   [`Komo Search`](https://komo.ai/) [`You.com`](https://you.com/)    `Pixelvibe`  [`Searcholic`](https://searcholic.com/)   |
+| **Search Engine** | [`Microsoft Copilot`](https://copilot.microsoft.com/) [`Phind`](https://www.phind.com/)  [`Perplexity AI`](https://www.perplexity.ai/)   [`Komo Search`](https://komo.ai/) [`You.com`](https://you.com/)   [`Searcholic`](https://searcholic.com/)   |
 | **Writing & Web SEO** | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
 |  **Translation** |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
 |  **Presentation Slides** | `Gamma App` `Tome AI`  `PowerMode AI`  `STORYD`  `SlidesAI`  `Motionit AI`  `MagicSlides`  `MyReport`  `Beautiful AI`  `GPTforSlides` |
