@@ -5,7 +5,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 ## 📝 Text
 | Category | Top Picks |
 |----------|-----------|
-| **Chatbots** | `ChatGPT`  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` `Ask Your PDF`  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
+| **Chatbots** | [`ChatGPT`](https://chat.openai.com/)  `Bard AI`  `Microsoft Copilot `  `Playground OpenAI`  `Claude AI`  `Llama 2`  `Google Gemini AI`  `Poe`  `GPTs list`  `Grok by xAI` `Ask Your PDF`  `Onesta`  `Chatbot AI`  `ChatSonic`  `Chatbotkit`  `Dumm-E`  `YouChat`  `PionexGPT`  `GPTHotline` |
 | **Search Engine** | `Microsoft Copilot` `Phind`  `GPTGO`  `Perplexity AI`  `Songtell`  `Searcholic`  `Komo Search`  `You.com`  `All Search AI`  `Pixelvibe`  |
 | **Writing & Web SEO** | `Jasper`  `Rytr`  `WriteSonic`  `Grammarly`  `Paraphrasing Tool`  `Smodin`  `Frase IO`  `Text Cortex`  `Copy.ai`  `QuillBot` |
 |  **Translation** |  `HeyGen AI`  `Papercut`  `Translate.Video`  `Deepl`  `iTranslate`  `TalkPal AI`  `Type Studio`  `Taia Translations`  `Unbabel`  `Machine Translation` |
@@ -61,10 +61,10 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | **Others** | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E` |
 
 # 💡 AI Models
-| Category | Top Picks |
+| Category | Open Source | Close Source |
 | --- | --- |
-| **Text Models** | `GPT-4` `Claude 2` `LLaMA-2` `Grok-1` `Gemini-Pro` `GPT-3.5` `Inflection-2` `Mixtral 8x7B` |
-| **Image Models** | `DALL-E 3` `Stable Diffusion XL Base 1.0` `Midjourney-v5` `Adobe Firefly` |
-| **Video Models** | `Gen-2` `AI Studio by Meta` `Pika` |
-| **Audio Models** | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
-| **Multi Models** | `Gemini` `GPT-4` `GPT-4 Vision` |
+| **Text Models** | `LLaMA-2` `Mixtral 8x7B` |  `GPT-4` `Claude 2`  `Grok-1` `Gemini-Pro` `GPT-3.5` `Inflection-2`
+| **Image Models**  `Stable Diffusion XL` | `DALL-E 3``Midjourney-v5` `Adobe Firefly` 
+| **Video Models** | `Stable Video Diffusion` | `Gen-2` `AI Studio by Meta` `Pika`
+| **Audio Models** |  | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
+| **Multi Models** |  | `Gemini` `GPT-4` `GPT-4 Vision` |
