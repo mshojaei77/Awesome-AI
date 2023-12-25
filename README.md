@@ -67,11 +67,11 @@ Here are the missing links for the tools you mentioned:
 | Category | Open Source | Closed Source | Overview |
 |----------|-----------|-----------|-----------|
 | **Text Models (LLMs)** | `llama-2` `mixtral-8x7b-instruct-v0.1` `CodeLlama` `eplit-code-v1` `mistral-instruct-v0.1` `Falcon` `flan-t5-xl` `Vicuna` `stablelm-tuned-alpha` `lzlv` `ReMM SLERP` `Toppy M` `Capybara` `MythoMax ` `Cinematika` `MythoMist` `MPT` `Bloom` `RoBERTa large` `phi-2 ` `CatPPT` `Yi-34B-Llama` `deepseek` `SOLAR-10` `smol` `quantum-dpo-v0.1` `ShiningValiant`  |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` | For a more exhaustive list and detailed information, refer to the [LLMs Overview](https://github.com/mshojaei77/Awesome-AI/wiki/Text-Models-(LLMs)) |
-| **Text to Image Models** | `Stable Diffusion XL` `playground-v2-1024px-aesthetic` `SDXL fine-tunes` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3` `Midjourney-v5` `Adobe Firefly`  |
+| **Text to Image Models** | `Stable Diffusion XL` `playground-v2` `SDXL fine-tunes` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3` `Midjourney-v5` `Adobe Firefly`  |
 | **Text to Video Models** | `Imagen Video Creator`  `ModelScope Text-to-Video` `VideoGPT` `CogVideo` `ModelScope Text-to-Video` `Text2Video-Zero`  | `Gen-2` `AI Studio by Meta` `Pika` `CogVideo` `NUWA` `Make-A-Video` `Phenaki `  |
 | **Text to Audio Models** | `meta/musicgen` `riffusion``suno-ai/bark``tortoise-tts` `styletts2` `looptest` ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
 |  **Text to 3D Models** | `adirik/dreamgaussian` |
-| **Image to Text Models** | `llava-13b` `blip` `methexis-inc/img2prompt``daanelson/minigpt-4``owlvit-base-patch32` | `GPT-4 Vision` |
+| **Image to Text Models** | `llava-13b` `blip` `methexis-inc/img2prompt` `daanelson/minigpt-4` `owlvit-base-patch32` | `GPT-4 Vision` |
 | **Image to Image Models** | `high-resolution-controlnet-tile` `yan-ops/face_swap` `jagilley/controlnet-scribble` `tencentarc/gfpgan` |  |  |
 | **Image to Video Models** | `lucataco/magic-animate` `stable-video-diffusion` |
 |  **Image to 3D Models** | `adirik/dreamgaussian` |
