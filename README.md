@@ -19,7 +19,7 @@ Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipp
 | **Art & Image Generator** |  [`MidJourney`](https://midjourney.com/)  [`Stable Diffusion`](https://stablediffusionweb.com/#ai-image-generator)  [`Adobe Firefly`](https://firefly.adobe.com/)  [`DALL·E 3`](https://dalle3.ai/) [`Leonardo.Ai`](https://app.leonardo.ai/ai-generations)  [`Lexica.art`](https://lexica.art/)  [`Civitai`](https://civitai.com/)  [`Bing Image Creator`](https://www.bing.com/create)  [`BlueWillow`](https://bluewillow.ai/)  [`Ideogram AI`](https://ideogram.ai/t/trending) [`imagine by Meta`](https://imagine.meta.com/)  [`SDXL by Stable Diffusion`](https://stablediffusionweb.com/sdxl) [`Vana Portrait`](https://vanaportrait.ai/)  [`Night Café`](https://nightcafe.studio/)  [`Openart`](https://openart.ai/)  [`Deep Anime`](https://deepanime.ai/)  [`Playground AI`](https://playground.com/create)  [`Synthesizer V`](https://synthesizerv.com/) |
 | **Image Editing** | [`Adobe Firefly`](https://firefly.adobe.com/)  [`Remove BG`](https://www.remove.bg/)  [`Upscale.media`](https://upscale.media/)  [`Pixelhunter`](https://pixelhunter.io/)  [`Remover ZMO`](https://remover.zmo.ai/)  [`ImgLarger`](https://imglarger.com/)  [`Clipdrop`](https://clipdrop.co/)  [`DragGAN`](https://draggan.ai/)  [`Adobe Express`](https://express.adobe.com/)  [`Vectorizer AI`](https://vectorizer.ai/)  |
 | **Logo creation** | [`Ideogram AI`](https://ideogram.ai/)  [`Looka`](https://looka.com/)  [`Namecheap`](https://www.namecheap.com/logo-maker/)  [`Logo Diffusion`](https://logodiffusion.ai/)  [`LogoCreatorAI`](https://logocreator.ai/)  [`Stockimg AI`](https://stockimg.ai/)  [`Logoai`](https://logoai.com/)  [`Brandmark`](https://brandmark.io/)  [`Unbound AI`](https://unbound.ai/)  [`Designs AI`](https://designs.ai/) |
-| **Photo Enhancement** |  [`Magnific`](https://magnific.ai/) |
+| **Photo Enhancement** |  [`Magnific`](https://magnific.ai/) [`High-resolution Controlnet Tile`](https://replicate.com/batouresearch/high-resolution-controlnet-tile) |
 | **Colorization** | [`Colorize`](https://colorize.cc/)  [`DeOldify`](https://deoldify.ai/)  [`Colourise.sg`](https://colourise.sg/) |
 
 Here are the missing links for the tools you mentioned:
@@ -45,7 +45,7 @@ Here are the missing links for the tools you mentioned:
 | **Developer Tools** | `Hugging Face`  `CodeMate AI`  `Censius`  `Teachable Machine`  `Mintlify`  `Bria`  `Move AI`  `Assisterr`  `Gradio`  `Pipeline AI` |
 | **Website creation** | `Mars Ai`  `Framer AI`  `10Web`  `Replicate AI`  `Durable`  `v0.dev`  `Stunning AI`  `ThinkDiffusion`  `UiMagic`  `MagicForm` |
 | **Autonomous AI** | `AutoGPT`  `BabyAgi`  `Jarvis (Microsoft)`  `CamelAGI`  `AgentRunner AI`  `Godmode`  `MetaGPT`  `SuperAGI`  `Camel AI`  `Multi-GPT` |
-| **API** | `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
+| **API** | [`Replicate`](https://replicate.com/explore) `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
 | **Github projects** | [`Gpt4Free`](https://github.com/xtekky/gpt4free) `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP`|
 
 ## 📌Others
@@ -66,8 +66,12 @@ Here are the missing links for the tools you mentioned:
 # 💡 AI Models
 | Category | Open Source | Closed Source | Overview |
 |----------|-----------|-----------|-----------|
-| **Text Models (LLMs)** | `LLaMA-2` `Mixtral 8x7B` `CodeLlama` `Mistral` `Falcon` `openchat_3.5` `Vicuna` `lzlv 70b` `ReMM SLERP` `Toppy M 7B` `Capybara 7B` `MythoMax 13B` `Cinematika 7B` `MythoMist` `MPT` `Bloom` `RoBERTa large` `phi-2 ` `CatPPT` `Yi-34B-Llama` `deepseek-llm-67b` `SOLAR-10.7B` `smol-3b` `quantum-dpo-v0.1` `ShiningValiant`  |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` | For a more exhaustive list and detailed information, refer to the [LLMs Overview](https://github.com/mshojaei77/Awesome-AI/wiki/Text-Models-(LLMs)) |
-| **text to Image Models** | `Stable Diffusion XL` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3` `Midjourney-v5` `Adobe Firefly`  |
-| **text to Video Models** | `Stable Video Diffusion` `Imagen Video Creator`  `ModelScope Text-to-Video` `VideoGPT` `CogVideo` `ModelScope Text-to-Video` `Text2Video-Zero`  | `Gen-2` `AI Studio by Meta` `Pika` `CogVideo` `NUWA` `Make-A-Video` `Phenaki `  |
-| **text to Audio Models** | ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
-| **Multi Models** |  | `Gemini` `GPT-4` `GPT-4 Vision` |
+| **Text Models (LLMs)** | `llama-2` `mixtral-8x7b-instruct-v0.1` `CodeLlama` `eplit-code-v1` `mistral-instruct-v0.1` `Falcon` `flan-t5-xl` `Vicuna` `stablelm-tuned-alpha` `lzlv` `ReMM SLERP` `Toppy M` `Capybara` `MythoMax ` `Cinematika` `MythoMist` `MPT` `Bloom` `RoBERTa large` `phi-2 ` `CatPPT` `Yi-34B-Llama` `deepseek` `SOLAR-10` `smol` `quantum-dpo-v0.1` `ShiningValiant`  |  `Claude v2.1` `GPT-4`  `GPT-3.5` `Claude Instant v1` `PaLM 2` `Cohere` `Grok-1` `Gemini-Pro` `Inflection-2` | For a more exhaustive list and detailed information, refer to the [LLMs Overview](https://github.com/mshojaei77/Awesome-AI/wiki/Text-Models-(LLMs)) |
+| **Text to Image Models** | `Stable Diffusion XL` `playground-v2-1024px-aesthetic` `SDXL fine-tunes` `Imagen` `DeepFloyd IF` `DALL-E 2` `Deep Daze` `CogView` | `DALL-E 3` `Midjourney-v5` `Adobe Firefly`  |
+| **Text to Video Models** | `Imagen Video Creator`  `ModelScope Text-to-Video` `VideoGPT` `CogVideo` `ModelScope Text-to-Video` `Text2Video-Zero`  | `Gen-2` `AI Studio by Meta` `Pika` `CogVideo` `NUWA` `Make-A-Video` `Phenaki `  |
+| **Text to Audio Models** | `meta/musicgen` `riffusion``suno-ai/bark``tortoise-tts` `styletts2` `looptest` ` XLSR-53` `wav2vec2` | `Jukebox` `IBM Watson Text to Speech` `Google's Text-to-Speech` `Amazon Polly` `Microsoft Azure Text to Speech` |
+|  **Text to 3D Models** | `adirik/dreamgaussian` |
+| **Image to Text Models** | `llava-13b` `blip` `methexis-inc/img2prompt``daanelson/minigpt-4``owlvit-base-patch32` | `GPT-4 Vision` |
+| **Image to Image Models** | `high-resolution-controlnet-tile` `yan-ops/face_swap` `jagilley/controlnet-scribble` `tencentarc/gfpgan` |  |  |
+| **Image to Video Models** | `lucataco/magic-animate` `stable-video-diffusion` |
+|  **Image to 3D Models** | `adirik/dreamgaussian` |
