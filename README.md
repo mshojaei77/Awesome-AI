@@ -47,6 +47,7 @@ Here are the missing links for the tools you mentioned:
 | **Autonomous AI** | `AutoGPT`  `BabyAgi`  `Jarvis (Microsoft)`  `CamelAGI`  `AgentRunner AI`  `Godmode`  `MetaGPT`  `SuperAGI`  `Camel AI`  `Multi-GPT` |
 | **API** | [`Replicate`](https://replicate.com/explore) `OpenAI API`  `Anthropic API`  `Hugging Face API`  `Chai API`  `Stability AI` |
 | **Github projects** | [`Gpt4Free`](https://github.com/xtekky/gpt4free) `Copilot AI`  `Code Llama`  `DreamFusion 3D`  `FaceFusion`  `AutoGPT`  `DragGAN`  `StableLM`  `StableStudio`  `Sketch`  `StyleCLIP`|
+| Productivity Tools | [`Kognitium`](https://kognitium.com) |
 
 ## 📌Others
 | Category | Top Picks |
