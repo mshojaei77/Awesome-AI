@@ -61,7 +61,7 @@ Here are the missing links for the tools you mentioned:
 | **Social media** | `PimEyes`  `Adcreative AI`  `Piggy To`  `Predict AI`  `Opus Clip`  `Thumbnail AI`  `Post AI`  `Morise AI`  `TwitterBio`  `Taplio` |
 | **Games** | `Ai Dungeon`  `TTSLabs`  `CAPTURELAB`  `AI Puzzles`  `Booom.ai`  `Inworld`  `Hidden Door`  `GGPredict`  `Human or Not?`  `ChessGPT` |
 | **Extensions** | `GPTs list`  `Ordinary People Prompts`  `GPTGO`  `Merlin`  `FlowGPT`  `ECommerce Prompt Generator`  `ChatGPT Plugins`  `Stunning AI`  `ChatGPT Android`  `Harpa AI` |
-| **Others** | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E` |
+| **Others** | `Notion AI`  `Faraday.dev`  `AI Trip Planner`  `Upscale.media`  `AI Social Bio`  `ELI5`  `Deepl`  `IdeasAI`  `TextGPT`  `Elsa Speak`  `PimEyes`  `Interior AI`  `FakeYou`  `Outfits AI`  `Tattoos AI`  `Recipes By AI`  `Playphrase.me`  `Celebrity Voice Changer AI`  `AI HairStyles`  `Dumm-E` `HammerAI` |
 
 # 💡 AI Models
 | Category | Open Source | Closed Source | Overview |
