@@ -2,7 +2,7 @@
 
 Greetings, AI enthusiasts! 🤖 Whether you're a seasoned developer or just dipping your toes into the vast world of artificial intelligence, you've landed at the ultimate hub for all things AI. I've carefully curated this resource repository to cater to your curiosity and passion for generative AI technology. Let's embark on an exciting journey together!
 
-⚠️ This list is for 2023 snd NOT up-to-date
+⚠️ This list is for 2023 and NOT up-to-date, for recent AI Trends and tools follow me on x (twitter)
 
 
 ## 📝 Text
